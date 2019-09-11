@@ -6,3 +6,9 @@ header:
   # - titles:
   #     en: &EN       About
   #   url: /about.html
+
+home-side:
+  - title: Constitution
+    children:
+      - title: Super Constitution
+        url: /misc/constitution.html

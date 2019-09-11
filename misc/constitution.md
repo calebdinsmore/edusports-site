@@ -12,13 +12,9 @@ aside:
 
 The commissioner of the EduSports Fantasy Football League ("ESFFL") will be responsible for running the day-to-day operations of the ESFFL and ensuring a smooth, fair, and fun league experience.
 
-### Current Commissioner
+### Section 2 - Current Commissioner
 
 Caleb Dinsmore
-
-(951) 816-7362
-
-calebjdinsmore@gmail.com
 
 # Article II - League Entry and Other Fees
 
@@ -214,7 +210,79 @@ If an owner has more than one roster slot open with no viable substitutions avai
 - Second offense: owner's team will receive 0 points for the week and a loss.
 - Third offense and up: possible expulsion from the league at commissioner's discretion.
 
-# Article IX - Creating New League Rules
+# Article IX - Scoring
+
+This article specifies scoring rules for both sides of the field. See Article X Section 2 for instructions on making changes to this article.
+
+### Section 1 - Passing
+
+| Stat             |     Score      |
+| ---------------- | :------------: |
+| Passing Yards    | +0.04 per yard |
+| Passing TD       |       +4       |
+| 2-pt Conversion  |       +2       |
+| Pass Intercepted |       -1       |
+
+### Section 2 - Rushing
+
+| Stat            |     Score     |
+| --------------- | :-----------: |
+| Rushing Yards   | +0.1 per yard |
+| Rushing TD      |      +6       |
+| 2-pt Conversion |      +2       |
+
+### Section 3 - Receiving
+
+| Stat            |     Score     |
+| --------------- | :-----------: |
+| Reception       |     +0.50     |
+| Receiving Yards | +0.1 per yard |
+| Receiving TD    |      +6       |
+| 2-pt Conversion |      +2       |
+
+### Section 4 - Kicking
+
+| Stat                  | Score |
+| --------------------- | :---: |
+| FG Made (0-39 yards)  |  +3   |
+| FG Made (40-49 yards) |  +4   |
+| FG Made (50+ yards)   |  +5   |
+| PAT Made              |  +1   |
+| FG Missed             |  -1   |
+| PAT Missed            |  -1   |
+
+### Section 5 - Special Teams Player
+
+| Stat                          | Score |
+| ----------------------------- | :---: |
+| Special Teams TD              |  +6   |
+| Special Teams Forced Fumble   |  +1   |
+| Special Teams Fumble Recovery |  +1   |
+
+### Section 6 - Misc
+
+| Stat        | Score |
+| ----------- | :---: |
+| Fumble      |  -1   |
+| Fumble Lost |  -2   |
+
+### Section 7 - IDP
+
+| Stat                     | Score |
+| ------------------------ | :---: |
+| IDP TD                   |  +6   |
+| Sack                     |  +4   |
+| Tackle For Loss          |  +3   |
+| Blocked Punt, PAT, or FG |  +6   |
+| Interception             |  +6   |
+| Fumble Recovery          |  +2   |
+| Forced Fumble            |  +4   |
+| Safety                   |  +10  |
+| Assisted Tackle          | +0.5  |
+| Solo Tackle              |  +1   |
+| Pass Defended            |  +1   |
+
+# Article X - Creating New League Rules
 
 ### Section 1 - Disputes
 
@@ -236,4 +304,15 @@ In order for a proposed change to pass, the motion must be approved by a two-thi
 
 ### Section 4 - Other Changes
 
-Any other changes not detailed above may be proposed at any time. At the Commissioner's discretion, a vote may be held for a proposed change, and any changes to this Constitution deemed necessary by the majority ruling of that vote will be made, and the league will be made aware of them.
+Any other changes not detailed above may be proposed at any time. The process for proposing and passing a change is as follows:
+
+- Any owner may make a motion at any time to amend this Constitution.
+- Another owner must second the motion.
+- The Commissioner must approve the motion and begin the voting process.
+  - The Commissioner may veto a motion to amend the Constitution. This veto may be overturned if one-third of the league is in favor of moving forward (4/12 owners). If four owners make known their approval of the motion, the Commissioner is compelled to move forward.
+- The Commissioner will open a poll to the rest of the league within the Slack channel.
+  - This poll will have a set voting period of seven days.
+
+Amendments to the Constitution must be passed by a two-thirds supermajority vote (8/12 votes in favor). Exceptions to this rule are the following:
+
+- Scoring (changes must be approved unanimously)
