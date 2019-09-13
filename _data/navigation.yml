@@ -2,6 +2,12 @@ header:
   - titles:
       en: &EN       Constitution
     url: /misc/constitution.html
+  - titles:
+      en: &EN Current Standings
+    url: /misc/standings.html
+  - titles:
+      en: &EN Title Belt
+    url: /misc/title-belt-history.html
 
   # - titles:
   #     en: &EN       About
