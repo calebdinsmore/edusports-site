@@ -2,6 +2,7 @@
 layout: article
 title: Week 2 Newsletter
 tags: 2019
+comment: true
 ---
 
 ## Owner of the Week
