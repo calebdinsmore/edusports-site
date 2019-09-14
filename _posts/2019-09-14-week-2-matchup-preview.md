@@ -2,6 +2,7 @@
 layout: article
 title: Week 2 Matchup Preview
 tags: 2019 preview
+key: week-2-preview-2019-09-14
 ---
 
 More football! Life has meaning!
