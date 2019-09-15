@@ -40,18 +40,18 @@ Here are some definitions for some potentially obscure columns.
 
 | TEAM NAME           | POWER RANK | CHANGE | RECORD | OVERALL WINS | PPG         | R.O.S. ROSTER |
 | ------------------- | ---------- | ------ | ------ | ------------ | ----------- | ------------- |
-| speed-demons        | #1         | 7      | 1-0    | 10-1         | #2, 200ppg  | #1            |
-| Bling Bling         | #2         | 1      | 1-0    | 8-3          | #4, 175ppg  | #3            |
-| Pegasus             | #3         | 7      | 1-0    | 11-0         | #1, 226ppg  | #9            |
+| speed-demons        | #1         | 7      | 1-0    | 10-1         | #2, 201ppg  | #1            |
+| Bling Bling         | #2         | 1      | 1-0    | 8-3          | #4, 177ppg  | #3            |
+| Pegasus             | #3         | 7      | 1-0    | 11-0         | #1, 227ppg  | #9            |
 | Kali Warriors       | #4         | -3     | 1-0    | 5-6          | #7, 167ppg  | #2            |
-| Tricksters          | #5         | -3     | 1-0    | 7-4          | #5, 172ppg  | #8            |
-| Lucky               | #6         | 1      | 0-1    | 9-2          | #3, 193ppg  | #6            |
+| Tricksters          | #5         | -3     | 1-0    | 7-4          | #5, 175ppg  | #8            |
+| Lucky               | #6         | 1      | 0-1    | 9-2          | #3, 191ppg  | #6            |
 | Golden Eagles       | #7         | 5      | 1-0    | 6-5          | #6, 170ppg  | #11           |
-| Necessary Roughness | #8         | 1      | 0-1    | 3-8          | #9, 160ppg  | #5            |
-| Total Domination    | #9         | -5     | 0-1    | 2-9          | #10, 159ppg | #4            |
-| Winged Hussars      | #10        | -5     | 0-1    | 4-7          | #8, 162ppg  | #10           |
-| Detroit Wolverines  | #11        | -5     | 0-1    | 1-10         | #11, 151ppg | #7            |
-| Red Warriors        | #12        | -1     | 0-1    | 0-11         | #12, 138ppg | #12           |
+| Total Domination    | #8         | -4     | 0-1    | 4-7          | #8, 165ppg  | #4            |
+| Necessary Roughness | #9         | 0      | 0-1    | 2-9          | #10, 160ppg | #5            |
+| Detroit Wolverines  | #10        | -4     | 0-1    | 1-10         | #11, 151ppg | #7            |
+| Winged Hussars      | #11        | -6     | 0-1    | 3-8          | #9, 163ppg  | #10           |
+| Red Warriors        | #12        | -1     | 0-1    | 0-11         | #12, 139ppg | #12           |
 
 ### Power Rankings Over Time
 
@@ -70,7 +70,7 @@ Here are some definitions for some potentially obscure columns.
       {
         "borderColor": "#EAD79E",
         "fill": false,
-        "data":[4,4,9],
+        "data":[4,4,8],
         "label":"Total Domination"
       },
       {
@@ -94,7 +94,7 @@ Here are some definitions for some potentially obscure columns.
       {
         "borderColor": "#006B41",
         "fill": false,
-        "data":[9,9,8],
+        "data":[9,9,9],
         "label":"Necessary Roughness"
       },
       {
@@ -112,7 +112,7 @@ Here are some definitions for some potentially obscure columns.
       {
         "borderColor": "#B49483",
         "fill": false,
-        "data":[6,6,11],
+        "data":[6,6,10],
         "label":"Detroit Wolverines"
       },
       {
@@ -130,7 +130,7 @@ Here are some definitions for some potentially obscure columns.
       {
         "borderColor": "#620004",
         "fill": false,
-        "data":[5,5,10],
+        "data":[5,5,11],
         "label":"Winged Hussars"
       }
     ]
@@ -164,3 +164,31 @@ This table measures how "lucky" (or otherwise) your team is. It takes your **ove
 Hilariously enough, the unluckiest team this week/to date is Lucky. Despite scoring 20 points above the league average and putting up better points than 82% of their leaguemates, Lucky lost by playing the highest scoring team of the week.
 
 Feels bad man.
+
+---
+
+## Late Stat Correction Updates
+
+Sleeper had some late stat corrections come in that altered power rankings and luckiness for this week.
+
+### Power Ranking Changes
+
+- Total Domination
+  - #9 => #8
+- Necessary Roughness
+  - #8 => #9
+- Detroit Wolverines
+  - #11 => #10
+- Winged Hussars
+  - #10 => #11
+
+### Luckiness Changes
+
+The most noteworthy change here (and in PR) is to team overall records. Here are the changes to overall records:
+
+- Total Domination
+  - 2-9 => 4-7
+- Winged Hussars
+  - 4-7 => 3-8
+- Necessary Roughness
+  - 3-8 => 2-9

@@ -27,10 +27,10 @@ Divisions ordered by the sum of points scored by each team.
 
 | Rank | Division Name    | Points Scored |
 | ---- | ---------------- | ------------- |
-| 1    | High Flyers      | 558.90        |
-| 2    | The Resistance   | 532.10        |
-| 3    | Division By Zero | 518.80        |
-| 4    | Cerberus         | 463.80        |
+| 1    | High Flyers      | 559.40        |
+| 2    | The Resistance   | 536.10        |
+| 3    | Division By Zero | 518.52        |
+| 4    | Cerberus         | 471.26        |
 
 ## Team Standings
 
@@ -42,32 +42,32 @@ Divisions ordered by the sum of points scored by each team.
 
 | Rank | Team Name                                                                                                                | Record | Points For |
 | ---- | ------------------------------------------------------------------------------------------------------------------------ | ------ | ---------- |
-| 1    | Kali Warriors <img width="40px" src="/misc/assets/svg/belt.svg" /> <img width="20px" src="/misc/assets/svg/award.svg" /> | 1-0    | 166.76     |
-| 2    | Total Domination                                                                                                         | 0-1    | 158.80     |
-| 3    | Red Warriors                                                                                                             | 0-1    | 138.24     |
+| 1    | Kali Warriors <img width="40px" src="/misc/assets/svg/belt.svg" /> <img width="20px" src="/misc/assets/svg/award.svg" /> | 1-0    | 167.26     |
+| 2    | Total Domination                                                                                                         | 0-1    | 164.80     |
+| 3    | Red Warriors                                                                                                             | 0-1    | 139.20     |
 
 ### The Resistance
 
 | Rank | Team Name           | Record | Points For |
 | ---- | ------------------- | ------ | ---------- |
-| 1    | speed-demons        | 1-0    | 200.28     |
-| 2    | Tricksters          | 1-0    | 171.92     |
+| 1    | speed-demons        | 1-0    | 200.78     |
+| 2    | Tricksters          | 1-0    | 175.42     |
 | 3    | Necessary Roughness | 0-1    | 159.90     |
 
 ### Division by Zero
 
 | Rank | Team Name          | Record | Points For |
 | ---- | ------------------ | ------ | ---------- |
-| 1    | Bling Bling        | 1-0    | 174.66     |
-| 2    | Lucky              | 0-1    | 192.94     |
-| 3    | Detroit Wolverines | 0-1    | 151.20     |
+| 1    | Bling Bling        | 1-0    | 176.66     |
+| 2    | Lucky              | 0-1    | 190.94     |
+| 3    | Detroit Wolverines | 0-1    | 150.92     |
 
 ### High Flyers
 
 | Rank | Team Name      | Record | Points For |
 | ---- | -------------- | ------ | ---------- |
-| 1    | Pegasus        | 1-0    | 226.26     |
-| 2    | Golden Eagles  | 1-0    | 170.22     |
-| 3    | Winged Hussars | 0-1    | 162.42     |
+| 1    | Pegasus        | 1-0    | 226.76     |
+| 2    | Golden Eagles  | 1-0    | 169.72     |
+| 3    | Winged Hussars | 0-1    | 162.92     |
 
 
