@@ -49,7 +49,7 @@ Another example of collusion would be two owners agreeing to trade players in co
 
 These types of trades break the spirit of the game and hurt the experience, so they will not be tolerated.
 
-To overturn a trade, another owner in the league must petition the other owners and make a case for why a trade constitutes possible collusion or is so lopsided that it would severely impact parity. **Overturning trades should be very rare.** 
+To overturn a trade, another owner in the league must put forward a motion to overturn the trade and make a case for why a trade constitutes possible collusion or is so lopsided that it would severely impact parity. A motion must be seconded by another owner before a vote to overturn is held.
 
 Once the owners involved in the trade have made a defense for why the trade should stand, a vote will be held amongst the owners in the league. For a trade to be overturned, the following criteria must be met:
 
