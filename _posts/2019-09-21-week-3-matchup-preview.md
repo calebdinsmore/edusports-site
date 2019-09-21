@@ -13,7 +13,7 @@ It's the last week of the divisional games! Let's break 'em down.
 
 ![](/post-assets/2019-09-21/kali_speed.png){:.rounded.shadow}
 
-I think this is the week I lose the title belt. The Cowboys have a **VERY** good matchup against the hilariously bad Dolphins this week, and I wouldn't be surprised if both Zeke and Dak put up top 3 RB and QB performances, respectively. Thankfully I also have some skin in that game; Amari Cooper should help bridge that gap somewhat, and I'm hoping for some upside in Randall Cobb with Gallup currently out. But if the Cowboys get the commanding lead they're expected to get, Zeke should be given *lots* of opportunity.
+I think this is the week I lose the title belt. The Cowboys have a **VERY** good matchup against the hilariously bad Dolphins this week, and I wouldn't be surprised if both Zeke and Dak put up top 3 RB and QB performances, respectively. Thankfully I also have some skin in that game; Amari Cooper should help bridge that gap somewhat, and I'm hoping for some upside in Randall Cobb with Gallup currently out. But if the Cowboys get the commanding lead they're expected to get, Zeke should be given _lots_ of opportunity.
 
 | Team                                                               | Power Ranking  | Sleeper Win %    | FPros Win %        |
 | ------------------------------------------------------------------ | -------------- | ---------------- | ------------------ |
@@ -60,7 +60,7 @@ I see a lot of high point potential on Domination's side, and I'm just not as ex
 
 I don't think the projected point disparity does the gap in this matchup justice. The Tricksters have a frightening WR lineup, with two WR1s occupying the WR1 and WR2 spots (Nuk and Adams). Even though on paper Roughness has the better RB corps, we've seen that Josh Jacobs can pop off, and he's up against a MIN defense that showed signs of weakness against the run game last weak against GB. On the other side there's Kerryon Johnson who has looked solid but is facing an Eagles defense that has shown effectiveness against the run while being trash against the pass. In light of this, I think DET's game plan going into that game is going to be more focused on the pass than the run, and that could hurt Johnson's output.
 
-It's been a *rough* season so far for Necessary Roughness, and it's not showing signs of stopping.
+It's been a _rough_ season so far for Necessary Roughness, and it's not showing signs of stopping.
 
 | Team                | Power Ranking  | Sleeper Win %    | FPros Win %      |
 | ------------------- | -------------- | ---------------- | ---------------- |
@@ -79,6 +79,8 @@ There really isn't a lot to say here--Bling Bling has been a force to be reckone
 | ------------- | -------------- | ---------------- | ------------------ |
 | Golden Eagles | `9`{:.error}   | `20%`{:.error}   | `15.6%`{:.error}   |
 | Bling Bling   | `1`{:.success} | `80%`{:.success} | `84.4%`{:.success} |
+
+**Winner:** Bling Bling
 
 ## Detroit Wolverines vs. Not Lucky
 
