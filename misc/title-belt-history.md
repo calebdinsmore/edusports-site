@@ -15,7 +15,7 @@ aside:
   <div class="item__content">
     <div class="item__header">
       <h4>Kali Warriors (Caleb Dinsmore)</h4>
-      <p>Current Streak: 2</p>
+      <p>Current Streak: 3</p>
       <p>Last Owner: None</p>
     </div>
   </div>
@@ -45,3 +45,4 @@ Because I'm the Commissioner, and what I write on this website is law, I have ch
 | ------ | ---- | -------------- |
 | 2018   | 16   | Caleb Dinsmore |
 | 2019   | 1    | Caleb Dinsmore |
+| 2019   | 2    | Caleb Dinsmore |
