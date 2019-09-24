@@ -3,7 +3,7 @@ layout: article
 title: Week 2 Performance Rankings
 tags: 2019 performance-rankings
 key: week-2-performance-rankings-2019-09-17
-author: Josh Tiegland
+author: Josh Teigland
 ---
 
 We're two weeks into the season and teams are starting to get an idea of who they are. There's still enough time to save the season, so let's breakdown everyone's strengths and weaknesses.

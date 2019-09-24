@@ -3,7 +3,7 @@ layout: article
 title: Week 3 Performance Rankings
 tags: 2019 performance-rankings
 key: week-3-performance-rankings-2019-09-24
-author: Josh Tiegland
+author: Josh Teigland
 ---
 
 After three weeks, the rankings are starting to solidify giving us a better picture of everyone's strengths and weaknesses. Still, there was a lot of movement at some positions this week, and there's still time for teams to make significant changes. Let's dive in.
