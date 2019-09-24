@@ -3,6 +3,7 @@ layout: article
 title: Week 3 Matchup Preview
 tags: 2019 preview
 key: week-3-preview-2019-09-21
+author: Caleb Dinsmore
 ---
 
 It's the last week of the divisional games! Let's break 'em down.

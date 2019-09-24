@@ -3,6 +3,7 @@ layout: article
 title: Week 2 Newsletter
 tags: 2019
 key: newsletter-2019-09-11
+author: Caleb Dinsmore
 ---
 
 ## Owner of the Week
