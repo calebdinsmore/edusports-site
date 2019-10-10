@@ -229,14 +229,15 @@ This week didn't see any dramatic changes in rank--just some light jostling amon
 ```
 
 Interesting notes on this chart:
-- The speed-demons have had the most erratic trajectory so far, starting the season at 8, rocketing to 1, and then slowly meandering back down to 7.
-- Pegasus has seen the most dramatic turn-around in power ranking from the start of the season to present, beginning the season at #10, rocketing up to #3, and cementing at #2, where they've sat for the past 3 weeks.
+
+-   The speed-demons have had the most erratic trajectory so far, starting the season at 8, rocketing to 1, and then slowly meandering back down to 7.
+-   Pegasus has seen the most dramatic turn-around in power ranking from the start of the season to present, beginning the season at #10, rocketing up to #3, and cementing at #2, where they've sat for the past 3 weeks.
 
 ## Team-by-Team Breakdown
 
 ### Bling Bling (1)
 
-There really isn't much to say here that hasn't been said. This team is incredibly dominant. Their biggest struggles lie at the QB position--I mean, the owner is streaming Devlin Hodges, which I think says it all. Of course, does Bling Bling *really* need a QB?
+There really isn't much to say here that hasn't been said. This team is incredibly dominant. Their biggest struggles lie at the QB position--I mean, the owner is streaming Devlin Hodges, which I think says it all. Of course, does Bling Bling _really_ need a QB?
 
 ### Pegasus (2)
 
@@ -245,8 +246,6 @@ Even though Pegasus sits at #2, they aren't really close to jostling Bling Bling
 Pegasus sits atop their division fairly comfortably--their closest competition is the Golden Eagles, which don't quite pose a threat yet.
 
 ### Not Lucky (3)
-
-
 
 ---
 
