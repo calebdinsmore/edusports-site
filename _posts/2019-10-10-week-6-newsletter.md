@@ -2,7 +2,7 @@
 layout: article
 title: Week 6 Newsletter
 tags: 2019 power-rankings newsletter
-key: newsletter-2019-10-09
+key: newsletter-2019-10-10
 author: Caleb Dinsmore
 ---
 
@@ -237,9 +237,17 @@ Interesting notes on this chart:
 
 ### Bling Bling (1)
 
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 5-0    | 1             | 49-6         | 969.18     | 193.84 |
+
 There really isn't much to say here that hasn't been said. This team is incredibly dominant. Their biggest struggles lie at the QB position--I mean, the owner is streaming Devlin Hodges, which I think says it all. Of course, does Bling Bling _really_ need a QB?
 
 ### Pegasus (2)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 4-1    | 1             | 40-15        | 940.26     | 188.05 |
 
 Even though Pegasus sits at #2, they aren't really close to jostling Bling Bling for the #1 spot. The gap between Bling Bling and his competition in terms of overall power at the moment is pretty wide.
 
@@ -247,10 +255,113 @@ Pegasus sits atop their division fairly comfortably--their closest competition i
 
 ### Not Lucky (3)
 
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 3-2    | 2             | 37-18        | 954.96     | 190.99 |
+
+After starting the year with an unfortunate 0-2 record, Not Lucky has been on a rampage, recording three wins in the past three weeks. While their schedule hasn't been entirely unfair (their actual win percentage of 60% only differs from their overall win percentage of 67% by 7%), with a bit more luck they would have been 4-1 by now. 
+
+The only team in the top 3 not winning their division, they trail Bling Bling by 2 games. However, if their current level of performance holds, they should be an easy lock for either of the wild card spots.
+
+### Kali Warriors (4)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 3-2    | 1             | 36-19        | 886.80     | 177.36 |
+
+After the Big 3, the Kali Warriors lead the tier I've taken to thinking of as the "above average tier" which includes the teams in power ranking positions 4-6.
+
+The Kali Warriors currently lead their low-winning and low-scoring division, but that could change in a single game with Total domination nipping at their heels. They should win this next week's game, but anything could happen.
+
+### Tricksters (5)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 3-2    | 1             | 32-23        | 869.86     | 173.97 |
+
+The Tricksters epitomize the "above average" tier. They've quietly put up consistently good games but haven't done anything extraordinary. They lead their division, but despite being a game ahead of the speed-demons, their hold on the number 1 spot could change in a single week if the scoring disparity is wide enough. This is especially true this week since the speed-demons have the easiest possible matchup against the #12 team, the Red Warriors.
+
+### Total domination (6)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 3-2    | 2             | 27-28        | 834.82     | 166.96 |
+
+Total domination lived up to their name last week, putting up an incredible showing in one of the highest-scoring fantasy football weeks in recent memory.
+
+While they lived up to their name last week, the same can't be said for the season to date; with a very average overall win record and a PPG that is .03 below the league average, Total domination will need to show serious improvement in the next few weeks or make some aggressive moves if they truly want to totally dominate the league.
+
+### speed-demons (7)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 2-3    | 2             | 25-30        | 831.42     | 166.28 |
+
+After their first week's impressive 200+ point showing, the speed-demons have steadily declined performance-wise and now sit at #7 in these rankings. They trail the Tricksters in their division by a win and about 38 points, so they're far from out of the running. However, they've got some work to do if they hope to be a viable contender ROS.
+
+This week they face the Red Warriors, though, so for now they can just sit back and relax.
+
+### Golden Eagles (8)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 3-2    | 2             | 22-33        | 796.68     | 159.34 |
+
+The Golden Eagles are the last of the more feasible contenders in these rankings. Their performance for most of the season has been lackluster, but before Week 5 they made some significant moves which paid off with a 208.46-point performance. They have stiff competition in the High Flyers division against Pegasus, who leads them by a win and 143.58 points.
+
+There's still plenty of season left--we'll have to see if the Golden Eagles can rise (er--soar) to the occasion.
+
+### Winged Hussars (9)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 1-4    | 3             | 22-33        | 785.44     | 157.09 |
+
+It's been a tough year for the Hussars. Even though it's only Week 5 and there is time for them to turn things around, they've started to go into more of a rebuilding mode, selling players for picks and positioning themselves to come out of next year's draft in a better place.
+
+Sad to see, but they can't all fly high, I suppose.
+
+### Detroit Wolverines (10)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 1-4    | 3             | 17-38        | 757.26     | 151.45 |
+
+The Wolverines find themselves in a very competitive division with two powerhouses (Bling Bling and Not Lucky). I really don't see them making any kind of push for a playoff spot given their performance to date and points for.
+
+### Necessary Roughness (11)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 1-4    | 3             | 14-41        | 748.98     | 149.80 |
+
+Feels bad when you win your first game but still go down in the power rankings. 😜
+
+Among the 1-4 teams, Necessary Roughness stands the best chance of making a playoff run. It's still slim, but the leader of their division, the Tricksters, are only 3-2. That's far less of a gap than the Wolverines or the Hussars have (we'll get to the Red Warriors).
+
+Roughness's only shot at playoff glory will be toppling the Tricksters, though--with the points they've scored so far and the other teams out there, a wild card spot probably isn't in the cards.
+
+### Red Warriors (12)
+
+| Record | Division Rank | Overall Wins | Points For | PPG    |
+| ------ | ------------- | ------------ | ---------- | ------ |
+| 1-4    | 3             | 9-46         | 644.02     | 128.80 |
+
+Oof. The Red Warriors sit at the bottom of these standings for the second week in a row, and I have to think they'll make themselves at home here.
+
+They put up the first sub-100-point performance last week, and they are the only team with single-digit wins overall. The Warriors should be in full rebuild mode at this point, and they appear to be, after selling OBJ this week.
+
+That said, they are technically only 2 games behind their division leader, the Kali Warriors. Toppling that team, though, will be difficult. I hear the owner's pretty good.
+
 ---
 
 ## Luck Chart
 
-![](/post-assets/2019-10-04/luck.png)
+![](/post-assets/2019-10-10/luck.png){:.rounded}
 
-This week the Golden Eagles take the crown as the luckiest team in the league. Based on the moves they're making, they're aiming to turn their good fortune into a 2019 playoff run. Looking forward to seeing how it pans out--wouldn't be the first time an Eagles team were underdogs and came out on top. 😉
+The Golden Eagles retain their position as the luckiest team in the league, and they're certainly taking advantage of it. Most of these percentages are negligible, though the Winged Hussars are probably feeling the sting at this point. With their overall win percentage, they should be 2-3.
+
+Not Lucky is slowly climbing his way back up from the depths of not-luckiness, so good on them!
+
+Anyway, on to the next week!
+

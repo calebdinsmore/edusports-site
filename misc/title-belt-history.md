@@ -15,7 +15,7 @@ aside:
   <div class="item__content">
     <div class="item__header">
       <h4>Not Lucky (Jason Beutler)</h4>
-      <p>Current Streak: 1</p>
+      <p>Current Streak: 2</p>
       <p>Last Owner: speed-demons</p>
     </div>
   </div>
@@ -48,3 +48,4 @@ Because I'm the Commissioner, and what I write on this website is law, I have ch
 | 2019   | 2    | Kali Warriors |
 | 2019   | 3    | speed-demons  |
 | 2019   | 4    | Not Lucky     |
+| 2019   | 5    | Not Lucky     |
