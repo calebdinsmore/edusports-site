@@ -187,7 +187,25 @@ Incoming rookies must be placed on the taxi squad prior to the start of the regu
 
 Players may only remain on the taxi squad for up to 3 years, after which point they must be activated or dropped.
 
-# Article VIII - Roster Regulations
+# Article VIII - Waivers
+
+### Section 1 - Waiver Type
+
+This league will use FAAB blind bidding to acquire players currently on waiver.
+
+### Section 2 - FAAB Amount
+
+Owners will be allotted $100 of FAAB at the start of the season to acquire players from waivers.
+
+### Section 3 - Post-game Waiver Clearance
+
+After the weekly games, players are put on waivers. Waivers clear and run on Wednesday @ 12:00AM Pacific time.
+
+### Section 4 - Post-drop Waiver Clearance
+
+When a player is dropped from a roster, that player is put on waivers for 2 days.
+
+# Article IX - Roster Regulations
 
 ### Section 1 - Mandatory Rostering
 
@@ -211,7 +229,7 @@ If an owner has more than one roster slot open with no viable substitutions avai
 -   Second offense: owner's team will receive 0 points for the week and a loss.
 -   Third offense and up: possible expulsion from the league at commissioner's discretion.
 
-# Article IX - Scoring
+# Article X - Scoring
 
 This article specifies scoring rules for both sides of the field. See Article X Section 2 for instructions on making changes to this article.
 
@@ -283,7 +301,7 @@ This article specifies scoring rules for both sides of the field. See Article X 
 | Solo Tackle              |  +1   |
 | Pass Defended            |  +1   |
 
-# Article X - Creating New League Rules
+# Article XII - Creating New League Rules
 
 ### Section 1 - Disputes
 
@@ -317,3 +335,5 @@ Any other changes not detailed above may be proposed at any time. The process fo
 Amendments to the Constitution must be passed by a two-thirds supermajority vote (8/12 votes in favor). Exceptions to this rule are the following:
 
 -   Scoring (changes must be approved unanimously)
+
+
