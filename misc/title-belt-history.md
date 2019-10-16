@@ -14,9 +14,9 @@ aside:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Not Lucky (Jason Beutler)</h4>
-      <p>Current Streak: 2</p>
-      <p>Last Owner: speed-demons</p>
+      <h4>Total domination</h4>
+      <p>Current Streak: 1</p>
+      <p>Last Owner: Not Lucky</p>
     </div>
   </div>
 </div>
@@ -35,17 +35,14 @@ Nope! But does any of this, really?
 
 This is just a fun thing to add an extra bit of interest in regular matchups during the regular season.
 
-### Who starts with it?
-
-Because I'm the Commissioner, and what I write on this website is law, I have chosen **myself** as the initial owner of the Title Belt. I won the championship in the redraft last year, so I figure it makes sense.
-
 ## Belt History
 
-| Season | Week | Title Holder  |
-| ------ | ---- | ------------- |
-| 2018   | 16   | Kali Warriors |
-| 2019   | 1    | Kali Warriors |
-| 2019   | 2    | Kali Warriors |
-| 2019   | 3    | speed-demons  |
-| 2019   | 4    | Not Lucky     |
-| 2019   | 5    | Not Lucky     |
+| Season | Week | Title Holder     |
+| ------ | ---- | ---------------- |
+| 2018   | 16   | Kali Warriors    |
+| 2019   | 1    | Kali Warriors    |
+| 2019   | 2    | Kali Warriors    |
+| 2019   | 3    | speed-demons     |
+| 2019   | 4    | Not Lucky        |
+| 2019   | 5    | Not Lucky        |
+| 2019   | 5    | Total domination |
