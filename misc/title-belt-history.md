@@ -15,8 +15,9 @@ aside:
   <div class="item__content">
     <div class="item__header">
       <h4>Total domination</h4>
-      <p>Current Streak: 1</p>
+      <p>Current Streak: 2</p>
       <p>Last Owner: Not Lucky</p>
+      <p>Next Opponent: <strong>Bling Bling</strong></p>
     </div>
   </div>
 </div>
@@ -45,4 +46,5 @@ This is just a fun thing to add an extra bit of interest in regular matchups dur
 | 2019   | 3    | speed-demons     |
 | 2019   | 4    | Not Lucky        |
 | 2019   | 5    | Not Lucky        |
-| 2019   | 5    | Total domination |
+| 2019   | 6    | Total domination |
+| 2019   | 7    | Total domination |
