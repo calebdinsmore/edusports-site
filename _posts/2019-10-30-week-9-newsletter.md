@@ -353,7 +353,9 @@ The Red Warriors have managed to barely pull themselves out of the depths of #12
 }
 ```
 
-Not a ton of movement in ROS rankings this week.
+### Observations
+
+- Not Lucky has continued to sink, dropping to their lowest ROS Roster ranking of the season at #10. This largely comes as a result of Ekeler's diminished performance in the wake of Gordon's return (despite looking like a much better back for the Chargers), as well as Coleman's return hurting Breida's ROS outlook.
 
 ## Team-by-Team Breakdown
 
@@ -361,73 +363,65 @@ Not a ton of movement in ROS rankings this week.
 
 | Team Name   | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ----------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Bling Bling | 6-1    | 1             | 60-17        | 1274.50    | 182.07 | 18.88              |
+| Bling Bling | 7-1    | 1             | 71-17        | 1511.30    | 188.91 | 24.85              |
 
-After a surprise upset, Bling Bling has lost their status as the lone remaining undefeated team. They still hold a comfortable lead over the other teams in Division by Zero, but there's still plenty of time for that to change.
+Bling Bling is just unfair. Their Week 8 starting QB was Teddy Bridgewater, a guy who didn't even start and ended up putting up negative points, and Bling Bling _still_ put up 200+ points and had the highest score for the week--second highest score in the league on the season.
 
-This week they're up against Total domination, a team that might not have been too intimidating earlier in the season but that is on a hot streak of wins, averaging 179 PPG over the last three games. Bling Bling is favored to win, but I wouldn't be shocked at another upset this week.
+Bling Bling plays the speed-demons this week, and I'm fairly confident it'll be another W for BB.
 
 ### Kali Warriors (2)
 
 | Team Name     | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Kali Warriors | 4-3    | 2             | 49-28        | 1204.60    | 172.09 | 8.90               |
+| Kali Warriors | 5-3    | 1             | 59-29        | 1417.90    | 177.24 | 13.17              |
 
-The Kali Warriors suffered a blow in Week 6 when they got the victory snatched from them by stat corrections in another surprise upset by Necessary Roughness. This loss resulted in the Kali Warriors losing the divisional lead to up-and-comer Total domination.
-
-They bounced back some last week and still remain fully in contention for a playoff berth, though. This coming week is the first week they'll have both Saquon Barkley and CMC in the starting lineup, which they'll need going up against Not Lucky.
+After a decisive victory over the declining Not Lucky, the Kali Warriors are back on top of their division. Total domination is nipping at their heels, but the Warriors have a significant Points For margin ahead of TD. As long as the Warriors can keep up the wins, they should be able to make it out ahead of TD in the division. But fantasy is a cruel mistress, and a couple unfortunate upsets could turn the tables really quickly.
 
 ### Tricksters (3)
 
 | Team Name  | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ---------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Tricksters | 4-3    | 1             | 47-30        | 1193.22    | 170.46 | 7.27               |
+| Tricksters | 4-4    | 1             | 53-35        | 1364.38    | 170.55 | 6.48               |
 
-After a strong start, the Tricksters have only won two of the last five games. This is worrisome for them given that their division, The Resistance, looks like the division most vulnerable to shake-ups right now. The trailing teams in the division (speed-demons and Necessary Roughness) are each only one game behind the Tricksters.
+In a fun turn of events, the entire Resistance division is 4-4, and among mediocrity, the Tricksters reign supreme. Theirs is a very fun division to watch--the division title is easily within every member's grasp. At this point, though, given their performance to date, it's difficult to see anyone taking the division title over the Tricksters when all is said and done.
 
-The Tricksters are looking to maintain their lead with a win this week, which is looking like a difficult proposition given their matchup against the revitalized Detroit Wolverines.
+This week the Tricksters face an easy matchup against the Winged Hussars, while the speed-demons and Necessary Roughness face much tougher foes: Bling Bling and Not Lucky, respectively. A key upset this week would put either divisional rival in a good position in the race for Resistance glory.
 
-### Not Lucky (4)
+### Detroit Wolverines (4)
 
-| Team Name | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| --------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Not Lucky | 4-3    | 2             | 47-30        | 1265.10    | 180.73 | 17.54              |
+| Team Name          | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
+| ------------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
+| Detroit Wolverines | 4-4    | 3             | 45-43        | 1325.24    | 165.66 | 1.59               |
 
-Not Lucky has been very up-and-down this season, seemingly bouncing between two extremes (notice that Not Lucky is ranked #11 in consistency in the power ranking table).
+What a turnaround for the Wolverines. In weeks 3 and 4, they were ranked dead last and were looking like the worst team in the league. Over the past few weeks they have been dominant, notching up 43 overall wins, which is the second in the league for that time frame.
 
-They currently don't have much to worry about in terms of obtaining a playoff seed; if they don't get the 5th seed based on record, they have a comfortable margin between themselves and the next team in PF (60.5 points).
+The unfortunate part for the Wolverines is that their only real hope at a playoff berth is securing a wild card seed. The Division by Zero title is all but secured in the hands of Bling Bling. As they ascend the Points For ranks, that 6th seed is looking more and more attainable, and there is a decent chance that every member of Division by Zero makes it into the playoffs.
 
 ### Total domination (5)
 
 | Team Name        | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ---------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Total domination | 5-2    | 1             | 40-37        | 1170.00    | 167.14 | 3.95               |
+| Total domination | 5-3    | 2             | 42-46        | 1304.10    | 163.01 | -1.05              |
 
-Total domination is on fire. They're on a 4-game win-streak and secured the division lead after their division mate's last-minute upset against Necessary Roughness last week.
+Total domination's win streak came to an end in Week 8, as they lost to Bling Bling pretty handily. Bad luck can't really be blamed for the loss either, as their Week 8 overall win record was a sad `2-9`.
 
-This week they face their greatest threat in opponent Bling Bling. Bling has looked unstoppable for most of the season, but last week they were exposed after getting destroyed by underdog Necessary Roughness. Last week Bling Bling had a pretty poor showing, putting up 144.12 points, which is lower than the lowest score Total domination has put up so far this season (149.62 in Week 2).
-
-Total domination can definitely beat Bling Bling this week, but they'll need to do a little more than the very average-to-above-average performances they've done so far to ensure a victory.
+This week is looking up for them, though, as they face Pegasus, a team that hasn't looked formidable since Week 4. However, they'll need the Golden Eagles to pull out an upset against the Kali Warriors this week if they want to get back on top of the division.
 
 ### speed-demons (6)
 
 | Team Name    | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| speed-demons | 3-4    | 2             | 41-36        | 1175.60    | 167.94 | 4.75               |
+| speed-demons | 4-4    | 2             | 46-42        | 1337.36    | 167.17 | 3.10               |
 
-The playoff race between the speed-demons and the Tricksters is a tight one. The speed-demons, like Total domination, have been pretty average/slightly above average so far.
+The speed-demons have had a very average season so far, and fortunately for them, so has their division. They're the most immediate threat to the Tricksters' divisional lead, and as the trade deadline appears over the horizon, it might be time to decide whether to make a move and commit to contention or to let the chips fall how they may.
 
-This week they face Pegasus, a team that has recently looked very easily beatable. They're looking for an easy W, which should position them nicely if the Tricksters lose their tough matchup this week.
+### Necessary Roughness (7)
 
-### Pegasus (7)
+| Team Name           | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
+| ------------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
+| Necessary Roughness | 4-4    | 3             | 41-47        | 1310.76    | 163.85 | -0.22              |
 
-| Team Name | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| --------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Pegasus   | 4-3    | 1             | 41-36        | 1173.22    | 167.60 | 4.41               |
-
-Oof--what a rough couple of weeks for Pegasus. In two straight weeks, they've put up bottom-2 performances, exposing some of the depth issues in their roster. Since Week 4, Pegasus's ROS Roster ranking hasn't moved from #6, and we might be seeing why. As the Golden Eagles seek to take their playoff spot, Pegasus might want to think about making some savvy moves to maintain their tenuous lead.
-
-Pegasus's wings might be made of wax; they certainly seem to be plummeting after flying too close to the sun.
+At #7, Necessary Roughness is at the highest point in the power rankings
 
 ### Detroit Wolverines (8)
 

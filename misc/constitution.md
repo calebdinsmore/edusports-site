@@ -166,6 +166,7 @@ Each team's roster will consist of the following positions:
 -   2 WR
 -   2 RB
 -   2 FLEX (WR/RB/TE)
+-   1 TE
 -   1 K
 -   2 DL
 -   2 LB
