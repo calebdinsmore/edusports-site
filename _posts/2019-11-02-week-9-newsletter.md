@@ -6,7 +6,7 @@ key: newsletter-2019-10-30
 author: Caleb Dinsmore
 ---
 
-With just five weeks left in the fantasy regular season, there is still so much that can change before the playoffs. Let's see how the teams are stacking up!
+Sorry for the late newsletter--I added a pretty significant section that took some time to put together. Let's get into it!
 
 <!--more-->
 
@@ -27,8 +27,6 @@ If the playoff seeds were calculated today, here's who would make the cut.
 
 \*Ties broken by **Points For**.
 
-
-
 ### Title Belt - New Belt Holder!
 
 **Total domination** has `LOST`{:.error} the title belt to **Bling Bling** after losing their Week 8 matchup!
@@ -43,7 +41,6 @@ If the playoff seeds were calculated today, here's who would make the cut.
 | 2    | Cerberus         | 3764.54    | 13   | 156.86      |
 | 3    | The Resistance   | 4012.50    | 12   | 167.19      |
 | 4    | High Flyers      | 3719.88    | 8    | 155.00      |
-
 
 ### Overall Wins by Week
 
@@ -116,7 +113,6 @@ Pegasus falls three places in Points For after their third consecutive week fini
 | 10   | Winged Hussars      | 1174.24    | 1585.04 | 74.08%        | -1     |
 | 11   | Detroit Wolverines  | 1325.24    | 1791.56 | 73.97%        | 1      |
 | 12   | Red Warriors        | 1042.54    | 1415.22 | 73.67%        | -1     |
-
 
 ---
 
@@ -244,12 +240,13 @@ Pegasus falls three places in Points For after their third consecutive week fini
 ### Observations
 
 Two significant shake-ups happened after Week 8:
-- The Detroit Wolverines and Not Lucky switched places, with the Wolverines rocketing up 4 places to #4 and Not Lucky plummeting back down 4 places to #8.
-- Less dramatically, Necessary Roughness and Pegasus also switched places, with Necessary Roughness climbing 2 places to #7 and Pegasus dropping 2 down to #9.
+
+-   The Detroit Wolverines and Not Lucky switched places, with the Wolverines rocketing up 4 places to #4 and Not Lucky plummeting back down 4 places to #8.
+-   Less dramatically, Necessary Roughness and Pegasus also switched places, with Necessary Roughness climbing 2 places to #7 and Pegasus dropping 2 down to #9.
 
 Adding to that, Not Lucky and Pegasus are the first top-7 team since Week 5 to drop below #7. It's definitely been a rocky past few weeks for them.
 
-The Red Warriors have managed to barely pull themselves out of the depths of #12--and I mean barely. The difference between the Warriors and the Hussars in terms of the score I calculate to determine PR is _very_ small. They've managed this mostly by luck; despite their 130PPG and only getting **_seven_** overall wins in the last five weeks, they did manage to defy the odds and get two *actual* wins in that time frame, putting their record at an improbable 3-5. The Hussars have just barely managed to do worse than them, which at least bodes well for their 2020 draft position!
+The Red Warriors have managed to barely pull themselves out of the depths of #12--and I mean barely. The difference between the Warriors and the Hussars in terms of the score I calculate to determine PR is _very_ small. They've managed this mostly by luck; despite their 130PPG and only getting **_seven_** overall wins in the last five weeks, they did manage to defy the odds and get two _actual_ wins in that time frame, putting their record at an improbable 3-5. The Hussars have just barely managed to do worse than them, which at least bodes well for their 2020 draft position!
 
 ## ROS Roster Rankings Over Time
 
@@ -355,7 +352,135 @@ The Red Warriors have managed to barely pull themselves out of the depths of #12
 
 ### Observations
 
-- Not Lucky has continued to sink, dropping to their lowest ROS Roster ranking of the season at #10. This largely comes as a result of Ekeler's diminished performance in the wake of Gordon's return (despite looking like a much better back for the Chargers), as well as Coleman's return hurting Breida's ROS outlook.
+-   Not Lucky has continued to sink, dropping to their lowest ROS Roster ranking of the season at #10. This largely comes as a result of Ekeler's diminished performance in the wake of Gordon's return (despite looking like a much better back for the Chargers), as well as Coleman's return hurting Breida's ROS outlook.
+
+## Playoff Probabilities - New Segment!
+
+This week I cooked up a script to simulate the rest of the regular season to give a rough idea of everyone's odds at making a playoff run given their upcoming Weeks 9-13 schedule.
+
+### Methodology
+
+I took the upcoming schedule and ran it through a Monte Carlo simulation, simulating 100,000 different regular season outcomes.
+
+It's not sophisticated; it doesn't factor in upcoming BYE weeks or consider the different matchups players on each roster have that might produce extraordinary games.
+
+Here's what it does right now:
+
+-   Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
+    -   I'm truncating the scores by removing each team's lowest and highest score from the mean.
+-   Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
+-   After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
+
+Since it doesn't take future BYE weeks into account that would potentially factor into future upsets, it's obviously not a perfect simulation. But it **does** give you an idea for how difficult your coming schedule is.
+
+### Probability Table
+
+Ordered by probability.
+
+| Team                | 1      | 2      | 3      | 4      | 5      | 6      | Probability of Playoff Berth |
+| ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ---------------------------- |
+| Bling Bling         | 98.41% | 1.42%  | 0.07%  | 0.00%  | 0.10%  | 0.01%  | 100.00%                      |
+| Kali Warriors       | 1.44%  | 69.74% | 9.86%  | 0.77%  | 8.15%  | 7.37%  | 97.33%                       |
+| Not Lucky           | 0.04%  | 0.04%  | 0.00%  | 0.00%  | 36.96% | 58.02% | 95.06%                       |
+| Tricksters          | 0.01%  | 11.59% | 53.00% | 6.92%  | 1.96%  | 9.45%  | 82.92%                       |
+| Pegasus             | 0.00%  | 2.31%  | 9.75%  | 70.58% | 0.01%  | 0.02%  | 82.67%                       |
+| Total Domination    | 0.09%  | 11.58% | 5.90%  | 0.62%  | 21.57% | 0.15%  | 39.91%                       |
+| Detroit Wolverines  | 0.01%  | 0.01%  | 0.01%  | 0.00%  | 23.77% | 16.08% | 39.88%                       |
+| speed-demons        | 0.00%  | 1.65%  | 12.22% | 2.69%  | 3.70%  | 7.78%  | 28.04%                       |
+| Golden Eagles       | 0.00%  | 0.08%  | 0.36%  | 16.88% | 0.02%  | 0.01%  | 17.35%                       |
+| Necessary Roughness | 0.00%  | 1.59%  | 8.83%  | 1.49%  | 3.76%  | 1.11%  | 16.79%                       |
+| Winged Hussars      | 0.00%  | 0.00%  | 0.00%  | 0.04%  | 0.00%  | 0.00%  | 0.04%                        |
+| Red Warriors        | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%                        |
+
+### Week 9 Matchups
+
+| Team 1                  | Team 2                 |
+| ----------------------- | ---------------------- |
+| **Kali Warriors**       | **Golden Eagles**      |
+| 78.87%                  | 21.13%                 |
+| **Red Warriors**        | **Detroit Wolverines** |
+| 2.74%                   | 97.27%                 |
+| **Total Domination**    | **Pegasus**            |
+| 52.40%                  | 47.60%                 |
+| **Winged Hussars**      | **Tricksters**         |
+| 5.84%                   | 94.17%                 |
+| **speed-demons**        | **Bling Bling**        |
+| 15.07%                  | 84.94%                 |
+| **Necessary Roughness** | **Not Lucky**          |
+| 34.56%                  | 65.44%                 |
+
+### Week 10 Matchups
+
+| Team 1                  | Team 2                 |
+| ----------------------- | ---------------------- |
+| **Kali Warriors**       | **Detroit Wolverines** |
+| 57.49%                  | 42.51%                 |
+| **Red Warriors**        | **Bling Bling**        |
+| 0.21%                   | 99.79%                 |
+| **Golden Eagles**       | **Total Domination**   |
+| 38.26%                  | 61.74%                 |
+| **Tricksters**          | **Not Lucky**          |
+| 50.88%                  | 49.12%                 |
+| **Winged Hussars**      | **speed-demons**       |
+| 16.76%                  | 83.24%                 |
+| **Necessary Roughness** | **Pegasus**            |
+| 54.53%                  | 45.47%                 |
+
+### Week 11 Matchups
+
+| Team 1            | Team 2                  |
+| ----------------- | ----------------------- |
+| **Kali Warriors** | **Total Domination**    |
+| 77.48%            | 22.52%                  |
+| **Red Warriors**  | **Not Lucky**           |
+| 2.21%             | 97.80%                  |
+| **Bling Bling**   | **Detroit Wolverines**  |
+| 75.45%            | 24.55%                  |
+| **Tricksters**    | **Pegasus**             |
+| 66.43%            | 33.57%                  |
+| **speed-demons**  | **Necessary Roughness** |
+| 54.91%            | 45.10%                  |
+| **Golden Eagles** | **Winged Hussars**      |
+| 61.00%            | 39.00%                  |
+
+### Week 12 Matchups
+
+| Team 1               | Team 2                  |
+| -------------------- | ----------------------- |
+| **Kali Warriors**    | **Red Warriors**        |
+| 98.70%               | 1.30%                   |
+| **Total Domination** | **Detroit Wolverines**  |
+| 31.06%               | 68.94%                  |
+| **speed-demons**     | **Tricksters**          |
+| 34.13%               | 65.87%                  |
+| **Winged Hussars**   | **Necessary Roughness** |
+| 21.04%               | 78.96%                  |
+| **Bling Bling**      | **Not Lucky**           |
+| 74.85%               | 25.15%                  |
+| **Golden Eagles**    | **Pegasus**             |
+| 44.19%               | 55.82%                  |
+
+### Week 13 Matchups
+
+| Team 1                 | Team 2                  |
+| ---------------------- | ----------------------- |
+| **Kali Warriors**      | **Bling Bling**         |
+| 30.45%                 | 69.55%                  |
+| **Total Domination**   | **Red Warriors**        |
+| 98.08%                 | 1.92%                   |
+| **Tricksters**         | **Necessary Roughness** |
+| 70.17%                 | 29.84%                  |
+| **Golden Eagles**      | **speed-demons**        |
+| 32.45%                 | 67.55%                  |
+| **Detroit Wolverines** | **Not Lucky**           |
+| 48.79%                 | 51.21%                  |
+| **Winged Hussars**     | **Pegasus**             |
+| 35.30%                 | 64.70%                  |
+
+### Observations
+
+-   Pegasus is favored to take the High Flyers division, but it'll be interesting to see how that actually plays out. Their early success is obviously a big factor in their simulated success, so we'll have to see if they manage to get back on their feet for the home stretch. Looking at their upcoming schedule, the deciding matchup will likely be their face-off against each other in Week 12, assuming they both win against the Hussars (good assumption) and lose their tougher matchups (GE vs. KW and PEG vs. TRIC).
+-   Division by Zero is going to be really interesting to watch. Bling Bling and Not Lucky are both projected to easily make the playoffs, and the Detroit Wolverines aren't ruled out either--they currently sit at around a 40% chance to make it in via a wild card seed. If they can pull off an upset against the Kali Warriors in Week 10 or against their division rivals in Weeks 11 and 13, that'll be huge for their chances.
 
 ## Team-by-Team Breakdown
 
@@ -421,75 +546,56 @@ The speed-demons have had a very average season so far, and fortunately for them
 | ------------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
 | Necessary Roughness | 4-4    | 3             | 41-47        | 1310.76    | 163.85 | -0.22              |
 
-At #7, Necessary Roughness is at the highest point in the power rankings
+At #7, Necessary Roughness is at their highest point in the power rankings all season.
 
-### Detroit Wolverines (8)
+Their outlook this season is bleak, sitting at a 16.79% chance to make the playoffs. They'll need to make some key upsets in order to secure the divisional title, so it's time for them to take stock of their situation and either make moves to better their odds or start looking to the future and crossing their fingers for some lucky breaks.
 
-| Team Name          | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Detroit Wolverines | 3-4    | 3             | 36-41        | 1129.98    | 161.43 | -1.76              |
+### Not Lucky (8)
 
->Don't call it a comeback.
+| Team Name | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
+| --------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
+| Not Lucky | 4-4    | 2             | 50-38        | 1416.78    | 177.10 | 13.03              |
 
-\- Aaron Cannon, Detroit Wolverines owner. Also LL Cool J
+It's been so up-and-down for Not Lucky this season. At #8, they're at the lowest point they've been so far.
 
-...No. What a comeback!
+Their overall team performance and points scored on the season puts them in a great position to secure a playoff run, but their consistency as of late has been all over the place. With some crucial BYEs coming up (Fournette, Lockett, etc.), there's some real worry for Not Lucky moving forward, especially with the Wolverines quickly approaching from behind.
 
-After sitting at #12 in the Power Rankings in Weeks 3 and 4, the Wolverines have slowly but steadily climbed the rankings after a string of impressive performances. Their PPG the past 4 weeks is 184.12, and they show no sign of slowing down. I fully expect to see them even higher up next week.
+### Pegasus (9)
 
-### Necessary Roughness (9)
+| Team Name | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
+| --------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
+| Pegasus   | 4-4    | 1             | 42-46        | 1297.20    | 162.15 | -1.91              |
 
-| Team Name           | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Necessary Roughness | 3-4    | 3             | 33-44        | 1119.50    | 159.93 | -3.26              |
-
-After weeks of bouncing between #10 and #11 in PR, Necessary Roughness has broken out of that depressing cycle and made it to #9!
-
-They put up the highest score of the week last week, following up their great Week 6 performance nicely. A playoff berth still looks like a longshot, but their outlook looks a lot better than it did a couple weeks ago.
+Pegasus has continued to decline this week, dropping two more places to #9. They have a tenuous hold on their division, but fortunately for them, their division is incredibly weak. They've suffered some depth issues with injuries and BYEs, so hopefully the for them the worst has passed. If so, they have a good chance at a playoff berth. How far they get in the playoffs is another matter entirely.
 
 ### Golden Eagles (10)
 
 | Team Name     | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Golden Eagles | 3-4    | 2             | 28-49        | 1058.26    | 151.18 | -12.01             |
+| Golden Eagles | 3-5    | 2             | 35-53        | 1248.44    | 156.06 | -8.01              |
 
-It's been a tough year for the Golden Eagles. They've sought to capitalize on some of their fortunate victories, but so far that effort hasn't yet translated into consistent success.
+The Golden Eagles have an uphill battle to the playoffs. It's a shallow hill, but it's uphill nonetheless. They've shown flashes of greatness but have been pretty inconsistent. If they hope to secure a playoff berth, they'll need a few more flashes of greatness.
 
-The good news for them is that their roster seems to have the potential (what with a 250+ max PF this past week or something ridiculous like that). The difficulty, as is always the case in fantasy, comes in picking which players to start.
-
-I'm interested to see how this week shakes out against the recently formidable Necessary Roughness. They're only a game behind their division leader Pegasus, a team who seems to be crumbling right now, so clinching the division is still well within the realm of possibility for GE.
-
-### Winged Hussars (11)
-
-| Team Name      | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| -------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Winged Hussars | 1-6    | 3             | 28-49        | 1053.30    | 150.47 | -12.72             |
-
-The Winged Hussars' involuntary tanking is going well--they hold the #11 spot in these rankings despite holding the worst record in the league.
-
-After Patrick Mahomes awful injury in last week's TNF game, the Hussars' outlook looks bleaker than ever; on the plus side, however, it's looking like Mahomes won't be out long. Whether an earlier return will translate into better times for the Hussars, though, is looking pretty unlikely.
-
-It doesn't look good for the Hussars' playoff hopes, but being in the High Flyers, the weakest division in the league, means they still have a shot.
-
-### Red Warriors (12)
+### Red Warriors (11)
 
 | Team Name    | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
 | ------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Red Warriors | 2-5    | 3             | 12-65        | 890.56     | 127.22 | -35.97             |
+| Red Warriors | 3-5    | 3             | 16-72        | 1042.54    | 130.32 | -33.75             |
 
-The Red Warriors got their second win last week against High Flyers division leader Pegasus! What an upset.
+Red Warriors? More like Rebuild Warriors amirite
 
-\#TrustTheProcess
+### Winged Hussars (12)
+
+| Team Name      | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
+| -------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
+| Winged Hussars | 1-7    | 3             | 28-60        | 1174.24    | 146.78 | -17.29             |
+
+Winged Hussars? More like the Miami Dolphins amirite
 
 ---
 
 ## Luck Chart
 
-![](/post-assets/2019-10-25/luck.png){:.rounded}
+![](/post-assets/2019-11-02/luck.png){:.rounded}
 
-Total domination's string of recent successes seems to have been aided at least mildly by luck, while the Winged Hussars continue to hold the crown for unluckiest team so far.
-
-Necessary Roughness is right where they should be. There's something so satisfying about seeing 33-44 in Total Record and 3-4 in Actual Record.
-
-On to the next week!
-
+At this point are the Winged Hussars really _unlucky_? Being at the bottom of the league bodes well for next year's draft!
