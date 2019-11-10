@@ -2,7 +2,7 @@
 layout: article
 title: Week 10 Newsletter
 tags: 2019 power-rankings newsletter
-key: newsletter-2019-10-30
+key: newsletter-2019-11-09
 author: Caleb Dinsmore
 ---
 
@@ -98,7 +98,6 @@ Only movement in Points For this week was the Detroit Wolverines scoring just en
 | 10   | Pegasus             | 1750.04 |
 | 11   | Total Domination    | 1716.10 |
 | 12   | Red Warriors        | 1619.44 |
-
 
 ### Manager Ranking
 
@@ -372,7 +371,8 @@ Since it doesn't take future BYE weeks into account that would potentially facto
 Ordered by probability.
 
 Quick note:
-- **Change** is the change in each team's Playoff Chance compared to when this was run last week.
+
+-   **Change** is the change in each team's Playoff Chance compared to when this was run last week.
 
 | Team                | 1      | 2      | 3      | 4      | 5      | 6      | Playoff Chance | Change              |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | -------------- | ------------------- |
@@ -391,10 +391,10 @@ Quick note:
 
 #### Observations
 
-- After losing a favored matchup against Pegasus, Total domination's chances at a playoff run dropped significantly. Without enough points to contend for the #6 wild card spot, their best shot is looking to be the 5th seed, which is itself unlikely.
-- On the other side, after a well-timed upset, Pegasus is looking good on top of their very poorly performing division. The 4th seed is looking well within their grasp.
-- I find it hilarious that despite the Winged Hussars being 1-8, they still have a .02% chance at winning their division. They would need to win the next four games, and Pegasus would need to lose the next four games for that to happen.
-- The Detroit Wolverines and the speed-demons will be the most interesting to watch these next four weeks; their playoff chances seem the most up-in-the-air.
+-   After losing a favored matchup against Pegasus, Total domination's chances at a playoff run dropped significantly. Without enough points to contend for the #6 wild card spot, their best shot is looking to be the 5th seed, which is itself unlikely.
+-   On the other side, after a well-timed upset, Pegasus is looking good on top of their very poorly performing division. The 4th seed is looking well within their grasp.
+-   I find it hilarious that despite the Winged Hussars being 1-8, they still have a .02% chance at winning their division. They would need to win the next four games, and Pegasus would need to lose the next four games for that to happen.
+-   The Detroit Wolverines and the speed-demons will be the most interesting to watch these next four weeks; their playoff chances seem the most up-in-the-air.
 
 ### Week 10 Matchups
 
@@ -463,121 +463,3 @@ Quick note:
 | 49.83%                 | 50.17%                  |
 | **Winged Hussars**     | **Pegasus**             |
 | 39.07%                 | 60.93%                  |
-
-## Team-by-Team Breakdown
-
-### Kali Warriors (1)
-
-| Team Name   | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ----------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Bling Bling | 7-1    | 1             | 71-17        | 1511.30    | 188.91 | 24.85              |
-
-Bling Bling is just unfair. Their Week 8 starting QB was Teddy Bridgewater, a guy who didn't even start and ended up putting up negative points, and Bling Bling _still_ put up 200+ points and had the highest score for the week--second highest score in the league on the season.
-
-Bling Bling plays the speed-demons this week, and I'm fairly confident it'll be another W for BB.
-
-### Kali Warriors (2)
-
-| Team Name     | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Kali Warriors | 5-3    | 1             | 59-29        | 1417.90    | 177.24 | 13.17              |
-
-After a decisive victory over the declining Not Lucky, the Kali Warriors are back on top of their division. Total domination is nipping at their heels, but the Warriors have a significant Points For margin ahead of TD. As long as the Warriors can keep up the wins, they should be able to make it out ahead of TD in the division. But fantasy is a cruel mistress, and a couple unfortunate upsets could turn the tables really quickly.
-
-### Tricksters (3)
-
-| Team Name  | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ---------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Tricksters | 4-4    | 1             | 53-35        | 1364.38    | 170.55 | 6.48               |
-
-In a fun turn of events, the entire Resistance division is 4-4, and among mediocrity, the Tricksters reign supreme. Theirs is a very fun division to watch--the division title is easily within every member's grasp. At this point, though, given their performance to date, it's difficult to see anyone taking the division title over the Tricksters when all is said and done.
-
-This week the Tricksters face an easy matchup against the Winged Hussars, while the speed-demons and Necessary Roughness face much tougher foes: Bling Bling and Not Lucky, respectively. A key upset this week would put either divisional rival in a good position in the race for Resistance glory.
-
-### Detroit Wolverines (4)
-
-| Team Name          | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Detroit Wolverines | 4-4    | 3             | 45-43        | 1325.24    | 165.66 | 1.59               |
-
-What a turnaround for the Wolverines. In weeks 3 and 4, they were ranked dead last and were looking like the worst team in the league. Over the past few weeks they have been dominant, notching up 43 overall wins, which is the second in the league for that time frame.
-
-The unfortunate part for the Wolverines is that their only real hope at a playoff berth is securing a wild card seed. The Division by Zero title is all but secured in the hands of Bling Bling. As they ascend the Points For ranks, that 6th seed is looking more and more attainable, and there is a decent chance that every member of Division by Zero makes it into the playoffs.
-
-### Total domination (5)
-
-| Team Name        | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ---------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Total domination | 5-3    | 2             | 42-46        | 1304.10    | 163.01 | -1.05              |
-
-Total domination's win streak came to an end in Week 8, as they lost to Bling Bling pretty handily. Bad luck can't really be blamed for the loss either, as their Week 8 overall win record was a sad `2-9`.
-
-This week is looking up for them, though, as they face Pegasus, a team that hasn't looked formidable since Week 4. However, they'll need the Golden Eagles to pull out an upset against the Kali Warriors this week if they want to get back on top of the division.
-
-### speed-demons (6)
-
-| Team Name    | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| speed-demons | 4-4    | 2             | 46-42        | 1337.36    | 167.17 | 3.10               |
-
-The speed-demons have had a very average season so far, and fortunately for them, so has their division. They're the most immediate threat to the Tricksters' divisional lead, and as the trade deadline appears over the horizon, it might be time to decide whether to make a move and commit to contention or to let the chips fall how they may.
-
-### Necessary Roughness (7)
-
-| Team Name           | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Necessary Roughness | 4-4    | 3             | 41-47        | 1310.76    | 163.85 | -0.22              |
-
-At #7, Necessary Roughness is at their highest point in the power rankings all season.
-
-Their outlook this season is bleak, sitting at a 16.79% chance to make the playoffs. They'll need to make some key upsets in order to secure the divisional title, so it's time for them to take stock of their situation and either make moves to better their odds or start looking to the future and crossing their fingers for some lucky breaks.
-
-### Not Lucky (8)
-
-| Team Name | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| --------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Not Lucky | 4-4    | 2             | 50-38        | 1416.78    | 177.10 | 13.03              |
-
-It's been so up-and-down for Not Lucky this season. At #8, they're at the lowest point they've been so far.
-
-Their overall team performance and points scored on the season puts them in a great position to secure a playoff run, but their consistency as of late has been all over the place. With some crucial BYEs coming up (Fournette, Lockett, etc.), there's some real worry for Not Lucky moving forward, especially with the Wolverines quickly approaching from behind.
-
-### Pegasus (9)
-
-| Team Name | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| --------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Pegasus   | 4-4    | 1             | 42-46        | 1297.20    | 162.15 | -1.91              |
-
-Pegasus has continued to decline this week, dropping two more places to #9. They have a tenuous hold on their division, but fortunately for them, their division is incredibly weak. They've suffered some depth issues with injuries and BYEs, so hopefully the for them the worst has passed. If so, they have a good chance at a playoff berth. How far they get in the playoffs is another matter entirely.
-
-### Golden Eagles (10)
-
-| Team Name     | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Golden Eagles | 3-5    | 2             | 35-53        | 1248.44    | 156.06 | -8.01              |
-
-The Golden Eagles have an uphill battle to the playoffs. It's a shallow hill, but it's uphill nonetheless. They've shown flashes of greatness but have been pretty inconsistent. If they hope to secure a playoff berth, they'll need a few more flashes of greatness.
-
-### Red Warriors (11)
-
-| Team Name    | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| ------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Red Warriors | 3-5    | 3             | 16-72        | 1042.54    | 130.32 | -33.75             |
-
-Red Warriors? More like Rebuild Warriors amirite
-
-### Winged Hussars (12)
-
-| Team Name      | Record | Division Rank | Overall Wins | Points For | PPG    | PPG vs. League AVG |
-| -------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
-| Winged Hussars | 1-7    | 3             | 28-60        | 1174.24    | 146.78 | -17.29             |
-
-Winged Hussars? More like the Miami Dolphins amirite
-
----
-
-## Luck Chart
-
-![](/post-assets/2019-11-02/luck.png){:.rounded}
-
-At this point are the Winged Hussars really _unlucky_? Being at the bottom of the league bodes well for next year's draft!
