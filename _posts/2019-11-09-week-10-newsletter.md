@@ -6,7 +6,7 @@ key: newsletter-2019-11-09
 author: Caleb Dinsmore
 ---
 
-It's a big week for the league!
+It's a big week for the league! Make moves while you still can.
 
 <!--more-->
 
