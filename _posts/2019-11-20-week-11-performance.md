@@ -3,6 +3,7 @@ layout: article
 title: Week 11 Performance Rankings
 tags: 2019 performance-rankings
 key: week-11-performance-rankings-2019-19-13
+author: Josh Teigland
 ---
 
 It's the first week of division rivalry games pt. 2, and things got a little spicy. Let's see if the performance rankings can help us predict who will make it into the playoffs.

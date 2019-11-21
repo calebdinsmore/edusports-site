@@ -15,7 +15,7 @@ aside:
   <div class="item__content">
     <div class="item__header">
       <h4>speed-demons</h4>
-      <p>Current Streak: 1</p>
+      <p>Current Streak: 3</p>
       <p>Last Owner: Bling Bling</p>
       <p>Next Opponent: <strong>Winged Hussars</strong></p>
     </div>
@@ -50,3 +50,5 @@ This is just a fun thing to add an extra bit of interest in regular matchups dur
 | 2019   | 7    | Total domination |
 | 2019   | 8    | Bling Bling      |
 | 2019   | 9    | speed-demons     |
+| 2019   | 10   | speed-demons     |
+| 2019   | 11   | speed-demons     |

@@ -6,18 +6,23 @@ aside:
   toc: true
 ---
 
+| LEGEND         |                                    |
+| -------------- | ---------------------------------- |
+| `D`{:.success} | Clinched divisional seed           |
+| `E`{:.error}   | Eliminated from playoff contention |
+
 ## Current Playoff Seeds
 
 If the playoff seeds were calculated today, here's who would make the cut.
 
-| Seed | Team Name        | Criteria                                  |
-| ---- | ---------------- | ----------------------------------------- |
-| 1st  | Bling Bling      | Division winner with best record\*        |
-| 2nd  | Total domination | Division winner with second-best record\* |
-| 3rd  | Tricksters       | Division winner with third-best record\*  |
-| 4th  | Pegasus          | Division winner with worst record\*       |
-| 5th  | Not Lucky        | Team with best record among remaining\*   |
-| 6th  | Kali Warriors    | Team with most points for among remaining |
+| Seed | Team Name              | Criteria                                  |
+| ---- | ---------------------- | ----------------------------------------- |
+| 1st  | Bling Bling            | Division winner with best record\*        |
+| 2nd  | speed-demons           | Division winner with second-best record\* |
+| 3rd  | Pegasus `D`{:.success} | Division winner with third-best record\*  |
+| 4th  | Total domination       | Division winner with worst record\*       |
+| 5th  | Not Lucky              | Team with best record among remaining\*   |
+| 6th  | Kali Warriors          | Team with most points for among remaining |
 
 \*Ties broken by **Points For**.
 
@@ -27,43 +32,43 @@ Divisions ordered by the sum of points scored by each team.
 
 | Rank | Division Name    | Points For | Wins | Average PPG |
 | ---- | ---------------- | ---------- | ---- | ----------- |
-| 1    | Division By Zero | 3669.58    | 13   | 174.74      |
-| 2    | Cerberus         | 3265.16    | 11   | 155.48      |
-| 3    | The Resistance   | 3488.32    | 10   | 166.11      |
-| 4    | High Flyers      | 3284.78    | 8    | 156.42      |
+| 1    | Division By Zero | 5778.12    | 22   | 175.09      |
+| 2    | The Resistance   | 5465.38    | 16   | 165.62      |
+| 3    | Cerberus         | 5097.92    | 16   | 154.48      |
+| 4    | High Flyers      | 5102.24    | 12   | 154.61      |
 
 ## Team Standings
 
 ### Cerberus
 
-| Rank | Team Name        | Record | Points For |
-| ---- | ---------------- | ------ | ---------- |
-| 1    | Total Domination | 5-2    | 1170.00    |
-| 2    | Kali Warriors    | 4-3    | 1204.60    |
-| 3    | Red Warriors     | 2-5    | 890.56     |
+| Rank | Team Name                 | Record | Points For |
+| ---- | ------------------------- | ------ | ---------- |
+| 1    | Total Domination          | 7-4    | 1760.84    |
+| 2    | Kali Warriors             | 6-5    | 1912.70    |
+| 3    | Red Warriors `E`{:.error} | 3-8    | 1424.38    |
 
 ### The Resistance
 
-| Rank | Team Name           | Record | Points For |
-| ---- | ------------------- | ------ | ---------- |
-| 1    | Tricksters          | 4-3    | 1193.22    |
-| 2    | speed-demons        | 3-4    | 1175.60    |
-| 3    | Necessary Roughness | 3-4    | 1119.50    |
+| Rank | Team Name                        | Record | Points For |
+| ---- | -------------------------------- | ------ | ---------- |
+| 1    | speed-demons                     | 7-4    | 1854.28    |
+| 2    | Tricksters                       | 5-6    | 1869.48    |
+| 3    | Necessary Roughness `E`{:.error} | 4-7    | 1741.62    |
 
 ### Division by Zero
 
 | Rank | Team Name          | Record | Points For |
 | ---- | ------------------ | ------ | ---------- |
-| 1    | Bling Bling        | 6-1    | 1274.50    |
-| 2    | Not Lucky          | 4-3    | 1265.10    |
-| 3    | Detroit Wolverines | 3-4    | 1129.98    |
+| 1    | Bling Bling        | 8-3    | 1972.96    |
+| 2    | Not Lucky          | 7-4    | 1944.52    |
+| 3    | Detroit Wolverines | 7-4    | 1860.64    |
 
 ### High Flyers
 
-| Rank | Team Name      | Record | Points For |
-| ---- | -------------- | ------ | ---------- |
-| 1    | Pegasus        | 4-3    | 1173.22    |
-| 2    | Golden Eagles  | 3-4    | 1058.26    |
-| 3    | Winged Hussars | 1-6    | 1053.30    |
+| Rank | Team Name                   | Record | Points For |
+| ---- | --------------------------- | ------ | ---------- |
+| 1    | Pegasus `D`{:.success}      | 7-4    | 1831.86    |
+| 2    | Golden Eagles `E`{:.error}  | 3-8    | 1618.38    |
+| 3    | Winged Hussars `E`{:.error} | 2-9    | 1652.00    |
 
 
