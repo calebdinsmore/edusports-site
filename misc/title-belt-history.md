@@ -14,10 +14,10 @@ aside:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>speed-demons</h4>
-      <p>Current Streak: 3</p>
-      <p>Last Owner: Bling Bling</p>
-      <p>Next Opponent: <strong>Winged Hussars</strong></p>
+      <h4>Tricksters</h4>
+      <p>Current Streak: 5</p>
+      <p>Last Owner: speed-demons</p>
+      <p>Next Opponent: <strong>Necessary Roughness</strong></p>
     </div>
   </div>
 </div>
@@ -52,3 +52,8 @@ This is just a fun thing to add an extra bit of interest in regular matchups dur
 | 2019   | 9    | speed-demons     |
 | 2019   | 10   | speed-demons     |
 | 2019   | 11   | speed-demons     |
+| 2019   | 12   | Tricksters       |
+| 2019   | 13   | Tricksters       |
+| 2019   | 14   | Tricksters       |
+| 2019   | 15   | Tricksters       |
+| 2019   | 16   | Tricksters       |
