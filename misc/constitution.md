@@ -178,7 +178,11 @@ Therefore, active roster sizes will max out at 42 spots.
 
 ### Section 2 - Injured Reserve
 
-Each team will be allotted three IR spots, with suspensions counting as IR.
+Each team will be allotted three IR spots. Players must meet one of the following criteria to be eligible for IR:
+
+- The player has been suspended from the league.
+- The player is being quarantined in connection with COVID-19.
+- The player has not reported/opted out of the season.
 
 ### Section 3 - Taxi Squad
 
@@ -337,4 +341,8 @@ Amendments to the Constitution must be passed by a two-thirds supermajority vote
 
 -   Scoring (changes must be approved unanimously)
 
+# Article XIII - History of Amendments
 
+### September 8th, 2020
+
+- Amended **Article VII Section 2** to expand the criteria for IR eligibility to include circumstances surrounding COVID-19.
