@@ -5,12 +5,12 @@ titles:
 aside:
   toc: true
 ---
-<!-- 
+<!--
 | LEGEND         |                                    |
 | -------------- | ---------------------------------- |
 | `D`{:.success} | Clinched divisional seed           |
 | `E`{:.error}   | Eliminated from playoff contention |
---> 
+-->
 
 <!-- ## Current Playoff Seeds
 
@@ -23,7 +23,8 @@ If the playoff seeds were calculated today, here's who would make the cut.
 | 3rd  | Pegasus `D`{:.success} | Division winner with third-best record\*  |
 | 4th  | Total domination       | Division winner with worst record\*       |
 | 5th  | Not Lucky              | Team with best record among remaining\*   |
-| 6th  | Kali Warriors          | Team with most points for among remaining | --> |
+| 6th  | Kali Warriors          | Team with most points for among remaining |
+-->
 
 \*Ties broken by **Points For**.
 
