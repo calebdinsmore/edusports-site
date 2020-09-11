@@ -43,5 +43,45 @@ Based on FantasyPros' expert aggregator, here's how our teams stack up after the
 
 ## Matchup Preview
 
+### Kali Warriors vs. Red Warriors
 
+**Projected Winner**
 
+|               | Sleeper Win % | FantasyPros Win % |
+| ------------- | ------------- | ----------------- |
+| Kali Warriors | 93%           | 96.5%             |
+
+Last year, the Red Warriors played a key role in keeping Kali Warriors from a playoff berth in the home stretch of the season, so KW is out for revenge.
+
+### Total Domination vs. speed-demons
+
+**Projected Winner**
+
+|              | Sleeper Win % | FantasyPros Win % |
+| ------------ | ------------- | ----------------- |
+| speed-demons | 85%           | 80.9%             |
+
+Not much to say here. speed-demons are the favorites by a wide margin, and a win here would even the score between themselves and Total Domination.
+
+### Tricksters vs. Necessary Roughness (Title Belt Match)
+
+**Projected Winner**
+
+|            | Sleeper Win % | FantasyPros Win % |
+| ---------- | ------------- | ----------------- |
+| Tricksters | 78%           | 80.6%             |
+
+The reigning champs are undefeated against their division, and this week is looking to continue that streak (and the current longest Title Belt streak held by the Tricksters).
+
+### Bling Bling vs. Detroit Wolverines
+
+**Projected Winner**
+
+|                    | Sleeper Win % | FantasyPros Win % |
+| ------------------ | ------------- | ----------------- |
+| Bling Bling        | 59%           | 24.2%             |
+| Detroit Wolverines | 41%           | 75.8%             |
+
+Arguably _the_ rivalry in Division by Zero, this matchup could truly go either way. Both teams are very strong, and each of them has beaten the other once (in the regular season), for a 50% win-loss percentage. I'll be watching this closely to see who pulls out ahead in this bout of rivals.
+
+### Golden Eagles vs. Pegasus
