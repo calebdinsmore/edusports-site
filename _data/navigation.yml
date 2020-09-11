@@ -1,7 +1,7 @@
 header:
   - titles:
-      en: &EN Hall of Fame
-    url: /misc/hall-of-fame.html
+      en: &EN Records
+    url: /misc/records.html
   - titles:
       en: &EN Constitution
     url: /misc/constitution.html

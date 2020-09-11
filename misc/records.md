@@ -1,7 +1,7 @@
 ---
 layout: article
 titles:
-  en: &EN EduSports Hall of Fame
+  en: &EN EduSports Records
 aside:
   toc: true
 ---
