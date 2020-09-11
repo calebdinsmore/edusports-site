@@ -259,7 +259,7 @@ Pegasus sits atop their division fairly comfortably--their closest competition i
 | ------ | ------------- | ------------ | ---------- | ------ |
 | 3-2    | 2             | 37-18        | 954.96     | 190.99 |
 
-After starting the year with an unfortunate 0-2 record, Not Lucky has been on a rampage, recording three wins in the past three weeks. While their schedule hasn't been entirely unfair (their actual win percentage of 60% only differs from their overall win percentage of 67% by 7%), with a bit more luck they would have been 4-1 by now. 
+After starting the year with an unfortunate 0-2 record, Not Lucky has been on a rampage, recording three wins in the past three weeks. While their schedule hasn't been entirely unfair (their actual win percentage of 60% only differs from their overall win percentage of 67% by 7%), with a bit more luck they would have been 4-1 by now.
 
 The only team in the top 3 not winning their division, they trail Bling Bling by 2 games. However, if their current level of performance holds, they should be an easy lock for either of the wild card spots.
 
@@ -357,7 +357,7 @@ That said, they are technically only 2 games behind their division leader, the K
 
 ## Luck Chart
 
-![](/post-assets/2019-10-10/luck.png){:.rounded}
+![](/post-assets/2019/2019-10-10/luck.png){:.rounded}
 
 The Golden Eagles retain their position as the luckiest team in the league, and they're certainly taking advantage of it. Most of these percentages are negligible, though the Winged Hussars are probably feeling the sting at this point. With their overall win percentage, they should be 2-3.
 

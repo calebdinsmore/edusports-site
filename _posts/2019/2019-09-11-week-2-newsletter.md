@@ -143,7 +143,7 @@ Here are some definitions for some potentially obscure columns.
       }
     },
     "scales": {
-      "yAxes": [{ 
+      "yAxes": [{
           "stacked": false,
           "ticks": {
             "reverse": true,
@@ -158,7 +158,7 @@ Here are some definitions for some potentially obscure columns.
 
 ## Lucky/Unlucky Teams
 
-![](/post-assets/2019-09-11-week-1-recap/1-luck-chart.png){:.rounded}
+![](/post-assets/2019/2019-09-11-week-1-recap/1-luck-chart.png){:.rounded}
 
 This table measures how "lucky" (or otherwise) your team is. It takes your **overall** record (if you played every other team each week) and compares it with your **actual** record. A higher percentage in the **Difference** column indicates that your team was lucky to have the matchup it did, and a lower percentage indicates that your team was very unfortunate to have the matchup it did.
 

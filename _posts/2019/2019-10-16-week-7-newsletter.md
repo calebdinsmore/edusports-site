@@ -412,7 +412,7 @@ They play the Red Warriors this week, which should be a win for them, but I'm an
 
 Trailing the four division leaders is Total domination, a team that has managed to remain in contention despite only barely outscoring the league average (+0.3 points) and scoring in the bottom half of the league in 5 out of 6 weeks.
 
-They have the same record as their division leader the Kali Warriors, but they trail them in Points For by 70.4 points. It's a close race, and anything could happen. 
+They have the same record as their division leader the Kali Warriors, but they trail them in Points For by 70.4 points. It's a close race, and anything could happen.
 
 ### speed-demons (6)
 
@@ -486,7 +486,7 @@ Lastly, we have the Red Warriors. There isn't much to say about this team that h
 
 ## Luck Chart
 
-![](/post-assets/2019-10-16/luck.png){:.rounded}
+![](/post-assets/2019/2019-10-16/luck.png){:.rounded}
 
 This week's luckiest team is Total domination, with about 1 win more than their overall wins would suggest they deserve.
 

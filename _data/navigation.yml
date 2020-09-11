@@ -1,10 +1,13 @@
 header:
   - titles:
-      en: &EN       Constitution
-    url: /misc/constitution.html
+      en: &EN Hall of Fame
+    url: /misc/hall-of-fame.html
   - titles:
-      en: &EN Current Standings
-    url: /misc/standings.html
+      en: &EN Constitution
+    url: /misc/constitution.html
+  # - titles:
+  #     en: &EN Current Standings
+  #   url: /misc/standings.html
   - titles:
       en: &EN Title Belt
     url: /misc/title-belt-history.html

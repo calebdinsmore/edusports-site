@@ -12,7 +12,7 @@ It's the last week of the divisional games! Let's break 'em down.
 
 ## Title Belt Matchup - Kali Warriors vs. speed-demons
 
-![](/post-assets/2019-09-21/kali_speed.png){:.rounded.shadow}
+![](/post-assets/2019/2019-09-21/kali_speed.png){:.rounded.shadow}
 
 I think this is the week I lose the title belt. The Cowboys have a **VERY** good matchup against the hilariously bad Dolphins this week, and I wouldn't be surprised if both Zeke and Dak put up top 3 RB and QB performances, respectively. Thankfully I also have some skin in that game; Amari Cooper should help bridge that gap somewhat, and I'm hoping for some upside in Randall Cobb with Gallup currently out. But if the Cowboys get the commanding lead they're expected to get, Zeke should be given _lots_ of opportunity.
 
@@ -25,7 +25,7 @@ I think this is the week I lose the title belt. The Cowboys have a **VERY** good
 
 ## Matchup of the Week - Winged Hussars vs. Pegasus (Divisional)
 
-![](/post-assets/2019-09-21/winged_pegasus.png){:.rounded.shadow}
+![](/post-assets/2019/2019-09-21/winged_pegasus.png){:.rounded.shadow}
 
 Calling this matchup out as the most exciting matchup this week. It's a divisional matchup in the current highest scoring division in the league, and it's shaping up to be a pretty close fight.
 
@@ -42,7 +42,7 @@ Both Sleeper and FPros have this game pretty close, and it could truly go either
 
 ## Total Domination vs. Red Warriors (Divisional)
 
-![](/post-assets/2019-09-21/total_red.png){:.rounded.shadow}
+![](/post-assets/2019/2019-09-21/total_red.png){:.rounded.shadow}
 
 This game is fairly close, but I'm pretty sure Total Domination will come away with the win here. I think Sleeper's projection for Lev Bell is low, given that his volume is going to be through the roof as long as Darnold is out. Even if he doesn't find the end zone, if this week is anything like last week (when he got targeted 10 times through the air and rushed for 21 attempts), he'll put up points, or he'll be ground into the turf.
 
@@ -57,7 +57,7 @@ I see a lot of high point potential on Domination's side, and I'm just not as ex
 
 ## Tricksters vs. Necessary Roughness (Divisional)
 
-![](/post-assets/2019-09-21/tricksters_necessary.png){:.rounded.shadow}
+![](/post-assets/2019/2019-09-21/tricksters_necessary.png){:.rounded.shadow}
 
 I don't think the projected point disparity does the gap in this matchup justice. The Tricksters have a frightening WR lineup, with two WR1s occupying the WR1 and WR2 spots (Nuk and Adams). Even though on paper Roughness has the better RB corps, we've seen that Josh Jacobs can pop off, and he's up against a MIN defense that showed signs of weakness against the run game last weak against GB. On the other side there's Kerryon Johnson who has looked solid but is facing an Eagles defense that has shown effectiveness against the run while being trash against the pass. In light of this, I think DET's game plan going into that game is going to be more focused on the pass than the run, and that could hurt Johnson's output.
 
@@ -72,7 +72,7 @@ It's been a _rough_ season so far for Necessary Roughness, and it's not showing 
 
 ## Golden Eagles vs. Bling Bling
 
-![](/post-assets/2019-09-21/golden_bling.png){:.rounded.shadow}
+![](/post-assets/2019/2019-09-21/golden_bling.png){:.rounded.shadow}
 
 There really isn't a lot to say here--Bling Bling has been a force to be reckoned with so far this season, and it's not difficult to see why. Where he lacks in WR strength he makes up for in his utterly stacked roster of RBs. While this roster doesn't hold as much long-term value (season-over-season) as other rosters in this league, it certainly does the job in the here and now.
 
@@ -85,7 +85,7 @@ There really isn't a lot to say here--Bling Bling has been a force to be reckone
 
 ## Detroit Wolverines vs. Not Lucky
 
-![](/post-assets/2019-09-21/detroit_not.png){:.rounded.shadow}
+![](/post-assets/2019/2019-09-21/detroit_not.png){:.rounded.shadow}
 
 Yeah, looks bad. Before the TNF game the gap was already pretty wide, but with Not Lucky's DL Calais Campbell putting up a huge 31 points against the Titans, this game looks pretty much unwinnable for the Wolverines at this point.
 

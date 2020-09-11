@@ -245,8 +245,8 @@ The Golden Eagles left over 100 additional points on their bench last week, and 
 
 A few interesting observations about this chart this week:
 
-- There's this interesting separation between the top-6 and bottom-6 teams in the league. 
-  - If you were a top-6 team in Week 2, then you have not dropped below the top-7 yet this season. 
+- There's this interesting separation between the top-6 and bottom-6 teams in the league.
+  - If you were a top-6 team in Week 2, then you have not dropped below the top-7 yet this season.
   - The only bottom-6 team in Week 2 that has cracked the top-6 in weeks since is Total domination, a team that has been steadily climbing the ranks since Week 4.
   - Since Total domination cracked the top-6 in Week 6, three teams have taken turns being displaced to the #7 spot: speed-demons, Not Lucky, and Pegasus.
   - Pegasus and the Detroit Wolverines have been gradually converging on each other, and if their rates of descent and ascent continue, soon the Wolverines will be the second bottom-6 team to break into the top-6, as Pegasus plummets to the lower echelons.
@@ -492,7 +492,7 @@ The Red Warriors got their second win last week against High Flyers division lea
 
 ## Luck Chart
 
-![](/post-assets/2019-10-25/luck.png){:.rounded}
+![](/post-assets/2019/2019-10-25/luck.png){:.rounded}
 
 Total domination's string of recent successes seems to have been aided at least mildly by luck, while the Winged Hussars continue to hold the crown for unluckiest team so far.
 

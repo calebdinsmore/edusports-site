@@ -561,7 +561,7 @@ It doesn't look good, but as always, anything can happen!
 
 ## Luck Chart
 
-![](/post-assets/2019-11-21/luck.png){:.rounded}
+![](/post-assets/2019/2019-11-21/luck.png){:.rounded}
 
 This pretty much tracks with how team luck has felt. The Tricksters have gotten the short end of the stick in terms of luck; they lead the league in Points Against, and given their overall wins, their record _should_ be somewhere between 6 and 7 wins. Losing even one game unfairly really hurts them, since that one game is the difference between a more probable divisional title and missing the playoffs entirely.
 

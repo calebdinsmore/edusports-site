@@ -596,6 +596,6 @@ Winged Hussars? More like the Miami Dolphins amirite
 
 ## Luck Chart
 
-![](/post-assets/2019-11-02/luck.png){:.rounded}
+![](/post-assets/2019/2019-11-02/luck.png){:.rounded}
 
 At this point are the Winged Hussars really _unlucky_? Being at the bottom of the league bodes well for next year's draft!

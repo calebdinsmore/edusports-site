@@ -252,6 +252,6 @@ Yeah, the Warriors probably want to start looking to the future. Even though the
 
 ## Luck Chart
 
-![](/post-assets/2019-10-04/luck.png)
+![](/post-assets/2019/2019-10-04/luck.png)
 
 This week the Golden Eagles take the crown as the luckiest team in the league. Based on the moves they're making, they're aiming to turn their good fortune into a 2019 playoff run. Looking forward to seeing how it pans out--wouldn't be the first time an Eagles team were underdogs and came out on top. 😉
