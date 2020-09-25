@@ -58,13 +58,20 @@ aside:
 
 | Team       | Streak |
 | ---------- | ------ |
-| Tricksters | 5      |
+| Tricksters | 6      |
 
 ### Most Points Scored in a Single Game
 
 | Season | Team      | Score  |
 | ------ | --------- | ------ |
 | 2019   | Not Lucky | 263.32 |
+
+### Least Points Scored in a Single Game
+
+| Rank | Season | Team             | Score |
+| ---- | ------ | ---------------- | ----- |
+| 1    | 2020   | Total Domination | 83.3  |
+| 2    | 2019   | Red Warriors     | 91.18 |
 
 ---
 
