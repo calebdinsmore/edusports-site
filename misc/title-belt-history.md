@@ -1,9 +1,9 @@
 ---
 layout: article
 titles:
-    en: &EN Title Belt
+  en: &EN Title Belt
 aside:
-    toc: true
+  toc: true
 ---
 
 # Current Title Belt Holder
@@ -57,3 +57,5 @@ This is just a fun thing to add an extra bit of interest in regular matchups dur
 | 2019   | 14   | Tricksters       |
 | 2019   | 15   | Tricksters       |
 | 2019   | 16   | Tricksters       |
+| 2020   | 1    | Tricksters       |
+| 2020   | 2    | Kali Warriors    |
