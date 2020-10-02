@@ -14,10 +14,10 @@ aside:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Tricksters</h4>
-      <p>Current Streak: 5</p>
-      <p>Last Owner: speed-demons</p>
-      <p>Next Opponent: <strong>Necessary Roughness</strong></p>
+      <h4>Kali Warriors</h4>
+      <p>Current Streak: 2</p>
+      <p>Last Owner: Tricksters</p>
+      <p>Next Opponent: <strong>Golden Eagles</strong></p>
     </div>
   </div>
 </div>
@@ -59,3 +59,4 @@ This is just a fun thing to add an extra bit of interest in regular matchups dur
 | 2019   | 16   | Tricksters       |
 | 2020   | 1    | Tricksters       |
 | 2020   | 2    | Kali Warriors    |
+| 2020   | 3    | Kali Warriors    |
