@@ -5,6 +5,9 @@ header:
   - titles:
       en: &EN Constitution
     url: /misc/constitution.html
+  - titles:
+      en: &EN Executive Orders
+    url: /misc/executive-orders.html
   # - titles:
   #     en: &EN Current Standings
   #   url: /misc/standings.html

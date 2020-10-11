@@ -1,9 +1,9 @@
 ---
 layout: article
 titles:
-    en: &EN EduSports Fantasy Football League Constitution
+  en: &EN EduSports Fantasy Football League Constitution
 aside:
-    toc: true
+  toc: true
 ---
 
 # Article I - Commissioner
@@ -34,8 +34,8 @@ There is no review period for pending trades, so there is no standard process of
 
 However, there are some cases in which a trade may be overturned. The two causes for overturning a trade are as follows:
 
--   Collusion
--   Cases of extreme lopsided trades that suggest collusion
+- Collusion
+- Cases of extreme lopsided trades that suggest collusion
 
 Collusion is defined as:
 
@@ -53,9 +53,9 @@ To overturn a trade, another owner in the league must put forward a motion to ov
 
 Once the owners involved in the trade have made a defense for why the trade should stand, a vote will be held amongst the owners in the league. For a trade to be overturned, the following criteria must be met:
 
--   A two-thirds supermajority of the league must agree that the trade should be overturned
--   The commissioner has approved the motion
-    -   In cases when the commissioner is involved in the trade, this criterion need not be met.
+- A two-thirds supermajority of the league must agree that the trade should be overturned
+- The commissioner has approved the motion
+  - In cases when the commissioner is involved in the trade, this criterion need not be met.
 
 > It is worth emphasizing here that overturning trades should be a rare occurrence. Teams in a rebuild should be allowed to, for example, trade stud players away for future draft picks or future prospects.
 
@@ -75,8 +75,8 @@ For the inaugural year of the league, the divisions will be determined at random
 
 Every three years, the league may realign divisions. The process for doing so is as follows:
 
--   The top four teams by points-scored (accumulated during the past three years) would each draft their respective division.
--   The draft type for this draft would be a snake draft.
+- The top four teams by points-scored (accumulated during the past three years) would each draft their respective division.
+- The draft type for this draft would be a snake draft.
 
 Each division leader would then get to choose their division's name and avatar image.
 
@@ -84,10 +84,10 @@ Each division leader would then get to choose their division's name and avatar i
 
 Once divisions have been decided, the regular season schedule will be configured by the commissioner. It will follow this format:
 
--   For the first three weeks of the regular season, each team will face a division rival.
-    -   For each team, two out of the three games will be divisional, with the third being a randomly-chosen non-divisional matchup.
--   For weeks 3 through 10, each team will play a team outside their division (only once per season).
--   For weeks 11 through 13, each team will face a division rival for the second time.
+- For the first three weeks of the regular season, each team will face a division rival.
+  - For each team, two out of the three games will be divisional, with the third being a randomly-chosen non-divisional matchup.
+- For weeks 3 through 10, each team will play a team outside their division (only once per season).
+- For weeks 11 through 13, each team will face a division rival for the second time.
 
 # Article V - Playoffs
 
@@ -95,12 +95,12 @@ Once divisions have been decided, the regular season schedule will be configured
 
 This league will implement a six-team Championship playoff bracket. The top six teams will be decided as follows:
 
--   1st Seed - Division winner with the best record among the division winners
--   2nd Seed - Division winner with the second best record among the division winners
--   3rd Seed - Division winner with the third best record among the division winners
--   4th Seed - Division winner with the worst record among the division winners
--   5th Seed - Wild card. Best overall record among remaining teams
--   6th Seed - Wild card. Most points scored in the regular season among remaining teams
+- 1st Seed - Division winner with the best record among the division winners
+- 2nd Seed - Division winner with the second best record among the division winners
+- 3rd Seed - Division winner with the third best record among the division winners
+- 4th Seed - Division winner with the worst record among the division winners
+- 5th Seed - Wild card. Best overall record among remaining teams
+- 6th Seed - Wild card. Most points scored in the regular season among remaining teams
 
 Record ties will be broken by points-scored over the regular season.
 
@@ -162,17 +162,17 @@ Teams that did make the playoffs will receive picks 7-12 in inverse order of whe
 
 Each team's roster will consist of the following positions:
 
--   1 QB
--   2 WR
--   2 RB
--   2 FLEX (WR/RB/TE)
--   1 TE
--   1 K
--   2 DL
--   2 LB
--   2 DB
--   1 FLEX (IDP)
--   27 BN
+- 1 QB
+- 2 WR
+- 2 RB
+- 2 FLEX (WR/RB/TE)
+- 1 TE
+- 1 K
+- 2 DL
+- 2 LB
+- 2 DB
+- 1 FLEX (IDP)
+- 27 BN
 
 Therefore, active roster sizes will max out at 42 spots.
 
@@ -181,7 +181,6 @@ Therefore, active roster sizes will max out at 42 spots.
 Each team will be allotted three IR spots. Players must meet one of the following criteria to be eligible for IR:
 
 - The player has been suspended from the league.
-- The player is being quarantined in connection with COVID-19.
 - The player has not reported/opted out of the season.
 
 ### Section 3 - Taxi Squad
@@ -200,7 +199,7 @@ This league will use FAAB blind bidding to acquire players currently on waiver.
 
 ### Section 2 - FAAB Amount
 
-Owners will be allotted $100 of FAAB at the start of the season to acquire players from waivers.
+Owners will be allotted \$100 of FAAB at the start of the season to acquire players from waivers.
 
 ### Section 3 - Post-game Waiver Clearance
 
@@ -230,9 +229,9 @@ The Commissioner will not make a substitution for a player who is declared OUT, 
 
 If an owner has more than one roster slot open with no viable substitutions available on their bench, the following penalty procedure will be carried out:
 
--   First offense: public shaming in league communication channels
--   Second offense: owner's team will receive 0 points for the week and a loss.
--   Third offense and up: possible expulsion from the league at commissioner's discretion.
+- First offense: public shaming in league communication channels
+- Second offense: owner's team will receive 0 points for the week and a loss.
+- Third offense and up: possible expulsion from the league at commissioner's discretion.
 
 # Article X - Scoring
 
@@ -330,16 +329,16 @@ In order for a proposed change to pass, the motion must be approved by a two-thi
 
 Any other changes not detailed above may be proposed at any time. The process for proposing and passing a change is as follows:
 
--   Any owner may make a motion at any time to amend this Constitution.
--   Another owner must second the motion.
--   The Commissioner must approve the motion and begin the voting process.
-    -   The Commissioner may veto a motion to amend the Constitution. This veto may be overturned if one-third of the league is in favor of moving forward (4/12 owners). If four owners make known their approval of the motion, the Commissioner is compelled to move forward.
--   The Commissioner will open a poll to the rest of the league within the Slack channel.
-    -   This poll will have a set voting period of seven days.
+- Any owner may make a motion at any time to amend this Constitution.
+- Another owner must second the motion.
+- The Commissioner must approve the motion and begin the voting process.
+  - The Commissioner may veto a motion to amend the Constitution. This veto may be overturned if one-third of the league is in favor of moving forward (4/12 owners). If four owners make known their approval of the motion, the Commissioner is compelled to move forward.
+- The Commissioner will open a poll to the rest of the league within the Slack channel.
+  - This poll will have a set voting period of seven days.
 
 Amendments to the Constitution must be passed by a two-thirds supermajority vote (8/12 votes in favor). Exceptions to this rule are the following:
 
--   Scoring (changes must be approved unanimously)
+- Scoring (changes must be approved unanimously)
 
 # Article XIII - History of Amendments
 
