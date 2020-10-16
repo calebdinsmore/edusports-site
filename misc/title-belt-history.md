@@ -14,10 +14,10 @@ aside:
   </div>
   <div class="item__content">
     <div class="item__header">
-      <h4>Kali Warriors</h4>
-      <p>Current Streak: 2</p>
-      <p>Last Owner: Tricksters</p>
-      <p>Next Opponent: <strong>Golden Eagles</strong></p>
+      <h4>Necessary Roughness</h4>
+      <p>Current Streak: 1</p>
+      <p>Last Owner: Kali Warriors</p>
+      <p>Next Opponent: <strong>Total Domination</strong></p>
     </div>
   </div>
 </div>
@@ -38,25 +38,27 @@ This is just a fun thing to add an extra bit of interest in regular matchups dur
 
 ## Belt History
 
-| Season | Week | Title Holder     |
-| ------ | ---- | ---------------- |
-| 2018   | 16   | Kali Warriors    |
-| 2019   | 1    | Kali Warriors    |
-| 2019   | 2    | Kali Warriors    |
-| 2019   | 3    | speed-demons     |
-| 2019   | 4    | Not Lucky        |
-| 2019   | 5    | Not Lucky        |
-| 2019   | 6    | Total domination |
-| 2019   | 7    | Total domination |
-| 2019   | 8    | Bling Bling      |
-| 2019   | 9    | speed-demons     |
-| 2019   | 10   | speed-demons     |
-| 2019   | 11   | speed-demons     |
-| 2019   | 12   | Tricksters       |
-| 2019   | 13   | Tricksters       |
-| 2019   | 14   | Tricksters       |
-| 2019   | 15   | Tricksters       |
-| 2019   | 16   | Tricksters       |
-| 2020   | 1    | Tricksters       |
-| 2020   | 2    | Kali Warriors    |
-| 2020   | 3    | Kali Warriors    |
+| Season | Week | Title Holder        |
+| ------ | ---- | ------------------- |
+| 2018   | 16   | Kali Warriors       |
+| 2019   | 1    | Kali Warriors       |
+| 2019   | 2    | Kali Warriors       |
+| 2019   | 3    | speed-demons        |
+| 2019   | 4    | Not Lucky           |
+| 2019   | 5    | Not Lucky           |
+| 2019   | 6    | Total domination    |
+| 2019   | 7    | Total domination    |
+| 2019   | 8    | Bling Bling         |
+| 2019   | 9    | speed-demons        |
+| 2019   | 10   | speed-demons        |
+| 2019   | 11   | speed-demons        |
+| 2019   | 12   | Tricksters          |
+| 2019   | 13   | Tricksters          |
+| 2019   | 14   | Tricksters          |
+| 2019   | 15   | Tricksters          |
+| 2019   | 16   | Tricksters          |
+| 2020   | 1    | Tricksters          |
+| 2020   | 2    | Kali Warriors       |
+| 2020   | 3    | Kali Warriors       |
+| 2020   | 4    | Kali Warriors       |
+| 2020   | 5    | Necessary Roughness |
