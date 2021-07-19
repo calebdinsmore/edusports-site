@@ -158,7 +158,7 @@ Teams that did make the playoffs will receive picks 7-12 in inverse order of whe
 
 ### Section 3 - Subsequent (Rookie) Draft Type
 
-Rookie drafts for seasons following the inaugural season will be linear drafts, as opposed to a snake or auction drafts.
+Rookie drafts for seasons following the inaugural season will be linear drafts, as opposed to snake or auction drafts.
 
 # Article VII - Roster
 
