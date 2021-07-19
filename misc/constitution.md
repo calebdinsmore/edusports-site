@@ -148,13 +148,17 @@ In the event that the medians are also identical, benched players will be pulled
 
 The draft order for the inaugural draft will be decided at random by the league hosting platform.
 
-### Section 2 - Subsequent Drafts
+### Section 2 - Subsequent (Rookie) Drafts
 
 Each year, the draft order will be determined by the results of the previous season.
 
 Teams that did not make the playoffs will receive picks 1-6 in inverse order of regular season standings (i.e. worst team picks first).
 
 Teams that did make the playoffs will receive picks 7-12 in inverse order of where they finished in the playoffs (i.e. Champion picks last).
+
+### Section 3 - Subsequent (Rookie) Draft Type
+
+Rookie drafts for seasons following the inaugural season will be a linear draft, as opposed to a snake or auction draft.
 
 # Article VII - Roster
 
