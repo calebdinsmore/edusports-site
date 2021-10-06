@@ -40,20 +40,20 @@ Both Sleeper and FPros have this game pretty close, and it could truly go either
 
 **Winner:** Winged Hussars
 
-## Total Domination vs. Red Warriors (Divisional)
+## The Death Eaters vs. Red Warriors (Divisional)
 
 ![](/post-assets/2019/2019-09-21/total_red.png){:.rounded.shadow}
 
-This game is fairly close, but I'm pretty sure Total Domination will come away with the win here. I think Sleeper's projection for Lev Bell is low, given that his volume is going to be through the roof as long as Darnold is out. Even if he doesn't find the end zone, if this week is anything like last week (when he got targeted 10 times through the air and rushed for 21 attempts), he'll put up points, or he'll be ground into the turf.
+This game is fairly close, but I'm pretty sure The Death Eaters will come away with the win here. I think Sleeper's projection for Lev Bell is low, given that his volume is going to be through the roof as long as Darnold is out. Even if he doesn't find the end zone, if this week is anything like last week (when he got targeted 10 times through the air and rushed for 21 attempts), he'll put up points, or he'll be ground into the turf.
 
 I see a lot of high point potential on Domination's side, and I'm just not as excited about the Warriors' prospects.
 
 | Team             | Power Ranking  | Sleeper Win %    | FPros Win %        |
 | ---------------- | -------------- | ---------------- | ------------------ |
-| Total Domination | `7`{:.success} | `61%`{:.success} | `54.4%`{:.success} |
+| The Death Eaters | `7`{:.success} | `61%`{:.success} | `54.4%`{:.success} |
 | Red Warriors     | `11`{:.error}  | `39%`{:.error}   | `45.6%`{:.error}   |
 
-**Winner:** Total Domination
+**Winner:** The Death Eaters
 
 ## Tricksters vs. Necessary Roughness (Divisional)
 

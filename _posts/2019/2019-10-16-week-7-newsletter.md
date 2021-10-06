@@ -53,7 +53,7 @@ After a devastating week during which every member of the High Flyers lost, they
 | Team                | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ |
 | Kali Warriors       | 5-6    | 11-0   | 4-7    | 7-4    | 9-2    | 8-3    |
-| Total Domination    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    |
+| The Death Eaters    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    |
 | Red Warriors        | 0-11   | 2-9    | 7-4    | 0-11   | 0-11   | 2-9    |
 | speed-demons        | 10-1   | 3-8    | 8-3    | 1-10   | 3-8    | 9-2    |
 | Tricksters          | 7-4    | 7-4    | 3-8    | 10-1   | 5-6    | 10-1   |
@@ -77,7 +77,7 @@ After a devastating week during which every member of the High Flyers lost, they
 | 4    | Pegasus             | 1058.40    | -1     | 70.98              | 2.84                    |
 | 5    | Tricksters          | 1055.96    | 0      | 73.42              | 2.44                    |
 | 6    | speed-demons        | 1009.50    | 1      | 119.88             | 46.46                   |
-| 7    | Total Domination    | 990.84     | -1     | 138.54             | 18.66                   |
+| 7    | The Death Eaters    | 990.84     | -1     | 138.54             | 18.66                   |
 | 8    | Detroit Wolverines  | 944.26     | 2      | 185.12             | 46.58                   |
 | 9    | Golden Eagles       | 932.42     | -1     | 196.96             | 11.84                   |
 | 10   | Necessary Roughness | 922.40     | 1      | 206.98             | 10.02                   |
@@ -98,7 +98,7 @@ Last week I said the gap between Pegasus and Kali Warriors could be bridged in a
 | 6    | Bling Bling         | 1307.86 |
 | 7    | Winged Hussars      | 1213.06 |
 | 8    | Pegasus             | 1211.70 |
-| 9    | Total Domination    | 1175.62 |
+| 9    | The Death Eaters    | 1175.62 |
 | 10   | Golden Eagles       | 1153.00 |
 | 11   | Necessary Roughness | 1130.66 |
 | 12   | Red Warriors        | 1075.70 |
@@ -109,7 +109,7 @@ Last week I said the gap between Pegasus and Kali Warriors could be bridged in a
 | ---- | ------------------- | ---------- | ------- | ------------- | ------ |
 | 1    | Pegasus             | 1058.40    | 1211.70 | 87.35%        | 1      |
 | 2    | Bling Bling         | 1129.38    | 1307.86 | 86.35%        | -1     |
-| 3    | Total Domination    | 990.84     | 1175.62 | 84.28%        | 0      |
+| 3    | The Death Eaters    | 990.84     | 1175.62 | 84.28%        | 0      |
 | 4    | Necessary Roughness | 922.40     | 1130.66 | 81.58%        | 2      |
 | 5    | Golden Eagles       | 932.42     | 1153.00 | 80.87%        | -1     |
 | 6    | Tricksters          | 1055.96    | 1330.36 | 79.37%        | 1      |
@@ -132,7 +132,7 @@ Pegasus's ascension to the #1 spot in managerial effectiveness is bitter-sweet; 
 | Kali Warriors       | #2   | `2`{:.success} | 4-2    | 44-22        | #3, 177ppg  | #1            | #3   |
 | Tricksters          | #3   | `2`{:.success} | 4-2    | 42-24        | #5, 176ppg  | #3            | #1   |
 | Pegasus             | #4   | `-2`{:.error}  | 4-2    | 40-26        | #4, 176ppg  | #6            | #8   |
-| Total Domination    | #5   | `1`{:.success} | 4-2    | 32-34        | #7, 165ppg  | #7            | #6   |
+| The Death Eaters    | #5   | `1`{:.success} | 4-2    | 32-34        | #7, 165ppg  | #7            | #6   |
 | speed-demons        | #6   | `1`{:.success} | 3-3    | 34-32        | #6, 168ppg  | #4            | #7   |
 | Not Lucky           | #7   | `-4`{:.error}  | 3-3    | 38-28        | #2, 179ppg  | #9            | #12  |
 | Golden Eagles       | #8   | `0`{:.warning} | 3-3    | 26-40        | #9, 155ppg  | #8            | #9   |
@@ -140,8 +140,6 @@ Pegasus's ascension to the #1 spot in managerial effectiveness is bitter-sweet; 
 | Necessary Roughness | #10  | `1`{:.success} | 1-5    | 21-45        | #10, 154ppg | #10           | #4   |
 | Winged Hussars      | #11  | `-2`{:.error}  | 1-5    | 25-41        | #11, 153ppg | #12           | #5   |
 | Red Warriors        | #12  | `0`{:.warning} | 1-5    | 11-55        | #12, 128ppg | #11           | #11  |
-
-
 
 ## Power Rankings Over Time
 
@@ -161,7 +159,7 @@ Pegasus's ascension to the #1 spot in managerial effectiveness is bitter-sweet; 
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,8,7,8,7,6,5],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -272,7 +270,7 @@ Here's a chart I thought I'd include as well. This is how the ROS Ranking of eac
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,4,6,7,7,7,7],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -408,7 +406,7 @@ They play the Red Warriors this week, which should be a win for them, but I'm an
 
 | Team Name        | Record | Division Rank | Overall Wins | Points For | PPG    |
 | ---------------- | ------ | ------------- | ------------ | ---------- | ------ |
-| Total Domination | 4-2    | 2             | 32-34        | 990.84     | 165.14 |
+| The Death Eaters | 4-2    | 2             | 32-34        | 990.84     | 165.14 |
 
 Trailing the four division leaders is Total domination, a team that has managed to remain in contention despite only barely outscoring the league average (+0.3 points) and scoring in the bottom half of the league in 5 out of 6 weeks.
 
@@ -430,7 +428,7 @@ This week they face the Detroit Wolverines, a team that has made themselves quit
 | --------- | ------ | ------------- | ------------ | ---------- | ------ |
 | Not Lucky | 3-3    | 2             | 38-28        | 1075.48    | 179.25 |
 
-After a very rough week and a trade that exchanged current contention for future potential, Not Lucky finds themselves  down in the bottom half of the power rankings for the first time since Week 1.
+After a very rough week and a trade that exchanged current contention for future potential, Not Lucky finds themselves down in the bottom half of the power rankings for the first time since Week 1.
 
 Their future this season is murkier now; their best shot at a playoff berth is a wild card seed, and their grasp on that is slipping as we enter the second half of the regular season. They play the Golden Eagles this week, which should mean another win for them, but it's still a long road to Week 14.
 
@@ -495,6 +493,3 @@ The Winged Hussars continue to be the unluckiest team this week.
 The Kali Warriors and Red Warriors are right where they belong.
 
 On to the next week!
-
-
-

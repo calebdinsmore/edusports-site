@@ -55,7 +55,7 @@ After Week 4, Cerberus continues to be the least-competitive division in the lea
 | 5    | Kali Warriors       | 681.60     |
 | 6    | speed-demons        | 677.70     |
 | 7    | Winged Hussars      | 648.20     |
-| 8    | Total Domination    | 632.10     |
+| 8    | The Death Eaters    | 632.10     |
 | 9    | Necessary Roughness | 599.34     |
 | 10   | Golden Eagles       | 588.22     |
 | 11   | Detroit Wolverines  | 574.52     |
@@ -77,7 +77,7 @@ Also, now that we've had a decent handful of games this season, the expert ROS c
 | Tricksters          | #4         | `-1`{:.error}  | 3-1    | 27-17        | #4, 173ppg  | #4            |
 | Kali Warriors       | #5         | `1`{:.success} | 2-2    | 27-17        | #5, 170ppg  | #3            |
 | speed-demons        | #6         | `-2`{:.error}  | 2-2    | 22-22        | #6, 169ppg  | #2            |
-| Total Domination    | #7         | `1`{:.success} | 2-2    | 19-25        | #8, 158ppg  | #7            |
+| The Death Eaters    | #7         | `1`{:.success} | 2-2    | 19-25        | #8, 158ppg  | #7            |
 | Golden Eagles       | #8         | `2`{:.success} | 2-2    | 12-32        | #10, 147ppg | #11           |
 | Winged Hussars      | #9         | `-2`{:.error}  | 1-3    | 21-23        | #7, 162ppg  | #12           |
 | Necessary Roughness | #10        | `1`{:.success} | 0-4    | 12-32        | #9, 150ppg  | #8            |
@@ -102,7 +102,7 @@ Also, now that we've had a decent handful of games this season, the expert ROS c
         "borderColor": "#EAD79E",
         "fill": false,
         "data":[4,4,8,7,8,7],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#C81D34",
@@ -220,9 +220,9 @@ The speed-demons find themselves perfectly mediocre. With an official record of 
 
 Despite their middling status, they're still in a good position to contend for a playoff berth.
 
-### Total Domination (7)
+### The Death Eaters (7)
 
-And now we get to the teams scoring below the league average. Total Domination has scored a modest 158 PPG, with a max of 165.10. Total Domination has a few solid weapons on their roster, but many of their other pieces have relatively low ceilings, so a boom week has been hard to come by. They still have a shot at playoff contention, being in the lowest scoring division, but the outlook doesn't look good if they keep up their current average.
+And now we get to the teams scoring below the league average. The Death Eaters has scored a modest 158 PPG, with a max of 165.10. The Death Eaters has a few solid weapons on their roster, but many of their other pieces have relatively low ceilings, so a boom week has been hard to come by. They still have a shot at playoff contention, being in the lowest scoring division, but the outlook doesn't look good if they keep up their current average.
 
 ### Golden Eagles (8)
 

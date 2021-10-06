@@ -33,24 +33,24 @@ I also used FantasyPros to provide additional data points for win probability/pl
 
 **Winner:** Kali Warriors
 
-## Upset of the Week - Total Domination vs. Necessary Roughness
+## Upset of the Week - The Death Eaters vs. Necessary Roughness
 
 ![](/post-assets/2019/2019-09-14/total_necessary.png){:.rounded.shadow}
 
-I'm calling this one my upset of the week. Sleeper's giving Necessary Roughness a 78% win probability, but I think Total Domination can pull one through.
+I'm calling this one my upset of the week. Sleeper's giving Necessary Roughness a 78% win probability, but I think The Death Eaters can pull one through.
 
 There seems to be a decent chance that Antonio Brown plays this Sunday, and if he does, you're looking at a very boom-or-bust outcome. Vegas has a huge 18.5-point line on the Patriots/Dolphins game with a 48.5-point over/under, giving the Pats an implied point total of about 34. There's a lot of fantasy potential there.
 
-*Disclaimer: I am not responsible for poor outcomes if you choose to play AB on Sunday.*
+_Disclaimer: I am not responsible for poor outcomes if you choose to play AB on Sunday._
 
 ### Projections
 
 | Team                     | Sleeper Win % | FPros Win % |
 | ------------------------ | ------------- | ----------- |
-| Total Domination (#9)    | 22%           | 46.2%       |
+| The Death Eaters (#9)    | 22%           | 46.2%       |
 | Necessary Roughness (#8) | 78%           | 53.8%       |
 
-**Winner:** Total Domination
+**Winner:** The Death Eaters
 
 ## Tricksters vs. speed-demons (Divisional)
 
@@ -75,11 +75,11 @@ It'll be close, but I think the demons will come away with another win.
 
 This is another matchup that's projected to be pretty close. I have to say, I think Lucky'll run away with it.
 
-There's a ton of point potential on Lucky's side, and Bling's biggest weapon, CMC, biffed it. So did Cam, but that's becoming a pattern. They keep insisting Cam's foot is *totally fine*, but I'm not so sure. Dude looked **terrible.** L. Kuechly's performance _might_ save Bling Bling, but it's not looking good.
+There's a ton of point potential on Lucky's side, and Bling's biggest weapon, CMC, biffed it. So did Cam, but that's becoming a pattern. They keep insisting Cam's foot is _totally fine_, but I'm not so sure. Dude looked **terrible.** L. Kuechly's performance _might_ save Bling Bling, but it's not looking good.
 
 If Goff can try to not suck this week, Lucky stands a great chance at taking the win.
 
-*Also*, I don't know what Sleeper's deal is. They still haven't registered L. Kuechly's safety, and I've confirmed that it has been credited to him by multiple stat sites. I might send support a message, because that's a whopping 10 points missing from the board.
+_Also_, I don't know what Sleeper's deal is. They still haven't registered L. Kuechly's safety, and I've confirmed that it has been credited to him by multiple stat sites. I might send support a message, because that's a whopping 10 points missing from the board.
 
 ### Projections
 

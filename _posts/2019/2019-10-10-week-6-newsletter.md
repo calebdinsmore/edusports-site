@@ -55,7 +55,7 @@ Total domination's and Kali Warriors' big performances weren't enough to carry C
 | 3    | Pegasus             | 940.26     | -2     | 28.92              | 14.70                   |
 | 4    | Kali Warriors       | 886.80     | 1      | 82.38              | 53.46                   |
 | 5    | Tricksters          | 869.86     | -1     | 99.32              | 16.94                   |
-| 6    | Total Domination    | 834.82     | 2      | 134.36             | 35.04                   |
+| 6    | The Death Eaters    | 834.82     | 2      | 134.36             | 35.04                   |
 | 7    | speed-demons        | 831.42     | -1     | 137.76             | 3.40                    |
 | 8    | Golden Eagles       | 796.68     | 2      | 172.50             | 34.74                   |
 | 9    | Winged Hussars      | 785.44     | -2     | 183.74             | 11.24                   |
@@ -79,7 +79,7 @@ I don't really value this stat too much, since it's skewed by anomalous boom wee
 | 6    | Pegasus             | 1074.56 |
 | 7    | Detroit Wolverines  | 1071.54 |
 | 8    | Winged Hussars      | 1025.54 |
-| 9    | Total Domination    | 980.30  |
+| 9    | The Death Eaters    | 980.30  |
 | 10   | Golden Eagles       | 976.06  |
 | 11   | Necessary Roughness | 932.90  |
 | 12   | Red Warriors        | 920.40  |
@@ -94,7 +94,7 @@ The unfortunate thing about the Red Warriors is that they not only have the lowe
 | ---- | ------------------- | ---------- | ------- | ------------- |
 | 1    | Bling Bling         | 969.18     | 1103.86 | 87.80%        |
 | 2    | Pegasus             | 940.26     | 1074.56 | 87.50%        |
-| 3    | Total Domination    | 834.82     | 980.30  | 85.16%        |
+| 3    | The Death Eaters    | 834.82     | 980.30  | 85.16%        |
 | 4    | Golden Eagles       | 796.68     | 976.06  | 81.62%        |
 | 5    | Kali Warriors       | 886.80     | 1097.38 | 80.81%        |
 | 6    | Necessary Roughness | 748.98     | 932.90  | 80.29%        |
@@ -116,7 +116,7 @@ The unfortunate thing about the Red Warriors is that they not only have the lowe
 | Not Lucky           | #3         | `0`{:.warning} | 3-2    | 37-18        | #2, 191ppg  | #4            |
 | Kali Warriors       | #4         | `1`{:.success} | 3-2    | 36-19        | #4, 177ppg  | #1            |
 | Tricksters          | #5         | `-1`{:.error}  | 3-2    | 32-23        | #5, 174ppg  | #5            |
-| Total Domination    | #6         | `1`{:.success} | 3-2    | 27-28        | #6, 167ppg  | #7            |
+| The Death Eaters    | #6         | `1`{:.success} | 3-2    | 27-28        | #6, 167ppg  | #7            |
 | speed-demons        | #7         | `-1`{:.error}  | 2-3    | 25-30        | #7, 166ppg  | #3            |
 | Golden Eagles       | #8         | `0`{:.warning} | 3-2    | 22-33        | #8, 159ppg  | #11           |
 | Winged Hussars      | #9         | `0`{:.warning} | 1-4    | 22-33        | #9, 157ppg  | #12           |
@@ -144,7 +144,7 @@ This week didn't see any dramatic changes in rank--just some light jostling amon
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,8,7,8,7,6],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -230,8 +230,8 @@ This week didn't see any dramatic changes in rank--just some light jostling amon
 
 Interesting notes on this chart:
 
--   The speed-demons have had the most erratic trajectory so far, starting the season at 8, rocketing to 1, and then slowly meandering back down to 7.
--   Pegasus has seen the most dramatic turn-around in power ranking from the start of the season to present, beginning the season at #10, rocketing up to #3, and cementing at #2, where they've sat for the past 3 weeks.
+- The speed-demons have had the most erratic trajectory so far, starting the season at 8, rocketing to 1, and then slowly meandering back down to 7.
+- Pegasus has seen the most dramatic turn-around in power ranking from the start of the season to present, beginning the season at #10, rocketing up to #3, and cementing at #2, where they've sat for the past 3 weeks.
 
 ## Team-by-Team Breakdown
 
@@ -364,4 +364,3 @@ The Golden Eagles retain their position as the luckiest team in the league, and 
 Not Lucky is slowly climbing his way back up from the depths of not-luckiness, so good on them!
 
 Anyway, on to the next week!
-

@@ -54,7 +54,7 @@ With Total domination taking the division lead in Cerberus, Kali Warriors fall d
 | Team                             | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   |
 | -------------------------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Kali Warriors                    | 5-6  | 11-0 | 4-7  | 7-4  | 9-2  | 7-4  | 6-5  | 10-1 | 10-1 | 6-5  | 3-8  |
-| Total Domination                 | 4-7  | 5-6  | 5-6  | 5-6  | 8-3  | 5-6  | 8-3  | 2-9  | 1-10 | 2-9  | 10-1 |
+| The Death Eaters                 | 4-7  | 5-6  | 5-6  | 5-6  | 8-3  | 5-6  | 8-3  | 2-9  | 1-10 | 2-9  | 10-1 |
 | Red Warriors `E`{:.error}        | 0-11 | 2-9  | 7-4  | 0-11 | 0-11 | 2-9  | 1-10 | 4-7  | 7-4  | 0-11 | 1-10 |
 | speed-demons                     | 10-1 | 3-8  | 8-3  | 1-10 | 3-8  | 9-2  | 7-4  | 5-6  | 6-5  | 8-3  | 9-2  |
 | Tricksters                       | 7-4  | 7-4  | 3-8  | 10-1 | 5-6  | 11-0 | 4-7  | 6-5  | 9-2  | 4-7  | 7-4  |
@@ -79,7 +79,7 @@ With Total domination taking the division lead in Cerberus, Kali Warriors fall d
 | 5    | Detroit Wolverines               | 1860.64    | `-1`{:.error}  | 112.32             | 8.84                    |
 | 6    | speed-demons                     | 1854.28    | `0`{:.warning} | 118.68             | 6.36                    |
 | 7    | Pegasus `D`{:.success}           | 1831.86    | `0`{:.warning} | 141.10             | 22.42                   |
-| 8    | Total Domination                 | 1760.84    | `1`{:.success} | 212.12             | 71.02                   |
+| 8    | The Death Eaters                 | 1760.84    | `1`{:.success} | 212.12             | 71.02                   |
 | 9    | Necessary Roughness `E`{:.error} | 1741.62    | `-1`{:.error}  | 231.34             | 19.22                   |
 | 10   | Winged Hussars `E`{:.error}      | 1652.00    | `0`{:.warning} | 320.96             | 89.62                   |
 | 11   | Golden Eagles `E`{:.error}       | 1618.38    | `0`{:.warning} | 354.58             | 33.62                   |
@@ -101,14 +101,14 @@ With Total domination claiming the division lead in Cerberus, the competition fo
 | 8    | Necessary Roughness `E`{:.error} | 2198.64 |
 | 9    | Winged Hussars `E`{:.error}      | 2186.84 |
 | 10   | Golden Eagles `E`{:.error}       | 2129.66 |
-| 11   | Total Domination                 | 2093.40 |
+| 11   | The Death Eaters                 | 2093.40 |
 | 12   | Red Warriors `E`{:.error}        | 1903.16 |
 
 ### Manager Ranking
 
 | Rank | Team Name                        | Points For | Max PF  | Manager Grade | Change |
 | ---- | -------------------------------- | ---------- | ------- | ------------- | ------ |
-| 1    | Total Domination                 | 1760.84    | 2093.40 | 84.11%        | 2      |
+| 1    | The Death Eaters                 | 1760.84    | 2093.40 | 84.11%        | 2      |
 | 2    | Pegasus `D`{:.success}           | 1831.86    | 2212.36 | 82.80%        | 0      |
 | 3    | Bling Bling                      | 1972.96    | 2407.96 | 81.93%        | -2     |
 | 4    | Tricksters                       | 1869.48    | 2300.12 | 81.28%        | 1      |
@@ -136,7 +136,7 @@ With Total domination claiming the division lead in Cerberus, the competition fo
 | Kali Warriors                    | #5   | `-3`{:.error}  | 6-5    | 78-43 | #3, 174ppg  | #2         | #4   | 35     |
 | Tricksters                       | #6   | `0`{:.warning} | 5-6    | 73-48 | #4, 170ppg  | #1         | #1   | 30     |
 | Pegasus `D`{:.success}           | #7   | `2`{:.success} | 7-4    | 64-57 | #7, 167ppg  | #6         | #11  | 23     |
-| Total Domination                 | #8   | `-1`{:.error}  | 7-4    | 55-66 | #8, 160ppg  | #8         | #6   | 23     |
+| The Death Eaters                 | #8   | `-1`{:.error}  | 7-4    | 55-66 | #8, 160ppg  | #8         | #6   | 23     |
 | Necessary Roughness `E`{:.error} | #9   | `-1`{:.error}  | 4-7    | 51-70 | #9, 158ppg  | #7         | #5   | 29     |
 | Winged Hussars `E`{:.error}      | #10  | `0`{:.warning} | 2-9    | 43-78 | #10, 150ppg | #10        | #3   | 18     |
 | Red Warriors `E`{:.error}        | #11  | `1`{:.success} | 3-8    | 24-97 | #12, 129ppg | #12        | #12  | 13     |
@@ -160,7 +160,7 @@ With Total domination claiming the division lead in Cerberus, the competition fo
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,8,7,8,7,6,5,5,5,8,7,8],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -270,7 +270,7 @@ Pegasus has climbed back up a bit to #7 this week, which is an interesting posit
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,4,6,7,7,7,7,7,6,8,9,8],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -364,10 +364,10 @@ It's not sophisticated; it doesn't factor in upcoming BYE weeks or consider the 
 
 Here's what it does right now:
 
--   Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
-    -   I'm truncating the scores by removing each team's lowest and highest score from the mean.
--   Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
--   After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
+- Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
+  - I'm truncating the scores by removing each team's lowest and highest score from the mean.
+- Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
+- After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
 
 Since it doesn't take future BYE weeks into account that would potentially factor into future upsets, it's obviously not a perfect simulation. But it **does** give you an idea for how difficult your coming schedule is.
 
@@ -377,7 +377,7 @@ Ordered by probability.
 
 Quick note:
 
--   **Change** is the change in each team's Playoff Chance compared to when this was run last week.
+- **Change** is the change in each team's Playoff Chance compared to when this was run last week.
 
 | Team                | 1      | 2      | 3      | 4      | 5      | 6      | Playoff Chance | Change              |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | -------------: | ------------------- |
@@ -386,7 +386,7 @@ Quick note:
 | Not Lucky           | 9.64%  | 0.24%  | 0.34%  | 0.10%  | 46.47% | 39.04% |         95.83% | `-2.19%`{:.error}   |
 | speed-demons        | 0.83%  | 39.53% | 33.87% | 17.87% | 0.00%  | 0.23%  |         92.31% | `2.87%`{:.success}  |
 | Kali Warriors       | 0.01%  | 9.58%  | 14.70% | 9.03%  | 4.23%  | 38.70% |         76.25% | `-11.13%`{:.error}  |
-| Total Domination    | 0.57%  | 8.97%  | 19.33% | 37.81% | 0.00%  | 0.00%  |         66.68% | `28.06%`{:.success} |
+| The Death Eaters    | 0.57%  | 8.97%  | 19.33% | 37.81% | 0.00%  | 0.00%  |         66.68% | `28.06%`{:.success} |
 | Detroit Wolverines  | 4.63%  | 0.65%  | 0.05%  | 0.00%  | 35.87% | 7.79%  |         48.99% | `-4.57%`{:.error}   |
 | Tricksters          | 0.00%  | 0.01%  | 0.81%  | 7.10%  | 0.00%  | 12.04% |         19.96% | `-13.22%`{:.error}  |
 | Red Warriors        | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%  |          0.00% | `0.00%`{:.warning}  |
@@ -407,7 +407,7 @@ Quick note:
 | -------------------- | ----------------------- |
 | **Kali Warriors**    | **Red Warriors**        |
 | 95.61%               | 4.39%                   |
-| **Total Domination** | **Detroit Wolverines**  |
+| **The Death Eaters** | **Detroit Wolverines**  |
 | 27.99%               | 72.01%                  |
 | **speed-demons**     | **Tricksters**          |
 | 41.90%               | 58.10%                  |
@@ -424,7 +424,7 @@ Quick note:
 | ---------------------- | ----------------------- |
 | **Kali Warriors**      | **Bling Bling**         |
 | 39.06%                 | 60.94%                  |
-| **Total Domination**   | **Red Warriors**        |
+| **The Death Eaters**   | **Red Warriors**        |
 | 87.88%                 | 12.12%                  |
 | **Tricksters**         | **Necessary Roughness** |
 | 77.31%                 | 22.70%                  |
@@ -526,6 +526,7 @@ If the Wolverines are the Cinderella story of this season, does that make Not Lu
 Despite the Wolverines' tremendous recent success, they're still on an uncertain path to the playoffs. Their best shot at a playoff seed is securing the #5 wildcard seed.
 
 Their biggest competition for that seed are:
+
 - Total domination (7-4)
   - DW probably wants TD to win their division, since DW is currently a game ahead of the Kali Warriors (6-5) and should be able to maintain that lead.
 - Kali Warriors
@@ -551,6 +552,7 @@ Their biggest competition for that seed are:
 It's been a tough past few weeks for the Tricksters. Right now, their outlook for the postseason is pretty grim.
 
 Here are their playoff scenarios:
+
 - They beat speed-demons this week, and the speed-demons lose to the Golden Eagles next week.
   - Winning this week is very doable, but it's difficult to count on the Golden Eagles winning right now.
 - Not Lucky gets the #5 seed, and the Tricksters bridge the 31.82-point gap between themselves and the Kali Warriors.

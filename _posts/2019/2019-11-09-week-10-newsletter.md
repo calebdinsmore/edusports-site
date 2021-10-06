@@ -49,7 +49,7 @@ You know you're a dominant division when every member currently would have a pla
 | Team                | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Kali Warriors       | 5-6    | 11-0   | 4-7    | 7-4    | 9-2    | 7-4    | 6-5    | 10-1   | 10-1   |
-| Total Domination    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    | 8-3    | 2-9    | 1-10   |
+| The Death Eaters    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    | 8-3    | 2-9    | 1-10   |
 | Red Warriors        | 0-11   | 2-9    | 7-4    | 0-11   | 0-11   | 2-9    | 1-10   | 4-7    | 7-4    |
 | speed-demons        | 10-1   | 3-8    | 8-3    | 1-10   | 3-8    | 9-2    | 7-4    | 5-6    | 6-5    |
 | Tricksters          | 7-4    | 7-4    | 3-8    | 10-1   | 5-6    | 11-0   | 4-7    | 6-5    | 9-2    |
@@ -74,7 +74,7 @@ You know you're a dominant division when every member currently would have a pla
 | 5    | Detroit Wolverines  | 1515.38    | `1`{:.success} | 157.78             | 37.20                   |
 | 6    | speed-demons        | 1508.14    | `-1`{:.error}  | 165.02             | 7.24                    |
 | 7    | Necessary Roughness | 1461.82    | `0`{:.warning} | 211.34             | 46.32                   |
-| 8    | Total Domination    | 1445.54    | `0`{:.warning} | 227.62             | 16.28                   |
+| 8    | The Death Eaters    | 1445.54    | `0`{:.warning} | 227.62             | 16.28                   |
 | 9    | Pegasus             | 1443.56    | `0`{:.warning} | 229.60             | 1.98                    |
 | 10   | Golden Eagles       | 1365.40    | `0`{:.warning} | 307.76             | 78.16                   |
 | 11   | Winged Hussars      | 1333.48    | `0`{:.warning} | 339.68             | 31.92                   |
@@ -96,14 +96,14 @@ Only movement in Points For this week was the Detroit Wolverines scoring just en
 | 8    | Golden Eagles       | 1795.58 |
 | 9    | Winged Hussars      | 1779.92 |
 | 10   | Pegasus             | 1750.04 |
-| 11   | Total Domination    | 1716.10 |
+| 11   | The Death Eaters    | 1716.10 |
 | 12   | Red Warriors        | 1619.44 |
 
 ### Manager Ranking
 
 | Rank | Team Name           | Points For | Max PF  | Manager Grade | Change |
 | ---- | ------------------- | ---------- | ------- | ------------- | ------ |
-| 1    | Total Domination    | 1445.54    | 1716.10 | 84.23%        | 2      |
+| 1    | The Death Eaters    | 1445.54    | 1716.10 | 84.23%        | 2      |
 | 2    | Bling Bling         | 1673.16    | 1986.76 | 84.22%        | -1     |
 | 3    | Pegasus             | 1443.56    | 1750.04 | 82.49%        | -1     |
 | 4    | Necessary Roughness | 1461.82    | 1825.10 | 80.10%        | 0      |
@@ -131,7 +131,7 @@ Only movement in Points For this week was the Detroit Wolverines scoring just en
 | speed-demons        | #5   | `1`{:.success} | 5-4    | 52-47 | #6, 168ppg  | #5         | #3   | 30     |
 | Not Lucky           | #6   | `2`{:.success} | 5-4    | 58-41 | #3, 178ppg  | #9         | #9   | 27     |
 | Necessary Roughness | #7   | `0`{:.warning} | 4-5    | 44-55 | #7, 162ppg  | #6         | #5   | 32     |
-| Total Domination    | #8   | `-3`{:.error}  | 5-4    | 43-56 | #8, 161ppg  | #8         | #6   | 24     |
+| The Death Eaters    | #8   | `-3`{:.error}  | 5-4    | 43-56 | #8, 161ppg  | #8         | #6   | 24     |
 | Pegasus             | #9   | `0`{:.warning} | 5-4    | 44-55 | #9, 160ppg  | #7         | #12  | 8      |
 | Golden Eagles       | #10  | `0`{:.warning} | 3-6    | 35-64 | #10, 152ppg | #10        | #11  | 23     |
 | Red Warriors        | #11  | `0`{:.warning} | 3-6    | 23-76 | #12, 135ppg | #11        | #10  | 14     |
@@ -155,7 +155,7 @@ Only movement in Points For this week was the Detroit Wolverines scoring just en
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,8,7,8,7,6,5,5,5,8],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -265,7 +265,7 @@ Total domination's departure from the top-6 sees Not Lucky welcomed back into th
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,4,6,7,7,7,7,7,6,8],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -359,10 +359,10 @@ It's not sophisticated; it doesn't factor in upcoming BYE weeks or consider the 
 
 Here's what it does right now:
 
--   Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
-    -   I'm truncating the scores by removing each team's lowest and highest score from the mean.
--   Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
--   After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
+- Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
+  - I'm truncating the scores by removing each team's lowest and highest score from the mean.
+- Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
+- After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
 
 Since it doesn't take future BYE weeks into account that would potentially factor into future upsets, it's obviously not a perfect simulation. But it **does** give you an idea for how difficult your coming schedule is.
 
@@ -372,7 +372,7 @@ Ordered by probability.
 
 Quick note:
 
--   **Change** is the change in each team's Playoff Chance compared to when this was run last week.
+- **Change** is the change in each team's Playoff Chance compared to when this was run last week.
 
 | Team                | 1      | 2      | 3      | 4      | 5      | 6      | Playoff Chance | Change              |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | -------------- | ------------------- |
@@ -383,7 +383,7 @@ Quick note:
 | Tricksters          | 0.12%  | 11.34% | 51.18% | 5.78%  | 3.27%  | 15.95% | 87.63%         | `4.45%`{:.success}  |
 | Detroit Wolverines  | 0.20%  | 0.58%  | 0.07%  | 0.00%  | 26.07% | 29.06% | 55.97%         | `16.86%`{:.success} |
 | speed-demons        | 0.03%  | 5.17%  | 21.38% | 2.56%  | 10.73% | 5.72%  | 45.59%         | `17.18%`{:.success} |
-| Total Domination    | 0.02%  | 1.34%  | 2.56%  | 0.49%  | 6.05%  | 0.00%  | 10.46%         | `-29.51%`{:.error}  |
+| The Death Eaters    | 0.02%  | 1.34%  | 2.56%  | 0.49%  | 6.05%  | 0.00%  | 10.46%         | `-29.51%`{:.error}  |
 | Golden Eagles       | 0.00%  | 0.00%  | 0.00%  | 4.82%  | 0.00%  | 0.00%  | 4.82%          | `-12.47%`{:.error}  |
 | Necessary Roughness | 0.00%  | 0.10%  | 2.06%  | 0.28%  | 0.81%  | 0.12%  | 3.37%          | `-13.33%`{:.error}  |
 | Winged Hussars      | 0.00%  | 0.00%  | 0.00%  | 0.02%  | 0.00%  | 0.00%  | 0.02%          | `-0.01%`{:.error}   |
@@ -391,10 +391,10 @@ Quick note:
 
 #### Observations
 
--   After losing a favored matchup against Pegasus, Total domination's chances at a playoff run dropped significantly. Without enough points to contend for the #6 wild card spot, their best shot is looking to be the 5th seed, which is itself unlikely.
--   On the other side, after a well-timed upset, Pegasus is looking good on top of their very poorly performing division. The 4th seed is looking well within their grasp.
--   I find it hilarious that despite the Winged Hussars being 1-8, they still have a .02% chance at winning their division. They would need to win the next four games, and Pegasus would need to lose the next four games for that to happen.
--   The Detroit Wolverines and the speed-demons will be the most interesting to watch these next four weeks; their playoff chances seem the most up-in-the-air.
+- After losing a favored matchup against Pegasus, Total domination's chances at a playoff run dropped significantly. Without enough points to contend for the #6 wild card spot, their best shot is looking to be the 5th seed, which is itself unlikely.
+- On the other side, after a well-timed upset, Pegasus is looking good on top of their very poorly performing division. The 4th seed is looking well within their grasp.
+- I find it hilarious that despite the Winged Hussars being 1-8, they still have a .02% chance at winning their division. They would need to win the next four games, and Pegasus would need to lose the next four games for that to happen.
+- The Detroit Wolverines and the speed-demons will be the most interesting to watch these next four weeks; their playoff chances seem the most up-in-the-air.
 
 ### Week 10 Matchups
 
@@ -404,7 +404,7 @@ Quick note:
 | 56.19%                  | 43.82%                 |
 | **Red Warriors**        | **Bling Bling**        |
 | 2.60%                   | 97.40%                 |
-| **Golden Eagles**       | **Total Domination**   |
+| **Golden Eagles**       | **The Death Eaters**   |
 | 35.97%                  | 64.03%                 |
 | **Tricksters**          | **Not Lucky**          |
 | 51.60%                  | 48.40%                 |
@@ -417,7 +417,7 @@ Quick note:
 
 | Team 1            | Team 2                  |
 | ----------------- | ----------------------- |
-| **Kali Warriors** | **Total Domination**    |
+| **Kali Warriors** | **The Death Eaters**    |
 | 83.30%            | 16.70%                  |
 | **Red Warriors**  | **Not Lucky**           |
 | 5.52%             | 94.48%                  |
@@ -436,7 +436,7 @@ Quick note:
 | -------------------- | ----------------------- |
 | **Kali Warriors**    | **Red Warriors**        |
 | 96.10%               | 3.90%                   |
-| **Total Domination** | **Detroit Wolverines**  |
+| **The Death Eaters** | **Detroit Wolverines**  |
 | 23.00%               | 77.00%                  |
 | **speed-demons**     | **Tricksters**          |
 | 30.77%               | 69.24%                  |
@@ -453,7 +453,7 @@ Quick note:
 | ---------------------- | ----------------------- |
 | **Kali Warriors**      | **Bling Bling**         |
 | 39.02%                 | 60.98%                  |
-| **Total Domination**   | **Red Warriors**        |
+| **The Death Eaters**   | **Red Warriors**        |
 | 86.33%                 | 13.67%                  |
 | **Tricksters**         | **Necessary Roughness** |
 | 77.44%                 | 22.56%                  |

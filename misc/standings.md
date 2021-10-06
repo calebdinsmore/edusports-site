@@ -5,6 +5,7 @@ titles:
 aside:
   toc: true
 ---
+
 <!--
 | LEGEND         |                                    |
 | -------------- | ---------------------------------- |
@@ -45,7 +46,7 @@ Divisions ordered by the sum of points scored by each team.
 
 | Rank | Team Name                 | Record | Points For |
 | ---- | ------------------------- | ------ | ---------- |
-| 1    | Total Domination          | 7-4    | 1760.84    |
+| 1    | The Death Eaters          | 7-4    | 1760.84    |
 | 2    | Kali Warriors             | 6-5    | 1912.70    |
 | 3    | Red Warriors `E`{:.error} | 3-8    | 1424.38    |
 
@@ -72,5 +73,3 @@ Divisions ordered by the sum of points scored by each team.
 | 1    | Pegasus `D`{:.success}      | 7-4    | 1831.86    |
 | 2    | Golden Eagles `E`{:.error}  | 3-8    | 1618.38    |
 | 3    | Winged Hussars `E`{:.error} | 2-9    | 1652.00    |
-
-

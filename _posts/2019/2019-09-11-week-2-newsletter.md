@@ -48,7 +48,7 @@ Here are some definitions for some potentially obscure columns.
 | Tricksters          | #5         | -3     | 1-0    | 7-4          | #5, 175ppg  | #8            |
 | Lucky               | #6         | 1      | 0-1    | 9-2          | #3, 191ppg  | #6            |
 | Golden Eagles       | #7         | 5      | 1-0    | 6-5          | #6, 170ppg  | #11           |
-| Total Domination    | #8         | -4     | 0-1    | 4-7          | #8, 165ppg  | #4            |
+| The Death Eaters    | #8         | -4     | 0-1    | 4-7          | #8, 165ppg  | #4            |
 | Necessary Roughness | #9         | 0      | 0-1    | 2-9          | #10, 160ppg | #5            |
 | Detroit Wolverines  | #10        | -4     | 0-1    | 1-10         | #11, 151ppg | #7            |
 | Winged Hussars      | #11        | -6     | 0-1    | 3-8          | #9, 163ppg  | #10           |
@@ -72,7 +72,7 @@ Here are some definitions for some potentially obscure columns.
         "borderColor": "#EAD79E",
         "fill": false,
         "data":[4,4,8],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#C81D34",
@@ -174,7 +174,7 @@ Sleeper had some late stat corrections come in that altered power rankings and l
 
 ### Power Ranking Changes
 
-- Total Domination
+- The Death Eaters
   - #9 => #8
 - Necessary Roughness
   - #8 => #9
@@ -187,7 +187,7 @@ Sleeper had some late stat corrections come in that altered power rankings and l
 
 The most noteworthy change here (and in PR) is to team overall records. Here are the changes to overall records:
 
-- Total Domination
+- The Death Eaters
   - 2-9 => 4-7
 - Winged Hussars
   - 4-7 => 3-8

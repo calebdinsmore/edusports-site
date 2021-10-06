@@ -51,7 +51,7 @@ Week 7 saw wins for every team in the Cerberus division! Despite trailing the le
 | Team                | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Kali Warriors       | 5-6    | 11-0   | 4-7    | 7-4    | 9-2    | 7-4    | 6-5    |
-| Total Domination    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    | 8-3    |
+| The Death Eaters    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    | 8-3    |
 | Red Warriors        | 0-11   | 2-9    | 7-4    | 0-11   | 0-11   | 2-9    | 1-10   |
 | speed-demons        | 10-1   | 3-8    | 8-3    | 1-10   | 3-8    | 9-2    | 7-4    |
 | Tricksters          | 7-4    | 7-4    | 3-8    | 10-1   | 5-6    | 11-0   | 4-7    |
@@ -75,7 +75,7 @@ Week 7 saw wins for every team in the Cerberus division! Despite trailing the le
 | 4    | Tricksters          | 1193.22    | `0`{:.warning} | 81.28              | 11.38                   |
 | 5    | speed-demons        | 1175.60    | `1`{:.success} | 98.90              | 17.62                   |
 | 6    | Pegasus             | 1173.22    | `-3`{:.error}  | 101.28             | 2.38                    |
-| 7    | Total Domination    | 1170.00    | `0`{:.warning} | 104.50             | 3.22                    |
+| 7    | The Death Eaters    | 1170.00    | `0`{:.warning} | 104.50             | 3.22                    |
 | 8    | Detroit Wolverines  | 1129.98    | `0`{:.warning} | 144.52             | 40.02                   |
 | 9    | Necessary Roughness | 1119.50    | `1`{:.success} | 155.00             | 10.48                   |
 | 10   | Golden Eagles       | 1058.26    | `-1`{:.error}  | 216.24             | 61.24                   |
@@ -96,7 +96,7 @@ Pegasus continues to plummet in Points For as the bye weeks expose some of the d
 | 6    | Bling Bling         | 1508.20 |
 | 7    | Winged Hussars      | 1407.20 |
 | 8    | Golden Eagles       | 1396.44 |
-| 9    | Total Domination    | 1385.58 |
+| 9    | The Death Eaters    | 1385.58 |
 | 10   | Pegasus             | 1384.44 |
 | 11   | Necessary Roughness | 1374.52 |
 | 12   | Red Warriors        | 1210.34 |
@@ -107,7 +107,7 @@ Pegasus continues to plummet in Points For as the bye weeks expose some of the d
 | ---- | ------------------- | ---------- | ------- | ------------- | ------ |
 | 1    | Pegasus             | 1173.22    | 1384.44 | 84.74%        | 0      |
 | 2    | Bling Bling         | 1274.50    | 1508.20 | 84.50%        | 0      |
-| 3    | Total Domination    | 1170.00    | 1385.58 | 84.44%        | 0      |
+| 3    | The Death Eaters    | 1170.00    | 1385.58 | 84.44%        | 0      |
 | 4    | Necessary Roughness | 1119.50    | 1374.52 | 81.45%        | 0      |
 | 5    | Kali Warriors       | 1204.60    | 1538.06 | 78.32%        | 2      |
 | 6    | Tricksters          | 1193.22    | 1524.94 | 78.25%        | 0      |
@@ -130,7 +130,7 @@ The Golden Eagles left over 100 additional points on their bench last week, and 
 | Kali Warriors       | #2   | `1`{:.success} | 4-3    | 49-28 | #3, 172ppg  | #1         | #3   | 33     |
 | Tricksters          | #3   | `-1`{:.error}  | 4-3    | 47-30 | #4, 170ppg  | #5         | #1   | 33     |
 | Not Lucky           | #4   | `3`{:.success} | 4-3    | 47-30 | #2, 181ppg  | #8         | #11  | 29     |
-| Total Domination    | #5   | `0`{:.warning} | 5-2    | 40-37 | #7, 167ppg  | #7         | #2   | 31     |
+| The Death Eaters    | #5   | `0`{:.warning} | 5-2    | 40-37 | #7, 167ppg  | #7         | #2   | 31     |
 | speed-demons        | #6   | `0`{:.warning} | 3-4    | 41-36 | #5, 168ppg  | #3         | #6   | 28     |
 | Pegasus             | #7   | `-3`{:.error}  | 4-3    | 41-36 | #6, 168ppg  | #6         | #12  | 24     |
 | Detroit Wolverines  | #8   | `1`{:.success} | 3-4    | 36-41 | #8, 161ppg  | #4         | #8   | 35     |
@@ -159,7 +159,7 @@ The Golden Eagles left over 100 additional points on their bench last week, and 
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,8,7,8,7,6,5,5],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -270,7 +270,7 @@ A few interesting observations about this chart this week:
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,4,6,7,7,7,7,7],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -436,7 +436,7 @@ Pegasus's wings might be made of wax; they certainly seem to be plummeting after
 | ------------------ | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
 | Detroit Wolverines | 3-4    | 3             | 36-41        | 1129.98    | 161.43 | -1.76              |
 
->Don't call it a comeback.
+> Don't call it a comeback.
 
 \- Aaron Cannon, Detroit Wolverines owner. Also LL Cool J
 
@@ -499,4 +499,3 @@ Total domination's string of recent successes seems to have been aided at least 
 Necessary Roughness is right where they should be. There's something so satisfying about seeing 33-44 in Total Record and 3-4 in Actual Record.
 
 On to the next week!
-

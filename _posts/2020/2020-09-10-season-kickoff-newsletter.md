@@ -42,7 +42,7 @@ Based on FantasyPros' expert aggregator, here's how our teams stack up after the
 | 8    | Speed-Demons        | 80    | B-    |
 | 9    | Pegasus             | 80    | B-    |
 | 10   | Winged Hussars      | 78    | C+    |
-| 11   | Total Domination    | 73    | C-    |
+| 11   | The Death Eaters    | 73    | C-    |
 | 12   | Golden Eagles       | 65    | D     |
 
 ### Notes
@@ -63,7 +63,7 @@ Based on FantasyPros' expert aggregator, here's how our teams stack up after the
 
 Last year, the Red Warriors played a key role in keeping Kali Warriors from a playoff berth in the home stretch of the season, so KW is out for revenge.
 
-### Total Domination vs. speed-demons
+### The Death Eaters vs. speed-demons
 
 **Projected Winner**
 
@@ -71,7 +71,7 @@ Last year, the Red Warriors played a key role in keeping Kali Warriors from a pl
 | ------------ | ------------- | ----------------- |
 | speed-demons | 85%           | 80.9%             |
 
-Not much to say here. speed-demons are the favorites by a wide margin, and a win here would even the score between themselves and Total Domination, who beat them in their sole matchup last season.
+Not much to say here. speed-demons are the favorites by a wide margin, and a win here would even the score between themselves and The Death Eaters, who beat them in their sole matchup last season.
 
 ### Tricksters vs. Necessary Roughness (Title Belt Match)
 

@@ -20,7 +20,7 @@ aside:
 
 | Season | Team             | Record |
 | ------ | ---------------- | ------ |
-| 2019   | Total Domination | 8-5    |
+| 2019   | The Death Eaters | 8-5    |
 
 ### The Resistance
 
@@ -70,7 +70,7 @@ aside:
 
 | Rank | Season | Team             | Score |
 | ---- | ------ | ---------------- | ----- |
-| 1    | 2020   | Total Domination | 83.3  |
+| 1    | 2020   | The Death Eaters | 83.3  |
 | 2    | 2019   | Red Warriors     | 91.18 |
 
 ---
@@ -83,7 +83,7 @@ aside:
 
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
-| Total Domination    | 3   | 2   | 1   | 0.67 | 440.62     | 483.84    |
+| The Death Eaters    | 3   | 2   | 1   | 0.67 | 440.62     | 483.84    |
 | Red Warriors        | 3   | 2   | 1   | 0.67 | 535.84     | 477.88    |
 | speed-demons        | 1   | 0   | 1   | 0.00 | 155.86     | 187.94    |
 | Tricksters          | 2   | 2   | 0   | 1.00 | 385.22     | 358.76    |
@@ -95,7 +95,7 @@ aside:
 | Golden Eagles       | 1   | 1   | 0   | 1.00 | 188.38     | 116.96    |
 | Winged Hussars      | 1   | 1   | 0   | 1.00 | 147.96     | 133.04    |
 
-## Total Domination
+## The Death Eaters
 
 ### Head to Head Records
 
@@ -120,7 +120,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 3   | 1   | 2   | 0.33 | 477.88     | 535.84    |
-| Total Domination    | 3   | 2   | 1   | 0.67 | 443.06     | 405.58    |
+| The Death Eaters    | 3   | 2   | 1   | 0.67 | 443.06     | 405.58    |
 | speed-demons        | 1   | 0   | 1   | 0.00 | 124.1      | 178.72    |
 | Tricksters          | 1   | 0   | 1   | 0.00 | 139.2      | 175.42    |
 | Necessary Roughness | 2   | 1   | 1   | 0.50 | 266.98     | 318.04    |
@@ -138,7 +138,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 1   | 0   | 1.00 | 187.94     | 155.86    |
-| Total Domination    | 2   | 0   | 2   | 0.00 | 306.86     | 359.42    |
+| The Death Eaters    | 2   | 0   | 2   | 0.00 | 306.86     | 359.42    |
 | Red Warriors        | 1   | 1   | 0   | 1.00 | 178.72     | 124.1     |
 | Tricksters          | 3   | 0   | 3   | 0.00 | 429.92     | 543.94    |
 | Necessary Roughness | 3   | 3   | 0   | 1.00 | 581.64     | 465.78    |
@@ -156,7 +156,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 2   | 0   | 2   | 0.00 | 358.76     | 385.22    |
-| Total Domination    | 1   | 0   | 1   | 0.00 | 135.76     | 174.16    |
+| The Death Eaters    | 1   | 0   | 1   | 0.00 | 135.76     | 174.16    |
 | Red Warriors        | 1   | 1   | 0   | 1.00 | 175.42     | 139.2     |
 | speed-demons        | 3   | 3   | 0   | 1.00 | 543.94     | 429.92    |
 | Necessary Roughness | 3   | 3   | 0   | 1.00 | 594.66     | 462.38    |
@@ -174,7 +174,7 @@ aside:
 | Opponent           | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------ | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors      | 1   | 1   | 0   | 1.00 | 172.92     | 169.94    |
-| Total Domination   | 1   | 0   | 1   | 0.00 | 148.22     | 149.62    |
+| The Death Eaters   | 1   | 0   | 1   | 0.00 | 148.22     | 149.62    |
 | Red Warriors       | 2   | 1   | 1   | 0.50 | 318.04     | 266.98    |
 | speed-demons       | 3   | 0   | 3   | 0.00 | 465.78     | 581.64    |
 | Tricksters         | 3   | 0   | 3   | 0.00 | 462.38     | 594.66    |
@@ -192,7 +192,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 1   | 0   | 1.00 | 167.08     | 157.88    |
-| Total Domination    | 1   | 1   | 0   | 1.00 | 235.3      | 134.1     |
+| The Death Eaters    | 1   | 1   | 0   | 1.00 | 235.3      | 134.1     |
 | Red Warriors        | 1   | 1   | 0   | 1.00 | 197.62     | 101.08    |
 | speed-demons        | 1   | 0   | 1   | 0.00 | 161.86     | 170.78    |
 | Tricksters          | 1   | 1   | 0   | 1.00 | 202.78     | 191.14    |
@@ -210,7 +210,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 0   | 1   | 0.00 | 151.68     | 213.3     |
-| Total Domination    | 1   | 0   | 1   | 0.00 | 119.52     | 156.52    |
+| The Death Eaters    | 1   | 0   | 1   | 0.00 | 119.52     | 156.52    |
 | Red Warriors        | 1   | 1   | 0   | 1.00 | 168.42     | 109.64    |
 | speed-demons        | 1   | 1   | 0   | 1.00 | 147.48     | 141.92    |
 | Tricksters          | 1   | 1   | 0   | 1.00 | 174.02     | 159.86    |
@@ -228,7 +228,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 1   | 0   | 1.00 | 201.1      | 173.98    |
-| Total Domination    | 1   | 1   | 0   | 1.00 | 157.72     | 154.94    |
+| The Death Eaters    | 1   | 1   | 0   | 1.00 | 157.72     | 154.94    |
 | Red Warriors        | 1   | 1   | 0   | 1.00 | 190.14     | 171.12    |
 | speed-demons        | 1   | 1   | 0   | 1.00 | 181.72     | 159.46    |
 | Tricksters          | 1   | 1   | 0   | 1.00 | 195.26     | 171.16    |
@@ -246,7 +246,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 1   | 0   | 1.00 | 186.48     | 165.88    |
-| Total Domination    | 1   | 1   | 0   | 1.00 | 146.36     | 141.44    |
+| The Death Eaters    | 1   | 1   | 0   | 1.00 | 146.36     | 141.44    |
 | Red Warriors        | 1   | 0   | 1   | 0.00 | 115.32     | 120.94    |
 | speed-demons        | 1   | 0   | 1   | 0.00 | 123.98     | 161.76    |
 | Tricksters          | 1   | 1   | 0   | 1.00 | 208.88     | 157.04    |
@@ -264,7 +264,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 0   | 1   | 0.00 | 116.96     | 188.38    |
-| Total Domination    | 1   | 0   | 1   | 0.00 | 126.92     | 132.18    |
+| The Death Eaters    | 1   | 0   | 1   | 0.00 | 126.92     | 132.18    |
 | Red Warriors        | 1   | 1   | 0   | 1.00 | 149        | 122.4     |
 | speed-demons        | 1   | 0   | 1   | 0.00 | 134.3      | 160.8     |
 | Tricksters          | 1   | 0   | 1   | 0.00 | 135.74     | 186.6     |
@@ -282,7 +282,7 @@ aside:
 | Opponent            | G   | W   | L   | W-L% | Team Score | Opp Score |
 | ------------------- | --- | --- | --- | ---- | ---------- | --------- |
 | Kali Warriors       | 1   | 0   | 1   | 0.00 | 133.04     | 147.96    |
-| Total Domination    | 1   | 0   | 1   | 0.00 | 150.5      | 152.58    |
+| The Death Eaters    | 1   | 0   | 1   | 0.00 | 150.5      | 152.58    |
 | Red Warriors        | 1   | 0   | 1   | 0.00 | 120.94     | 151.98    |
 | speed-demons        | 1   | 0   | 1   | 0.00 | 164.94     | 177.68    |
 | Tricksters          | 1   | 0   | 1   | 0.00 | 159.24     | 188.2     |

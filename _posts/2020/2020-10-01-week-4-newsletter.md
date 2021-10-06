@@ -14,7 +14,7 @@ Your regular weekly update, plus some very premature playoff odds!
 
 ### Title Belt
 
-In a tense contest of who-can-possibly-score-lower-than-**that**, **Kali Warriors** defended their title from **Total Domination**. They defend it from **Golden Eagles** in Week 4.
+In a tense contest of who-can-possibly-score-lower-than-**that**, **Kali Warriors** defended their title from **The Death Eaters**. They defend it from **Golden Eagles** in Week 4.
 
 ### Scoring by Division
 
@@ -44,7 +44,7 @@ With the lowest PF and Average PPG in the league, Cerberus leads the league in t
 | 9    | Kali Warriors       | 491.64     | -5     | 102.74             | 3.54                    |
 | 10   | Not Lucky           | 487.76     | -1     | 106.62             | 3.88                    |
 | 11   | Golden Eagles       | 385.18     | 1      | 209.20             | 102.58                  |
-| 12   | Total Domination    | 375.92     | -1     | 218.46             | 9.26                    |
+| 12   | The Death Eaters    | 375.92     | -1     | 218.46             | 9.26                    |
 
 ### Manager Ranking
 
@@ -55,7 +55,7 @@ Here's the current grade for each team based on how well they managed their star
 | 1    | Bling Bling         | 527.14     | 585.78 | 89.99%        | 100.00% | 0      |
 | 2    | Tricksters          | 594.38     | 715.22 | 83.10%        | 93.12%  | 0      |
 | 3    | Pegasus             | 535.04     | 651.64 | 82.11%        | 92.12%  | 0      |
-| 4    | Total Domination    | 375.92     | 461.98 | 81.37%        | 91.38%  | 6      |
+| 4    | The Death Eaters    | 375.92     | 461.98 | 81.37%        | 91.38%  | 6      |
 | 5    | Detroit Wolverines  | 544.48     | 692.28 | 78.65%        | 88.66%  | 1      |
 | 6    | speed-demons        | 503.92     | 646.04 | 78.00%        | 88.01%  | -2     |
 | 7    | Red Warriors        | 509.30     | 654.50 | 77.82%        | 87.83%  | 0      |
@@ -87,7 +87,7 @@ This week I've introduced another factor in the power ranking calculation: playo
 | Not Lucky           | #8         | `0`{:.warning} | 1-2    | 17-16        | #10, 163ppg | #8            |
 | Winged Hussars      | #9         | `2`{:.success} | 1-2    | 16-17        | #7, 166ppg  | #10           |
 | Necessary Roughness | #10        | `-1`{:.error}  | 0-3    | 13-20        | #8, 165ppg  | #2            |
-| Total Domination    | #11        | `-1`{:.error}  | 1-2    | 5-28         | #12, 125ppg | #9            |
+| The Death Eaters    | #11        | `-1`{:.error}  | 1-2    | 5-28         | #12, 125ppg | #9            |
 | Golden Eagles       | #12        | `0`{:.warning} | 0-3    | 5-28         | #11, 128ppg | #12           |
 
 ## Power Rankings Over Time
@@ -108,7 +108,7 @@ This week I've introduced another factor in the power ranking calculation: playo
         "borderColor": "#e6194B",
         "fill": false,
         "data":[12,6,10,11],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -195,7 +195,7 @@ This week I've introduced another factor in the power ranking calculation: playo
 Notes:
 
 - As predicted, Kali Warriors did not hold the top spot for very long at all. After a pathetic showing last week, they drop 3 spots and take the rightful crown as the worst undefeated team in the league.
-- Prior to the start of the season, Total Domination was projected by experts as the worst roster in the league, and after a hot start have made their way back down, closer to that projection.
+- Prior to the start of the season, The Death Eaters was projected by experts as the worst roster in the league, and after a hot start have made their way back down, closer to that projection.
 - Pegasus continues to baffle fantasy talking heads, rocketing up 4 spots to #3 despite having the 11th ranked roster.
 
 ## Playoff Odds
@@ -216,7 +216,7 @@ Well, since a trimmed mean and standard deviation would mean we'd be working wit
 | Winged Hussars      | 0.19%  | 0.80%  | 2.67%  | 2.25%  | 11.19% | 17.83% | 34.92%                       |
 | Not Lucky           | 0.01%  | 0.06%  | 0.12%  | 0.07%  | 3.80%  | 3.08%  | 7.13%                        |
 | Necessary Roughness | 0.00%  | 0.00%  | 0.02%  | 0.03%  | 0.98%  | 3.18%  | 4.21%                        |
-| Total Domination    | 0.000% | 0.000% | 0.000% | 0.014% | 0.003% | 0.000% | 0.017%                       |
+| The Death Eaters    | 0.000% | 0.000% | 0.000% | 0.014% | 0.003% | 0.000% | 0.017%                       |
 | Golden Eagles       | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%  | 0.00%                        |
 
 Columns 1-6 represent each seed and the given team's chances of getting that particular seed.
@@ -235,7 +235,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 86.50%                  | 13.50%                 |
 | **Winged Hussars**      | **Red Warriors**       |
 | 46.91%                  | 53.09%                 |
-| **Total Domination**    | **Pegasus**            |
+| **The Death Eaters**    | **Pegasus**            |
 | 8.67%                   | 91.33%                 |
 | **speed-demons**        | **Bling Bling**        |
 | 41.84%                  | 58.16%                 |
@@ -254,7 +254,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 14.70%                 | 85.30%                  |
 | **Winged Hussars**     | **Bling Bling**         |
 | 42.11%                 | 57.89%                  |
-| **Total Domination**   | **Tricksters**          |
+| **The Death Eaters**   | **Tricksters**          |
 | 3.70%                  | 96.30%                  |
 | **Red Warriors**       | **speed-demons**        |
 | 52.12%                 | 47.88%                  |
@@ -271,7 +271,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 7.94%                | 92.07%                  |
 | **Winged Hussars**   | **Detroit Wolverines**  |
 | 36.10%               | 63.90%                  |
-| **Total Domination** | **Necessary Roughness** |
+| **The Death Eaters** | **Necessary Roughness** |
 | 10.00%               | 90.00%                  |
 | **Red Warriors**     | **Tricksters**          |
 | 14.63%               | 85.37%                  |
@@ -286,7 +286,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 45.36%                  | 54.64%                 |
 | **Golden Eagles**       | **Red Warriors**       |
 | 6.81%                   | 93.19%                 |
-| **Winged Hussars**      | **Total Domination**   |
+| **Winged Hussars**      | **The Death Eaters**   |
 | 78.55%                  | 21.45%                 |
 | **Bling Bling**         | **Tricksters**         |
 | 24.62%                  | 75.38%                 |
@@ -301,7 +301,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | ------------------ | ----------------------- |
 | **Kali Warriors**  | **Bling Bling**         |
 | 32.33%             | 67.67%                  |
-| **Golden Eagles**  | **Total Domination**    |
+| **Golden Eagles**  | **The Death Eaters**    |
 | 52.77%             | 47.23%                  |
 | **Winged Hussars** | **Necessary Roughness** |
 | 51.42%             | 48.58%                  |
@@ -320,7 +320,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 47.72%               | 52.28%                  |
 | **Golden Eagles**    | **speed-demons**        |
 | 17.57%               | 82.43%                  |
-| **Total Domination** | **Detroit Wolverines**  |
+| **The Death Eaters** | **Detroit Wolverines**  |
 | 3.75%                | 96.25%                  |
 | **Red Warriors**     | **Pegasus**             |
 | 36.53%               | 63.47%                  |
@@ -339,7 +339,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 9.34%                | 90.66%                  |
 | **Winged Hussars**   | **Tricksters**          |
 | 25.96%               | 74.05%                  |
-| **Total Domination** | **Bling Bling**         |
+| **The Death Eaters** | **Bling Bling**         |
 | 8.31%                | 91.69%                  |
 | **Red Warriors**     | **Detroit Wolverines**  |
 | 7.97%                | 92.03%                  |
@@ -356,7 +356,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 8.61%                | 91.39%                  |
 | **Winged Hussars**   | **speed-demons**        |
 | 48.70%               | 51.30%                  |
-| **Total Domination** | **Not Lucky**           |
+| **The Death Eaters** | **Not Lucky**           |
 | 14.63%               | 85.37%                  |
 | **Bling Bling**      | **Detroit Wolverines**  |
 | 38.86%               | 61.14%                  |
@@ -373,7 +373,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | 3.53%                | 96.47%                  |
 | **Winged Hussars**   | **Pegasus**             |
 | 40.11%               | 59.89%                  |
-| **Total Domination** | **Red Warriors**        |
+| **The Death Eaters** | **Red Warriors**        |
 | 7.85%                | 92.15%                  |
 | **speed-demons**     | **Necessary Roughness** |
 | 53.55%               | 46.45%                  |
@@ -384,7 +384,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 
 | Team 1                  | Team 2               |
 | ----------------------- | -------------------- |
-| **Kali Warriors**       | **Total Domination** |
+| **Kali Warriors**       | **The Death Eaters** |
 | 86.46%                  | 13.54%               |
 | **Golden Eagles**       | **Winged Hussars**   |
 | 22.40%                  | 77.60%               |
@@ -405,7 +405,7 @@ Here's a breakdown of what odds the simulation gave for each team in each matchu
 | ---------------- | ------ | ------------- | ------------ | ---------- | ------ | ------------------ |
 | Kali Warriors    | 3-0    | 1             | 18-15        | 491.64     | 163.88 | -1.36              |
 | Red Warriors     | 2-1    | 2             | 16-17        | 509.30     | 169.77 | 4.52               |
-| Total Domination | 1-2    | 3             | 5-28         | 375.92     | 125.31 | -39.94             |
+| The Death Eaters | 1-2    | 3             | 5-28         | 375.92     | 125.31 | -39.94             |
 
 Not a lot to say here. As a division, Cerberus is pretty bad compared to the rest of the league, except for where it counts. 😎
 

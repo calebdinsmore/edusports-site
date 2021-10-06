@@ -47,7 +47,7 @@ If the playoff seeds were calculated today, here's who would make the cut.
 | Team                | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 |
 | ------------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | Kali Warriors       | 5-6    | 11-0   | 4-7    | 7-4    | 9-2    | 7-4    | 6-5    | 10-1   |
-| Total Domination    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    | 8-3    | 2-9    |
+| The Death Eaters    | 4-7    | 5-6    | 5-6    | 5-6    | 8-3    | 5-6    | 8-3    | 2-9    |
 | Red Warriors        | 0-11   | 2-9    | 7-4    | 0-11   | 0-11   | 2-9    | 1-10   | 4-7    |
 | speed-demons        | 10-1   | 3-8    | 8-3    | 1-10   | 3-8    | 9-2    | 7-4    | 5-6    |
 | Tricksters          | 7-4    | 7-4    | 3-8    | 10-1   | 5-6    | 11-0   | 4-7    | 6-5    |
@@ -72,7 +72,7 @@ If the playoff seeds were calculated today, here's who would make the cut.
 | 5    | speed-demons        | 1337.36    | `0`{:.warning} | 173.94             | 27.02                   |
 | 6    | Detroit Wolverines  | 1325.24    | `2`{:.success} | 186.06             | 12.12                   |
 | 7    | Necessary Roughness | 1310.76    | `2`{:.success} | 200.54             | 14.48                   |
-| 8    | Total Domination    | 1304.10    | `-1`{:.error}  | 207.20             | 6.66                    |
+| 8    | The Death Eaters    | 1304.10    | `-1`{:.error}  | 207.20             | 6.66                    |
 | 9    | Pegasus             | 1297.20    | `-3`{:.error}  | 214.10             | 6.90                    |
 | 10   | Golden Eagles       | 1248.44    | `0`{:.warning} | 262.86             | 48.76                   |
 | 11   | Winged Hussars      | 1174.24    | `0`{:.warning} | 337.06             | 74.20                   |
@@ -93,7 +93,7 @@ Pegasus falls three places in Points For after their third consecutive week fini
 | 7    | Golden Eagles       | 1636.22 |
 | 8    | Necessary Roughness | 1607.78 |
 | 9    | Winged Hussars      | 1585.04 |
-| 10   | Total Domination    | 1564.38 |
+| 10   | The Death Eaters    | 1564.38 |
 | 11   | Pegasus             | 1552.02 |
 | 12   | Red Warriors        | 1415.22 |
 
@@ -103,7 +103,7 @@ Pegasus falls three places in Points For after their third consecutive week fini
 | ---- | ------------------- | ---------- | ------- | ------------- | ------ |
 | 1    | Bling Bling         | 1511.30    | 1788.30 | 84.51%        | 1      |
 | 2    | Pegasus             | 1297.20    | 1552.02 | 83.58%        | -1     |
-| 3    | Total Domination    | 1304.10    | 1564.38 | 83.36%        | 0      |
+| 3    | The Death Eaters    | 1304.10    | 1564.38 | 83.36%        | 0      |
 | 4    | Necessary Roughness | 1310.76    | 1607.78 | 81.53%        | 0      |
 | 5    | Kali Warriors       | 1417.90    | 1778.32 | 79.73%        | 0      |
 | 6    | Tricksters          | 1364.38    | 1738.08 | 78.50%        | 0      |
@@ -126,7 +126,7 @@ Pegasus falls three places in Points For after their third consecutive week fini
 | Kali Warriors       | #2   | `0`{:.warning} | 5-3    | 59-29 | #2, 177ppg  | #1         | #2   | 39     |
 | Tricksters          | #3   | `0`{:.warning} | 4-4    | 53-35 | #4, 171ppg  | #3         | #1   | 36     |
 | Detroit Wolverines  | #4   | `4`{:.success} | 4-4    | 45-43 | #6, 166ppg  | #4         | #8   | 43     |
-| Total Domination    | #5   | `0`{:.warning} | 5-3    | 42-46 | #8, 163ppg  | #6         | #5   | 28     |
+| The Death Eaters    | #5   | `0`{:.warning} | 5-3    | 42-46 | #8, 163ppg  | #6         | #5   | 28     |
 | speed-demons        | #6   | `0`{:.warning} | 4-4    | 46-42 | #5, 167ppg  | #5         | #3   | 25     |
 | Necessary Roughness | #7   | `2`{:.success} | 4-4    | 41-47 | #7, 164ppg  | #8         | #6   | 35     |
 | Not Lucky           | #8   | `-4`{:.error}  | 4-4    | 50-38 | #3, 177ppg  | #10        | #11  | 21     |
@@ -153,7 +153,7 @@ Pegasus falls three places in Points For after their third consecutive week fini
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,8,7,8,7,6,5,5,5],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -241,8 +241,8 @@ Pegasus falls three places in Points For after their third consecutive week fini
 
 Two significant shake-ups happened after Week 8:
 
--   The Detroit Wolverines and Not Lucky switched places, with the Wolverines rocketing up 4 places to #4 and Not Lucky plummeting back down 4 places to #8.
--   Less dramatically, Necessary Roughness and Pegasus also switched places, with Necessary Roughness climbing 2 places to #7 and Pegasus dropping 2 down to #9.
+- The Detroit Wolverines and Not Lucky switched places, with the Wolverines rocketing up 4 places to #4 and Not Lucky plummeting back down 4 places to #8.
+- Less dramatically, Necessary Roughness and Pegasus also switched places, with Necessary Roughness climbing 2 places to #7 and Pegasus dropping 2 down to #9.
 
 Adding to that, Not Lucky and Pegasus are the first top-7 team since Week 5 to drop below #7. It's definitely been a rocky past few weeks for them.
 
@@ -266,7 +266,7 @@ The Red Warriors have managed to barely pull themselves out of the depths of #12
         "borderColor": "#e6194B",
         "fill": false,
         "data":[4,4,4,6,7,7,7,7,7,6],
-        "label":"Total Domination"
+        "label":"The Death Eaters"
       },
       {
         "borderColor": "#f58231",
@@ -352,7 +352,7 @@ The Red Warriors have managed to barely pull themselves out of the depths of #12
 
 ### Observations
 
--   Not Lucky has continued to sink, dropping to their lowest ROS Roster ranking of the season at #10. This largely comes as a result of Ekeler's diminished performance in the wake of Gordon's return (despite looking like a much better back for the Chargers), as well as Coleman's return hurting Breida's ROS outlook.
+- Not Lucky has continued to sink, dropping to their lowest ROS Roster ranking of the season at #10. This largely comes as a result of Ekeler's diminished performance in the wake of Gordon's return (despite looking like a much better back for the Chargers), as well as Coleman's return hurting Breida's ROS outlook.
 
 ## Playoff Probabilities - New Segment!
 
@@ -366,10 +366,10 @@ It's not sophisticated; it doesn't factor in upcoming BYE weeks or consider the 
 
 Here's what it does right now:
 
--   Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
-    -   I'm truncating the scores by removing each team's lowest and highest score from the mean.
--   Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
--   After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
+- Takes each team and computes a truncated mean and standard deviation for their point totals scored throughout the season.
+  - I'm truncating the scores by removing each team's lowest and highest score from the mean.
+- Goes through each week and simulates a matchup by generating a random score for each team in the matchup. This random score is generated assuming a normal distribution and is based on the truncated mean and standard deviation for the team.
+- After simulating the rest of the season, it calculates the playoff seeding for the results and records them.
 
 Since it doesn't take future BYE weeks into account that would potentially factor into future upsets, it's obviously not a perfect simulation. But it **does** give you an idea for how difficult your coming schedule is.
 
@@ -384,7 +384,7 @@ Ordered by probability.
 | Not Lucky           | 0.04%  | 0.04%  | 0.00%  | 0.00%  | 36.96% | 58.02% | 95.06%                       |
 | Tricksters          | 0.01%  | 11.59% | 53.00% | 6.92%  | 1.96%  | 9.45%  | 82.92%                       |
 | Pegasus             | 0.00%  | 2.31%  | 9.75%  | 70.58% | 0.01%  | 0.02%  | 82.67%                       |
-| Total Domination    | 0.09%  | 11.58% | 5.90%  | 0.62%  | 21.57% | 0.15%  | 39.91%                       |
+| The Death Eaters    | 0.09%  | 11.58% | 5.90%  | 0.62%  | 21.57% | 0.15%  | 39.91%                       |
 | Detroit Wolverines  | 0.01%  | 0.01%  | 0.01%  | 0.00%  | 23.77% | 16.08% | 39.88%                       |
 | speed-demons        | 0.00%  | 1.65%  | 12.22% | 2.69%  | 3.70%  | 7.78%  | 28.04%                       |
 | Golden Eagles       | 0.00%  | 0.08%  | 0.36%  | 16.88% | 0.02%  | 0.01%  | 17.35%                       |
@@ -400,7 +400,7 @@ Ordered by probability.
 | 78.87%                  | 21.13%                 |
 | **Red Warriors**        | **Detroit Wolverines** |
 | 2.74%                   | 97.27%                 |
-| **Total Domination**    | **Pegasus**            |
+| **The Death Eaters**    | **Pegasus**            |
 | 52.40%                  | 47.60%                 |
 | **Winged Hussars**      | **Tricksters**         |
 | 5.84%                   | 94.17%                 |
@@ -417,7 +417,7 @@ Ordered by probability.
 | 57.49%                  | 42.51%                 |
 | **Red Warriors**        | **Bling Bling**        |
 | 0.21%                   | 99.79%                 |
-| **Golden Eagles**       | **Total Domination**   |
+| **Golden Eagles**       | **The Death Eaters**   |
 | 38.26%                  | 61.74%                 |
 | **Tricksters**          | **Not Lucky**          |
 | 50.88%                  | 49.12%                 |
@@ -430,7 +430,7 @@ Ordered by probability.
 
 | Team 1            | Team 2                  |
 | ----------------- | ----------------------- |
-| **Kali Warriors** | **Total Domination**    |
+| **Kali Warriors** | **The Death Eaters**    |
 | 77.48%            | 22.52%                  |
 | **Red Warriors**  | **Not Lucky**           |
 | 2.21%             | 97.80%                  |
@@ -449,7 +449,7 @@ Ordered by probability.
 | -------------------- | ----------------------- |
 | **Kali Warriors**    | **Red Warriors**        |
 | 98.70%               | 1.30%                   |
-| **Total Domination** | **Detroit Wolverines**  |
+| **The Death Eaters** | **Detroit Wolverines**  |
 | 31.06%               | 68.94%                  |
 | **speed-demons**     | **Tricksters**          |
 | 34.13%               | 65.87%                  |
@@ -466,7 +466,7 @@ Ordered by probability.
 | ---------------------- | ----------------------- |
 | **Kali Warriors**      | **Bling Bling**         |
 | 30.45%                 | 69.55%                  |
-| **Total Domination**   | **Red Warriors**        |
+| **The Death Eaters**   | **Red Warriors**        |
 | 98.08%                 | 1.92%                   |
 | **Tricksters**         | **Necessary Roughness** |
 | 70.17%                 | 29.84%                  |
@@ -479,8 +479,8 @@ Ordered by probability.
 
 ### Observations
 
--   Pegasus is favored to take the High Flyers division, but it'll be interesting to see how that actually plays out. Their early success is obviously a big factor in their simulated success, so we'll have to see if they manage to get back on their feet for the home stretch. Looking at their upcoming schedule, the deciding matchup will likely be their face-off against each other in Week 12, assuming they both win against the Hussars (good assumption) and lose their tougher matchups (GE vs. KW and PEG vs. TRIC).
--   Division by Zero is going to be really interesting to watch. Bling Bling and Not Lucky are both projected to easily make the playoffs, and the Detroit Wolverines aren't ruled out either--they currently sit at around a 40% chance to make it in via a wild card seed. If they can pull off an upset against the Kali Warriors in Week 10 or against their division rivals in Weeks 11 and 13, that'll be huge for their chances.
+- Pegasus is favored to take the High Flyers division, but it'll be interesting to see how that actually plays out. Their early success is obviously a big factor in their simulated success, so we'll have to see if they manage to get back on their feet for the home stretch. Looking at their upcoming schedule, the deciding matchup will likely be their face-off against each other in Week 12, assuming they both win against the Hussars (good assumption) and lose their tougher matchups (GE vs. KW and PEG vs. TRIC).
+- Division by Zero is going to be really interesting to watch. Bling Bling and Not Lucky are both projected to easily make the playoffs, and the Detroit Wolverines aren't ruled out either--they currently sit at around a 40% chance to make it in via a wild card seed. If they can pull off an upset against the Kali Warriors in Week 10 or against their division rivals in Weeks 11 and 13, that'll be huge for their chances.
 
 ## Team-by-Team Breakdown
 
