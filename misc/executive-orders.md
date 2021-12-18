@@ -22,15 +22,19 @@ Should members of the league deem any of these unfair or undesired, overturning 
 
 # COVID-19 IR Eligibility
 
+> Initially expiring after the 2020 championship game, this policy has been extended to the 2021 championship game
+
 ### Details
 
 During the 2020 season, players that have opted out or have been quarantined due to COVID-19 are IR-eligible. At this time, the number of IR spots has not increased.
 
-#### Expires: After the 2020 Week 16 Championship
+#### Expires: After the 2021 Week 17 Championship
 
 ---
 
 # Game Postponement Insurance
+
+> Initially expiring after the 2020 championship game, this policy has been extended to the 2021 championship game
 
 ### Details
 
@@ -44,4 +48,4 @@ Because of the constantly changing scheduling of NFL games due to COVID, an insu
 
 This should hopefully provide enough flexibility for owners so that teams don't win or lose purely because of unforeseen game cancellations.
 
-#### Expires: After the 2020 Week 16 Championship
+#### Expires: After the 2021 Week 17 Championship
