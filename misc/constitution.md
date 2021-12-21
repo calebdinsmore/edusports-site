@@ -305,7 +305,7 @@ This article specifies scoring rules for both sides of the field. See Article X 
 | Solo Tackle              |  +1   |
 | Pass Defended            |  +1   |
 
-# Article XII - Creating New League Rules
+# Article XI - Creating New League Rules
 
 ### Section 1 - Disputes
 
@@ -340,7 +340,7 @@ Amendments to the Constitution must be passed by a two-thirds supermajority vote
 
 - Scoring (changes must be approved unanimously)
 
-# Article XIII - History of Amendments
+# Article XII - History of Amendments
 
 ### September 8th, 2020
 
