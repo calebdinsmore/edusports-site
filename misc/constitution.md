@@ -67,7 +67,7 @@ The deadline for trading is Week 10 of the regular season. After this point trad
 
 ### Section 1 - Configuration
 
-This league will consist of four divisions, each containing three teams.
+This league will consist of three divisions, each containing four teams.
 
 ### Section 2 - Determination
 
@@ -75,7 +75,7 @@ For the inaugural year of the league, the divisions will be determined at random
 
 Every three years, the league may realign divisions. The process for doing so is as follows:
 
-- The top four teams by points-scored (accumulated during the past three years) would each draft their respective division.
+- The top three teams by points-scored (accumulated during the past three years) would each draft their respective division.
 - The draft type for this draft would be a snake draft.
 
 Each division leader would then get to choose their division's name and avatar image.
@@ -84,10 +84,10 @@ Each division leader would then get to choose their division's name and avatar i
 
 Once divisions have been decided, the regular season schedule will be configured by the commissioner. It will follow this format:
 
-- For the first three weeks of the regular season, each team will face a division rival.
-  - For each team, two out of the three games will be divisional, with the third being a randomly-chosen non-divisional matchup.
-- For weeks 3 through 10, each team will play a team outside their division (only once per season).
-- For weeks 11 through 13, each team will face a division rival for the second time.
+- For the first four weeks of the regular season, each team will face a division rival.
+  - For each team, three out of the four games will be divisional, with the third being a randomly-chosen non-divisional matchup.
+- For weeks 5 through 10, each team will play a team outside their division (only once per season).
+- For weeks 11 through 14, each team will face a division rival for the second time for three out of the four games. The remaining non-divisional matchup will take place during one of those four weeks.
 
 # Article V - Playoffs
 
@@ -97,12 +97,14 @@ This league will implement a six-team Championship playoff bracket. The top six 
 
 - 1st Seed - Division winner with the best record among the division winners
 - 2nd Seed - Division winner with the second best record among the division winners
-- 3rd Seed - Division winner with the third best record among the division winners
-- 4th Seed - Division winner with the worst record among the division winners
-- 5th Seed - Wild card. Best overall record among remaining teams
+- 3rd Seed - Division winner with the worst record among the division winners
+- 4th Seed - Wild card. Best record among remaining teams
+- 5th Seed - Wild card. Best record against the League Median\* among remaining teams
 - 6th Seed - Wild card. Most points scored in the regular season among remaining teams
 
 Record ties will be broken by points-scored over the regular season.
+
+\*League Median is defined in Section 6 of this Article.
 
 ### Section 2 - Championship Bracket
 
@@ -141,6 +143,23 @@ This league uses fractional scoring, down to the hundredth decimal place, so sco
 In the event of a tie to the hundredth decimal place, the winner will be decided by taking the median of the individual scores of every player in each team's starting roster. The team with the higher median will be declared the winner.
 
 In the event that the medians are also identical, benched players will be pulled into the calculation, and the higher median will be victorious.
+
+### Section 6 - The League Median (5th Playoff Seed)
+
+Given the owners' decision to realign the league into three divisions, we needed to revise our playoff seeding rules.
+
+Most of the prior seeds are still present, with the exception of a change to the 5th seed, which is based on team records against the League Median.
+
+**Definition:** The League Median is calculated by taking the average of the middle two teams' scores for a given week. For example, if in one week the 6th highest-scoring team scored 178.54 points and the 7th highest-scoring team scored 170.48 points, the League Median for that week would be 174.51.
+
+During the regular season, each team's score will be compared to the League Median in an "extra matchup" of sorts, and the Commissioner will be responsible for recording and publishing those results.
+
+At the end of the season, the 5th seed will be determined by ranking unseeded teams by this set of tie-breaker criteria and selecting the winner:
+
+- Wins against the League Median
+- Points For
+- Divisional wins
+- Coin flip
 
 # Article VI - Determining Draft Order
 
