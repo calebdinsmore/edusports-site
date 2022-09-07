@@ -84,10 +84,9 @@ Each division leader would then get to choose their division's name and avatar i
 
 Once divisions have been decided, the regular season schedule will be configured by the commissioner. It will follow this format:
 
-- For the first four weeks of the regular season, each team will face a division rival.
-  - For each team, three out of the four games will be divisional, with the third being a randomly-chosen non-divisional matchup.
-- For weeks 5 through 10, each team will play a team outside their division (only once per season).
-- For weeks 11 through 14, each team will face a division rival for the second time for three out of the four games. The remaining non-divisional matchup will take place during one of those four weeks.
+- For the first three weeks of the regular season, each team will face a division rival.
+- For weeks 4 through 11, each team will play a team outside their division (only once per season).
+- For weeks 12 through 14, each team will face a division rival for the second time.
 
 # Article V - Playoffs
 
@@ -368,3 +367,10 @@ Amendments to the Constitution must be passed by a two-thirds supermajority vote
 ### September 8th, 2020
 
 - Amended **Article VII Section 2** to expand the criteria for IR eligibility to include circumstances surrounding COVID-19.
+
+### August 31, 2022
+
+- Amended constitution to reflect division realignment decisions made by the league.
+  - Amended **Article IV Sections 1-3** to reflect new three-division structure.
+  - Amended **Article V Section 1** with adjusted seeding, removing one divisional seed and replacing it with a League Median seed.
+  - Added **Article V Section 6**, which describes new League Median construct.
