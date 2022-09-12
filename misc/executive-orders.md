@@ -26,8 +26,9 @@ Should members of the league deem any of these unfair or undesired, overturning 
 
 In cases where a roster is illegal, and the owner has not taken steps to remedy the issue, the Commissioner has the authority to fix the roster at their discretion.
 
-If resolving the issue requires dropping players from the roster, the Commissioner will prioritize drops from the bench using the following criteria, with each point after the first used to break ties:
+If resolving the issue requires dropping players from the roster, the Commissioner will prioritize drops from the bench using the following criteria:
 
+- Non-rookies (i.e. not drafted this year)
 - Lowest `Roster %`
 - Lowest `Start %`
 - Coin flip
