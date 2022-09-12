@@ -20,6 +20,22 @@ Should members of the league deem any of these unfair or undesired, overturning 
 
 ---
 
+# Illegal Roster Corrections
+
+### Details
+
+In cases where a roster is illegal, and the owner has not taken steps to remedy the issue, the Commissioner has the authority to fix the roster at their discretion.
+
+If resolving the issue requires dropping players from the roster, the Commissioner will prioritize drops from the bench using the following criteria, with each point after the first used to break ties:
+
+- Lowest `Roster %`
+- Lowest `Start %`
+- Coin flip
+
+#### Expires: _Does not expire_
+
+---
+
 # COVID-19 IR Eligibility
 
 > Initially expiring after the 2020 championship game, this policy has been extended to the 2022 championship game
@@ -28,7 +44,7 @@ Should members of the league deem any of these unfair or undesired, overturning 
 
 During the 2020 season, players that have opted out or have been quarantined due to COVID-19 are IR-eligible. At this time, the number of IR spots has not increased.
 
-#### Expires: After the 2022 Week 17 Championship
+#### Expires: _After the 2022 Week 17 Championship_
 
 ---
 
@@ -48,4 +64,4 @@ Because of the constantly changing scheduling of NFL games due to COVID, an insu
 
 This should hopefully provide enough flexibility for owners so that teams don't win or lose purely because of unforeseen game cancellations.
 
-#### Expires: After the 2022 Week 17 Championship
+#### Expires: _After the 2022 Week 17 Championship_
