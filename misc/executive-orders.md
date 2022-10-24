@@ -20,6 +20,37 @@ Should members of the league deem any of these unfair or undesired, overturning 
 
 ---
 
+# Team Autopilot Protocol
+
+## Justification of Powers
+
+To justify the powers being exercised in this order, I'm citing the following from the league Constitution:
+
+**Article I Section 1**
+
+> The commissioner of the EduSports Fantasy Football League ("ESFFL") will be responsible for running the day-to-day operations of the ESFFL and ensuring a smooth, **fair**, and fun league experience.
+
+**Article IX Section 3**
+
+> If an owner has more than one roster slot open with no viable substitutions available on their bench, the following penalty procedure will be carried out:
+>
+> - First offense: public shaming in league communication channels
+> - Second offense: owner's team will receive 0 points for the week and a loss.
+> - **Third offense and up: possible expulsion from the league at commissioner's discretion.**
+
+### Details
+
+Pursuant to my responsibility to ensure a fair league experience and my authority to expel members at my discretion from the league as a consequence of prolonged inactivity/failure to maintain their team to a minimum standard, I'm issuing this order which lays out a new "autopilot" protocol to be used when members fail to demonstrate active participation during the course of the regular season.
+
+"Failure to demonstrate active participation" is a standard met if a majority of the following criteria are met:
+
+- An illegal roster has not been fixed for a week or more, requiring Commissioner intervention
+- No communication in league channels (messaging, voting in polls, etc.) for a month or more
+- Failure to respond to direct pings that require action multiple times
+- Commissioner intervention has been necessitated
+
+---
+
 # Illegal Roster Corrections
 
 ### Details
