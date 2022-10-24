@@ -16,11 +16,28 @@ The Commissioner of the EduSports Fantasy Football League ("ESFFL") will be resp
 
 Caleb Dinsmore
 
-# Article II - League Entry and Other Fees
+# Article II - League Entry and Owner Management
 
-### Section 1 - League Entry
+### Section 1 - League Entry Fee
 
 At this time there are no fees associated with joining the league.
+
+### Section 2 - Owner Replacement
+
+Should it be necessary to replace an owner, voluntarily or otherwise, the following process will be followed once a replacement has been found:
+
+1. The Commissioner will unassign the owner being replaced from their team and remove them from the league.
+2. The Commissioner will invite the replacement owner to the league and assign them to the vacant team.
+3. Any and all penalties imposed upon the prior owner will not apply to the new owner.
+
+### Section 3 - League Reentry After Expulsion
+
+An owner that has been expelled from the league is ineligible from reentry into the league until one full season (i.e. from a season's Week 1 kickoff until the conclusion of its championship game) has passed.
+
+**Examples**:
+
+- An owner is expelled from the league on Week 7 of the 2020 season. They are ineligible to reenter the league until after the 2021 season has concluded.
+- An owner is expelled from the league during the offseason prior to the 2021 season. They are ineligible to reenter the league until after the 2021 season has concluded.
 
 # Article III - Trading
 
@@ -235,25 +252,48 @@ When a player is dropped from a roster, that player is put on waivers for 2 days
 
 ### Section 1 - Mandatory Rostering
 
-Owners are forbidden from leaving more than one roster spot open (unfilled or filled by a player on their BYE or filled by a player not currently playing for an NFL team).
+Owners must ensure that their starting roster is legal for each week of the regular season.
 
-Owners are allotted one open roster spot before getting penalized (see Section 3 below).
+A "legal" starting roster is defined as one whose players are not on BYE and are each currently on a team's 53-man roster.
+
+- **Note:** This means that if a player carries certain designations (IR, PUP, SUS, etc.) they can not legally be on a starting roster, as these designations mean those players do not count toward a team's roster limits.
+
+Owners are allotted one open roster spot (i.e. a spot containing an illegal player) if they truly have no way of filling it without dropping players.
+
+Failure to comply with these rules will result in penalties being carried out (see Section 3).
 
 ### Section 2 - Commissioner Intervention
 
-If an owner has a starting roster slot open (either due to a bye week or other oversight) but has a backup player (not on bye or OUT) available on their bench, then the Commissioner must insert the available player in the open roster slot. If two eligible players exist, then the player with the highest projected point output for that week should be inserted.
+**Each week, the deadline by which owners must have legal rosters is Sunday at 10AM Pacific / 1PM Eastern (i.e. when the majority of the week's games begin).**
+
+For each week of the regular season, if an owner fails to ensure their starting roster is legal prior to the above deadline, the Commissioner must intervene.
+
+Intervention will be carried out using this process:
+
+1. For each illegal starting player,
+   1. compare the projected point totals for legal replacements whose games have not finished (i.e. players in TNF games and early Sunday morning London games are ineligible),
+   2. and replace the illegal starter with the legal replacement with the highest projected point total.
 
 This section exists to ensure that oversights do not unfairly advantage the opponent.
 
-The Commissioner will not make a substitution for a player who is declared OUT, regardless of when they were declared as such. The only exception is in cases when a roster is illegal, in which case substitutions must be made.
+The Commissioner will not make a substitution for a player who is declared OUT, regardless of when they were declared as such. The only exception is in cases when that player causes a roster to be illegal, in which case substitutions must be made.
 
-### Section 3 - No Substitutions Available
+### Section 3 - Illegal Roster Penalties
 
-If an owner has more than one roster slot open with no viable substitutions available on their bench, the following penalty procedure will be carried out:
+Each time the Commissioner needs to intervene to fix an owner's illegal roster, that instance of intervention will be recorded, and applicable penalties will be imposed based on how many times the owner has violated Article IX Section 1.
 
-- First offense: public shaming in league communication channels
-- Second offense: owner's team will receive 0 points for the week and a loss.
-- Third offense and up: possible expulsion from the league at Commissioner's discretion.
+The following table lays out the penalties imposed for each strike against the owner.
+
+| Number of Infractions | Penalties                                                                                                     |
+| --------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1st                   | Warning                                                                                                       |
+| 2nd                   | A one-spot penalty to the team's draft position in the next year's draft ("Draft Penalty")                    |
+| 3rd                   | A Draft Penalty and expulsion from the postseason (if the team would be seeded in the playoffs, they are not) |
+| 4th+                  | A Draft Penalty and expulsion from the league contingent on a replacement owner being found                   |
+
+#### Penalty Reset
+
+If an owner goes five consecutive weeks without an infraction, their penalty count is reset; however, any Draft Penalties or postseason expulsions incurred are still imposed.
 
 # Article X - Scoring
 
