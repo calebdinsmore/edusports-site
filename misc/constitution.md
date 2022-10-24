@@ -10,7 +10,7 @@ aside:
 
 ### Section 1 - Responsibilities
 
-The commissioner of the EduSports Fantasy Football League ("ESFFL") will be responsible for running the day-to-day operations of the ESFFL and ensuring a smooth, fair, and fun league experience.
+The Commissioner of the EduSports Fantasy Football League ("ESFFL") will be responsible for running the day-to-day operations of the ESFFL and ensuring a smooth, fair, and fun league experience.
 
 ### Section 2 - Current Commissioner
 
@@ -54,8 +54,8 @@ To overturn a trade, another owner in the league must put forward a motion to ov
 Once the owners involved in the trade have made a defense for why the trade should stand, a vote will be held amongst the owners in the league. For a trade to be overturned, the following criteria must be met:
 
 - A two-thirds supermajority of the league must agree that the trade should be overturned
-- The commissioner has approved the motion
-  - In cases when the commissioner is involved in the trade, this criterion need not be met.
+- The Commissioner has approved the motion
+  - In cases when the Commissioner is involved in the trade, this criterion need not be met.
 
 > It is worth emphasizing here that overturning trades should be a rare occurrence. Teams in a rebuild should be allowed to, for example, trade stud players away for future draft picks or future prospects.
 
@@ -82,7 +82,7 @@ Each division leader would then get to choose their division's name and avatar i
 
 ### Section 3 - Scheduling
 
-Once divisions have been decided, the regular season schedule will be configured by the commissioner. It will follow this format:
+Once divisions have been decided, the regular season schedule will be configured by the Commissioner. It will follow this format:
 
 - For the first three weeks of the regular season, each team will face a division rival.
 - For weeks 4 through 11, each team will play a team outside their division (only once per season).
@@ -119,7 +119,7 @@ Instead of a traditional first-round BYE where the top two seeds do not play, th
 
 This non-elimination match grants an advantage to the winner, where the winner can decide which of the two winners of the 3rd-6th seed first-round games they wish to compete against in the semi-finals.
 
-The winner of the non-elimination match must give the commissioner his/her decision no later than 48 hours prior to the first kickoff of Week 15.
+The winner of the non-elimination match must give the Commissioner his/her decision no later than 48 hours prior to the first kickoff of Week 15.
 
 The Semi-BYE is also in effect for the consolation bracket (see Section 4).
 
@@ -253,7 +253,7 @@ If an owner has more than one roster slot open with no viable substitutions avai
 
 - First offense: public shaming in league communication channels
 - Second offense: owner's team will receive 0 points for the week and a loss.
-- Third offense and up: possible expulsion from the league at commissioner's discretion.
+- Third offense and up: possible expulsion from the league at Commissioner's discretion.
 
 # Article X - Scoring
 
