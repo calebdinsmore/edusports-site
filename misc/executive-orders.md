@@ -20,11 +20,25 @@ Should members of the league deem any of these unfair or undesired, overturning 
 
 ---
 
+# Mandatory Rostering Enforcement and Penalties
+
+### Details
+
+In light of the frequency of **Article IX Section 2** roster corrections, several owners have expressed frustration with the current, more forgiving, system by which the Commissioner automatically fixes rosters for owners who have failed to ensure that their starting lineups are in line with the requirements laid out in **Article IX Section 1**.
+
+An [amendment](https://github.com/calebdinsmore/edusports-site/pull/3) has been proposed to impose harsher penalties for inattentive owners to ensure that undeserving owners don't find themselves in the playoffs despite doing little to maintain their team.
+
+Beginning now, the Commissioner will follow the procedure laid out in the proposed amendment and keep track of owners who fail to ensure their starting lineups meet the standard. Penalties will be imposed upon passage of the linked amendment or any future amendment that imposes penalties based on illegal starting rosters being left unfixed.
+
+#### Expires: _Upon passage of an amendment imposing illegal starting roster penalties_
+
+---
+
 # Illegal Roster Corrections
 
 ### Details
 
-In cases where a roster is illegal, and the owner has not taken steps to remedy the issue, the Commissioner has the authority to fix the roster at their discretion.
+In cases where a roster is illegal (i.e. locked by the league platform until players in illegal spots are fixed), and the owner has not taken steps to remedy the issue, the Commissioner has the authority to fix the roster at their discretion.
 
 If resolving the issue requires dropping players from the roster (after IR and Taxi slots have been filled), the Commissioner will prioritize drops from the bench using the following criteria:
 
