@@ -404,13 +404,19 @@ Amendments to the Constitution must be passed by a two-thirds supermajority vote
 
 # Article XII - History of Amendments
 
-### September 8th, 2020
+### September 8th, 2020 ([Commit](https://github.com/calebdinsmore/edusports-site/commit/cd74d11ce569daf327fda9ae2d1fc6794c5e6b09))
 
 - Amended **Article VII Section 2** to expand the criteria for IR eligibility to include circumstances surrounding COVID-19.
 
-### August 31, 2022
+### August 31, 2022 ([PR](https://github.com/calebdinsmore/edusports-site/pull/2/files))
 
 - Amended constitution to reflect division realignment decisions made by the league.
   - Amended **Article IV Sections 1-3** to reflect new three-division structure.
   - Amended **Article V Section 1** with adjusted seeding, removing one divisional seed and replacing it with a League Median seed.
   - Added **Article V Section 6**, which describes new League Median construct.
+
+### November 2, 2022 ([PR](https://github.com/calebdinsmore/edusports-site/pull/3/files))
+
+- Amended constitution to impose penalties on owners that fail to maintain a legal roster during each week of the regular season.
+  - Amended **Article II** to clarify processes around owner replacement/reinstatement.
+  - Amended **Article IX** to clarify legal roster requirements and add a penalty structure.
