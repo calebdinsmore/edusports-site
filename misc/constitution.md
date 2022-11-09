@@ -66,13 +66,11 @@ Another example of collusion would be two owners agreeing to trade players in co
 
 These types of trades break the spirit of the game and hurt the experience, so they will not be tolerated.
 
-To overturn a trade, another owner in the league must put forward a motion to overturn the trade and make a case for why a trade constitutes possible collusion or is so lopsided that it would severely impact parity. A motion must be seconded by another owner before a vote to overturn is held.
+To overturn a trade, another owner in the league must put forward a motion to overturn the trade and make a case for why a trade constitutes possible collusion or is so lopsided that it would severely impact parity. A motion must be seconded by another owner before the trade can be overturned.
 
-Once the owners involved in the trade have made a defense for why the trade should stand, a vote will be held amongst the owners in the league. For a trade to be overturned, the following criteria must be met:
+Once the owners involved in the trade have made a defense for why the trade should stand, the Commissioner will decide whether the trade should stand. The Commissioner may then overturn the trade or allow it to stand.
 
-- A two-thirds supermajority of the league must agree that the trade should be overturned
-- The Commissioner has approved the motion
-  - In cases when the Commissioner is involved in the trade, this criterion need not be met.
+If the Commissioner is party to the trade, instead a vote may be held. If at least half of the league is in favor of overturning, the trade must be overturned.
 
 > It is worth emphasizing here that overturning trades should be a rare occurrence. Teams in a rebuild should be allowed to, for example, trade stud players away for future draft picks or future prospects.
 
@@ -404,13 +402,19 @@ Amendments to the Constitution must be passed by a two-thirds supermajority vote
 
 # Article XII - History of Amendments
 
-### September 8th, 2020
+### September 8th, 2020 ([Commit](https://github.com/calebdinsmore/edusports-site/commit/cd74d11ce569daf327fda9ae2d1fc6794c5e6b09))
 
 - Amended **Article VII Section 2** to expand the criteria for IR eligibility to include circumstances surrounding COVID-19.
 
-### August 31, 2022
+### August 31, 2022 ([PR](https://github.com/calebdinsmore/edusports-site/pull/2/files))
 
 - Amended constitution to reflect division realignment decisions made by the league.
   - Amended **Article IV Sections 1-3** to reflect new three-division structure.
   - Amended **Article V Section 1** with adjusted seeding, removing one divisional seed and replacing it with a League Median seed.
   - Added **Article V Section 6**, which describes new League Median construct.
+
+### November 2, 2022 ([PR](https://github.com/calebdinsmore/edusports-site/pull/3/files))
+
+- Amended constitution to impose penalties on owners that fail to maintain a legal roster during each week of the regular season.
+  - Amended **Article II** to clarify processes around owner replacement/reinstatement.
+  - Amended **Article IX** to clarify legal roster requirements and add a penalty structure.
