@@ -7,38 +7,22 @@ aside:
 author: Caleb Dinsmore
 ---
 
-In light of the unprecedented tumult of the 2020 season, I'm creating this page to track my "executive orders," which are basically the decisions I make to ensure a good experience for owners in the league despite COVID's best efforts to thwart us.
+Initially created to enable me to quickly enact league policies without going through the Article XI amendment process during the famously tumultuous 2020 season, these "executive orders" are my way of addressing issues quickly to ensure a "smooth, fair, and fun league experience" (Article I). They cannot directly contradict the League Constitution in any way, so if any owner thinks one does, feel free to object to it in the Sleeper chat.
 
 ## Checks and Balances
 
-I'm creating this document instead of amending the league constitution, since these have taken effect without an official league vote out of necessity. Further, these EOs likely will only be relevant this season. Of course, these (or more generalized versions of them) can be officially codified into the Constitution at any point according to the process laid out in [Article XII Section 4](https://edusports.us/misc/constitution.html#article-xii---creating-new-league-rules) and would thus be permanently effective unless repealed.
+Typically, orders will have a set expiry in place–mainly to ensure these are regularly examined and renewed only if deemed necessary. Of course, these (or more generalized versions of them) can be officially codified into the Constitution at any point according to the process laid out in [Article XI Section 4](https://edusports.us/misc/constitution.html#article-xi---creating-new-league-rules) and would thus be permanently effective unless repealed.
 
 Should members of the league deem any of these unfair or undesired, overturning any one of them is simple:
 
 - If five owners express that an order should be overturned, it is revoked immediately. The reasoning behind this number is that five opposed would be all that's needed to halt the passage of an amendment to the Constitution.
 - The Commissioner may also revoke them at any time without the need for a vote.
 
----
-
-# Mandatory Rostering Enforcement and Penalties
+# Platform-Illegal Roster Corrections
 
 ### Details
 
-In light of the frequency of **Article IX Section 2** roster corrections, several owners have expressed frustration with the current, more forgiving, system by which the Commissioner automatically fixes rosters for owners who have failed to ensure that their starting lineups are in line with the requirements laid out in **Article IX Section 1**.
-
-An [amendment](https://github.com/calebdinsmore/edusports-site/pull/3) has been proposed to impose harsher penalties for inattentive owners to ensure that undeserving owners don't find themselves in the playoffs despite doing little to maintain their team.
-
-Beginning now, the Commissioner will follow the procedure laid out in the proposed amendment and keep track of owners who fail to ensure their starting lineups meet the standard. Penalties will be imposed upon passage of the linked amendment or any future amendment that imposes penalties based on illegal starting rosters being left unfixed.
-
-#### Expires: _Upon passage of an amendment imposing illegal starting roster penalties_
-
----
-
-# Illegal Roster Corrections
-
-### Details
-
-In cases where a roster is illegal (i.e. locked by the league platform until players in illegal spots are fixed), and the owner has not taken steps to remedy the issue, the Commissioner has the authority to fix the roster at their discretion.
+In cases where a roster is platform-illegal (i.e. locked by the league platform until players in illegal spots are fixed), and the owner has not taken steps to remedy the issue, the Commissioner has the authority to fix the roster at their discretion.
 
 If resolving the issue requires dropping players from the roster (after IR and Taxi slots have been filled), the Commissioner will prioritize drops from the bench using the following criteria:
 
@@ -51,32 +35,10 @@ If resolving the issue requires dropping players from the roster (after IR and T
 
 ---
 
-# COVID-19 IR Eligibility
+# ❌ Expired Executive Orders
 
-> Initially expiring after the 2020 championship game, this policy has been extended to the 2022 championship game
-
-### Details
-
-During the 2020 season, players that have opted out or have been quarantined due to COVID-19 are IR-eligible. At this time, the number of IR spots has not increased.
-
-#### Expires: _After the 2022 Week 17 Championship_
-
----
-
-# Game Postponement Insurance
-
-> Initially expiring after the 2020 championship game, this policy has been extended to the 2022 championship game
-
-### Details
-
-Because of the constantly changing scheduling of NFL games due to COVID, an insurance process is effective this season enabling an owner to confidently set their lineup with little fear of COVID completely losing them a game. Here's how it works:
-
-- If a player on an owner's roster is at risk of a postponed game, that owner may set that player's nickname to the name of a valid replacement on their roster.
-  - This must be done prior to first kickoff on Sunday of that week. Players that played earlier in the week (e.g. Thursday night) are ineligible unless the nickname was set prior to the kickoff of that player's game.
-- If a player in the owner's starting lineup does not play due to a postponed game, the following process takes place:
-  - If that player's nickname corresponds to a valid replacement on the owner's bench, the Commissioner will replace that starting player with the named replacement.
-  - If the player's nickname does not correspond to a valid replacement (or is missing entirely) and the official declaration of the game cancellation happened on Sunday or later, the Commissioner will replace that player with the valid replacement whose projected points total is the highest.
-
-This should hopefully provide enough flexibility for owners so that teams don't win or lose purely because of unforeseen game cancellations.
-
-#### Expires: _After the 2022 Week 17 Championship_
+| Order                                         | Details                                                    | Expired On  |
+| --------------------------------------------- | ---------------------------------------------------------- | ----------- |
+| COVID-19 IR Eligibility                       | Allowed players with COVID to occupy an IR slot            | End of 2022 |
+| Game Postponement Insurance                   | Allowed owners to insure players against game postponement | End of 2022 |
+| Mandatory Rostering Enforcement and Penalties | Added rostering penalties (now codified)                   | Mid-2022    |
