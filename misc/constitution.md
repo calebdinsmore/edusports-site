@@ -217,8 +217,9 @@ Therefore, active roster sizes will max out at 42 spots.
 
 Each team will be allotted three IR spots. Players must meet one of the following criteria to be eligible for IR:
 
+- The player is on a team's IR.
 - The player has been suspended from the league.
-- The player has not reported/opted out of the season.
+- The player has not reported or has opted out of the season.
 
 ### Section 3 - Taxi Squad
 
