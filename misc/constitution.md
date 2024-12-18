@@ -134,7 +134,7 @@ Instead of a traditional first-round BYE where the top two seeds do not play, th
 
 This non-elimination match grants an advantage to the winner, where the winner can decide which of the two winners of the 3rd-6th seed first-round games they wish to compete against in the semi-finals.
 
-The winner of the non-elimination match must give the Commissioner his/her decision no later than 48 hours prior to the first kickoff of Week 15.
+The winner of the non-elimination match must give the Commissioner his/her decision no later than 48 hours prior to the first kickoff of Week 16.
 
 The Semi-BYE is also in effect for the consolation bracket (see Section 4).
 
