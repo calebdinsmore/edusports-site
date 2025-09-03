@@ -41,7 +41,7 @@ If resolving the issue requires dropping players from the roster (after IR and T
 
 Last year, Sleeper quietly added a feature called Auto-Subs to the platform, which enables owners to specify bench players as automatic substitutions for starters if the starter ends up being inactive for their game. This prevents owners from having to jump onto the platform to hot-swap players that are designated Out right before kickoff.
 
-This setting has been toggled On for the league, with two Auto-Sub slots available. Designated substitute players must have a game time at the same time as or later than the starting player. For more information, see Sleeper's help article: https://support.sleeper.com/en/articles/9731991-how-does-player-autosubs-work
+This setting has been toggled On for the league, with two Auto-Sub slots available. Designated substitute players must have a game time at the same time as or later than the starting player. For more information, see Sleeper's [help article](https://support.sleeper.com/en/articles/9731991-how-does-player-autosubs-work)
 
 #### Expires: _Does not expire_
 
